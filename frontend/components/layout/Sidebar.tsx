@@ -90,7 +90,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ role = "entrepreneur" }) => {
       </div>
 
       <div className="rounded-xl border border-blue-100 bg-blue-50/50 p-3.5 text-xs text-slate-600">
-        <span className="font-semibold text-blue-900 block mb-1">SIH Problem Statement 130</span>
+        <span className="font-semibold text-blue-900 block mb-1">Business Compliance Hub</span>
         <p className="text-[11px] leading-relaxed text-slate-500">
           Unified Intelligent Single-Window Clearance & Compliance Automation.
         </p>
