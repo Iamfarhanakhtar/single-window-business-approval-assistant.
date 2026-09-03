@@ -1,0 +1,16 @@
+{
+  "name": "sih-problem-130-root",
+  "version": "1.0.0",
+  "description": "Bharat Single-Window Compliance & Approval Solution (SIH Problem Statement 130)",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && .venv/bin/python -m uvicorn app.main:app --port 8000 --reload",
+    "install:all": "cd frontend && npm install",
+    "test:backend": "cd backend && .venv/bin/python -m pytest tests/ -v",
+    "seed": "cd backend && .venv/bin/python -m app.database.seed_data"
+  },
+  "keywords": ["sih", "hackathon", "fastapi", "nextjs", "compliance", "single-window"],
+  "author": "SIH Team",
+  "license": "MIT"
+}
