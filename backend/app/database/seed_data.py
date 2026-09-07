@@ -76,7 +76,7 @@ def seed_database():
         default_pwd = get_password_hash("password123")
 
         user_entrepreneur = User(
-            email="entrepreneur@abcfoods.com",
+            email="entrepreneur@pragatifoods.com",
             hashed_password=default_pwd,
             full_name="Rajesh Sharma",
             phone_number="+91-9876543210",
@@ -190,11 +190,11 @@ def seed_database():
         db.add_all([req1, req2, req3])
         db.flush()
 
-        # 5. Create Business (Fictional Demo Entity: ABC Foods Pvt Ltd)
+        # 5. Create Business (Demo Entity: Pragati Foods Pvt Ltd)
         business = Business(
             user_id=user_entrepreneur.id,
-            legal_name="ABC Foods Private Limited",
-            trade_name="ABC Organics",
+            legal_name="Pragati Foods Private Limited",
+            trade_name="Pragati Organics",
             registration_type="Private Limited Company",
             pan_number="AAACA1234F",
             gstin="09AAACA1234F1Z5"
@@ -272,8 +272,8 @@ def seed_database():
             business_id=business.id,
             application_id=application.id,
             document_type="Certificate of Incorporation",
-            file_name="COI_ABC_Foods.pdf",
-            file_path="/uploads/docs/coi_abc_foods.pdf",
+            file_name="COI_Pragati_Foods.pdf",
+            file_path="/uploads/docs/coi_pragati_foods.pdf",
             file_size_bytes=1048576,
             mime_type="application/pdf",
             is_verified=True,
@@ -376,7 +376,7 @@ def seed_database():
         db.add(notif)
 
         db.commit()
-        print("Database successfully seeded with synthetic demo dataset for 'ABC Foods Pvt Ltd'.")
+        print("Database successfully seeded with synthetic demo dataset for 'Pragati Foods Pvt Ltd'.")
 
     except Exception as e:
         db.rollback()

@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 import { Sidebar } from "@/components/layout/Sidebar";
 import { Card } from "@/components/ui/Card";
 import { DocumentCard } from "@/components/domain/DocumentCard";
+import { UploadDocumentModal } from "@/components/domain/UploadDocumentModal";
 import { Button } from "@/components/ui/Button";
 import { Input } from "@/components/ui/Input";
 import { LoadingState } from "@/components/ui/LoadingState";
@@ -25,13 +26,14 @@ import {
 export default function DocumentsPage() {
   const [docs, setDocs] = useState<DocumentItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
 
   // Document AI Interactive Pre-Validation Form State
   const [showValidator, setShowValidator] = useState(false);
   const [docType, setDocType] = useState("Fire Safety NOC");
-  const [expectedEntity, setExpectedEntity] = useState("ABC Foods Pvt Ltd");
+  const [expectedEntity, setExpectedEntity] = useState("Pragati Foods Pvt Ltd");
   const [sampleText, setSampleText] = useState(
-    `GOVERNMENT OF UTTAR PRADESH\nUTTAR PRADESH FIRE SERVICE HEADQUARTERS, LUCKNOW\n\nPROVISIONAL FIRE SAFETY NO OBJECTION CERTIFICATE\nCertificate Number: UP-FIRE-NOC-2026-88421\nIssue Date: 2026-01-15\nExpiry Date: 2029-01-14\n\nEnterprise Name: ABC Foods Private Limited\nAuthority: Office of Chief Fire Officer, Lucknow\n\nApplicant PAN: AAACB1234F\nAadhaar of Nominated Occupier: 4582 9182 3019\nBank Account Reference: 98124500129381`
+    `GOVERNMENT OF UTTAR PRADESH\nUTTAR PRADESH FIRE SERVICE HEADQUARTERS, LUCKNOW\n\nPROVISIONAL FIRE SAFETY NO OBJECTION CERTIFICATE\nCertificate Number: UP-FIRE-NOC-2026-88421\nIssue Date: 2026-01-15\nExpiry Date: 2029-01-14\n\nEnterprise Name: Pragati Foods Private Limited\nAuthority: Office of Chief Fire Officer, Lucknow\n\nApplicant PAN: AAACB1234F\nAadhaar of Nominated Occupier: 4582 9182 3019\nBank Account Reference: 98124500129381`
   );
   const [valResult, setValResult] = useState<DocumentValidationResponse | null>(null);
   const [isValLoading, setIsValLoading] = useState(false);
@@ -82,14 +84,25 @@ export default function DocumentsPage() {
               Reusable enterprise credentials and 100% local privacy-safe pre-validation
             </p>
           </div>
-          <Button
-            size="sm"
-            onClick={() => setShowValidator(!showValidator)}
-            className="flex items-center gap-1.5"
-          >
-            <Sparkles className="h-3.5 w-3.5" />
-            {showValidator ? "Hide Pre-Validator" : "Test Document AI Pre-Validation"}
-          </Button>
+          <div className="flex items-center gap-3">
+            <Button
+              size="sm"
+              onClick={() => setIsUploadModalOpen(true)}
+              className="flex items-center gap-1.5"
+            >
+              <Upload className="h-3.5 w-3.5" />
+              Upload Document
+            </Button>
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => setShowValidator(!showValidator)}
+              className="flex items-center gap-1.5"
+            >
+              <Sparkles className="h-3.5 w-3.5" />
+              {showValidator ? "Hide Pre-Validator" : "Test Document AI Pre-Validation"}
+            </Button>
+          </div>
         </div>
 
         {/* Interactive Document AI Pre-Validation Panel */}
@@ -120,7 +133,7 @@ export default function DocumentsPage() {
                   <Input
                     value={expectedEntity}
                     onChange={(e) => setExpectedEntity(e.target.value)}
-                    placeholder="e.g. ABC Foods Pvt Ltd"
+                    placeholder="e.g. Pragati Foods Pvt Ltd"
                   />
                 </div>
               </div>
@@ -240,6 +253,17 @@ export default function DocumentsPage() {
             ))}
           </div>
         )}
+
+        {/* Upload Document Modal */}
+        <UploadDocumentModal
+          isOpen={isUploadModalOpen}
+          onClose={() => setIsUploadModalOpen(false)}
+          onSuccess={(newDoc) => {
+            setDocs((prev) => [newDoc, ...prev]);
+          }}
+          businessId="biz-001"
+          applicationId="app-001"
+        />
       </main>
     </div>
   );

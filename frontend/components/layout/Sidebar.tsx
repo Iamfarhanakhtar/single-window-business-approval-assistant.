@@ -10,7 +10,6 @@ import {
   CheckSquare,
   FolderKanban,
   FileText,
-  RefreshCw,
   Gift,
   Bot,
   BarChart3,
@@ -35,7 +34,6 @@ export const Sidebar: React.FC<SidebarProps> = ({ role = "entrepreneur" }) => {
     { href: "/approvals", label: "Approval Roadmap", icon: CheckSquare },
     { href: "/applications", label: "My Applications", icon: FolderKanban },
     { href: "/documents", label: "Document Vault", icon: FileText },
-    { href: "/renewals", label: "Renewals & Validity", icon: RefreshCw },
     { href: "/incentives", label: "Eligible Incentives", icon: Gift },
     { href: "/assistant", label: "AI Regulatory Assistant", icon: Bot },
   ];

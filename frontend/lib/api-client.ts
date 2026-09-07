@@ -27,7 +27,7 @@ function getMockFallback<T>(endpoint: string, options: RequestOptions = {}): T {
 
   // Auth: login
   if (cleanEndpoint.startsWith("/auth/login")) {
-    let email = "entrepreneur@abcfoods.com";
+    let email = "entrepreneur@pragatifoods.com";
     if (options.body) {
       try {
         const parsed = JSON.parse(options.body as string);
@@ -36,13 +36,13 @@ function getMockFallback<T>(endpoint: string, options: RequestOptions = {}): T {
         // ignore parse error
       }
     }
-    const mockUser = MOCK_USERS[email] || MOCK_USERS["entrepreneur@abcfoods.com"];
+    const mockUser = MOCK_USERS[email] || MOCK_USERS["entrepreneur@pragatifoods.com"];
     return mockUser.auth as unknown as T;
   }
 
   // Auth: me
   if (cleanEndpoint.startsWith("/auth/me")) {
-    let email = "entrepreneur@abcfoods.com";
+    let email = "entrepreneur@pragatifoods.com";
     if (typeof window !== "undefined") {
       const stored = localStorage.getItem("sih_user");
       if (stored) {
@@ -54,7 +54,7 @@ function getMockFallback<T>(endpoint: string, options: RequestOptions = {}): T {
         }
       }
     }
-    const mockUser = MOCK_USERS[email] || MOCK_USERS["entrepreneur@abcfoods.com"];
+    const mockUser = MOCK_USERS[email] || MOCK_USERS["entrepreneur@pragatifoods.com"];
     return mockUser.user as unknown as T;
   }
 
@@ -141,6 +141,26 @@ function getMockFallback<T>(endpoint: string, options: RequestOptions = {}): T {
       days_until_expiry: 863,
       requires_human_verification: true,
       disclaimer: "Document AI pre-validation is a data consistency and completeness check."
+    } as unknown as T;
+  }
+  if (cleanEndpoint.startsWith("/documents/upload")) {
+    return {
+      id: "doc-" + Date.now().toString().slice(-6),
+      business_id: "biz-001",
+      application_id: "app-001",
+      document_type: "Statutory Document",
+      file_name: "uploaded_statutory_doc.pdf",
+      file_size_bytes: 524288,
+      mime_type: "application/pdf",
+      uploaded_at: new Date().toISOString(),
+      is_verified: true,
+      is_reusable: true,
+      validation: {
+        id: "val-" + Date.now().toString().slice(-6),
+        status: "VALID",
+        validation_score: 0.98,
+        validated_at: new Date().toISOString(),
+      }
     } as unknown as T;
   }
   if (cleanEndpoint.startsWith("/documents")) {
@@ -286,9 +306,11 @@ export async function apiClient<T>(endpoint: string, options: RequestOptions = {
 
   const token = typeof window !== "undefined" ? localStorage.getItem("sih_token") : null;
 
-  const defaultHeaders: Record<string, string> = {
-    "Content-Type": "application/json",
-  };
+  const defaultHeaders: Record<string, string> = {};
+
+  if (!(restOptions.body instanceof FormData)) {
+    defaultHeaders["Content-Type"] = "application/json";
+  }
 
   if (token) {
     defaultHeaders["Authorization"] = `Bearer ${token}`;

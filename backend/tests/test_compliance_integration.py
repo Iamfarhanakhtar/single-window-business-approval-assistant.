@@ -138,7 +138,7 @@ def test_document_validate_endpoint_valid_content():
         "Certificate Number: UP-FIRE-NOC-2026-88421\n"
         "Issue Date: 2026-01-15\n"
         "Expiry Date: 2029-01-14\n"
-        "Enterprise Name: ABC Foods Private Limited\n"
+        "Enterprise Name: Pragati Foods Private Limited\n"
         "Applicant PAN: AAACB1234F\n"
         "Aadhaar of Nominated Occupier: 4582 9182 3019\n"
     )
@@ -148,7 +148,7 @@ def test_document_validate_endpoint_valid_content():
         "filename": "fire_noc.txt",
         "document_type": "Fire Safety NOC",
         "file_content_text": sample_text,
-        "expected_entity_name": "ABC Foods Pvt Ltd",
+        "expected_entity_name": "Pragati Foods Pvt Ltd",
         "expected_document_type": "Fire Safety NOC",
     }
 

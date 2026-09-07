@@ -65,15 +65,30 @@ export interface ApprovalRequirement {
 
 export interface Approval {
   id: string;
-  code: string;
-  name: string;
+  approval_name?: string;
+  name?: string;
+  code?: string;
+  issuing_authority?: string;
   category?: string;
+  sector?: string;
+  state?: string;
+  source_name?: string;
+  source_type?: string;
+  source_url?: string;
+  about?: string;
+  who_can_apply?: string;
+  documents_required?: string;
+  applicability?: string;
+  acts_and_rules?: string;
+  retrieved_at?: string;
+  last_verified_at?: string;
+  verification_status?: string;
   description?: string;
-  sla_days: number;
-  validity_years: number;
-  statutory_fee: number;
-  requires_inspection: boolean;
-  department_id: string;
+  sla_days?: number;
+  validity_years?: number;
+  statutory_fee?: number;
+  requires_inspection?: boolean;
+  department_id?: string;
   requirements?: ApprovalRequirement[];
 }
 

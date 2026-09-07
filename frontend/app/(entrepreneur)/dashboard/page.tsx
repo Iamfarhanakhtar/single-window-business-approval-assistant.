@@ -5,6 +5,7 @@ import { Sidebar } from "@/components/layout/Sidebar";
 import { MetricCard } from "@/components/domain/MetricCard";
 import { ApprovalCard } from "@/components/domain/ApprovalCard";
 import { DocumentCard } from "@/components/domain/DocumentCard";
+import { UploadDocumentModal } from "@/components/domain/UploadDocumentModal";
 import { RiskScore } from "@/components/domain/RiskScore";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import { Card } from "@/components/ui/Card";
@@ -33,6 +34,7 @@ export default function EntrepreneurDashboard() {
   const [queries, setQueries] = useState<QueryRecord[]>([]);
   const [inspections, setInspections] = useState<Inspection[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
 
   useEffect(() => {
     async function loadData() {
@@ -82,7 +84,7 @@ export default function EntrepreneurDashboard() {
           <div>
             <div className="flex items-center gap-2">
               <Building2 className="h-5 w-5 text-blue-700" />
-              <h1 className="text-xl font-bold text-slate-900">ABC Foods Private Limited</h1>
+              <h1 className="text-xl font-bold text-slate-900">Pragati Foods Private Limited</h1>
               <span className="rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-600 font-mono">
                 CIN: U15400UP2026PTC123456
               </span>
@@ -92,11 +94,14 @@ export default function EntrepreneurDashboard() {
             </p>
           </div>
           <div className="flex items-center gap-3">
-            <a href="/documents">
-              <Button variant="outline" size="sm" className="flex items-center gap-1.5">
-                <Upload className="h-3.5 w-3.5" /> Upload Document
-              </Button>
-            </a>
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => setIsUploadModalOpen(true)}
+              className="flex items-center gap-1.5"
+            >
+              <Upload className="h-3.5 w-3.5" /> Upload Document
+            </Button>
             <a href="/compliance-scanner">
               <Button size="sm" className="flex items-center gap-1.5">
                 <Sparkles className="h-3.5 w-3.5" /> AI Roadmap Scan
@@ -144,14 +149,14 @@ export default function EntrepreneurDashboard() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           <MetricCard
             label="Total Clearances"
-            value="4 Approvals"
+            value={`${totalApprovals} Approvals`}
             subtext="Running in parallel"
             icon={<FolderKanban className="h-5 w-5" />}
           />
           <MetricCard
             label="Approvals Granted"
             value={`${completedApprovals} / ${totalApprovals}`}
-            subtext="Fire NOC Issued"
+            subtext={`${completedApprovals} Clearances Issued`}
             icon={<CheckCircle2 className="h-5 w-5 text-emerald-600" />}
           />
           <MetricCard
@@ -183,7 +188,9 @@ export default function EntrepreneurDashboard() {
                 Independent approvals progressing concurrently under single statutory application
               </p>
             </div>
-            <span className="text-xs font-medium text-slate-400">4 Active Channels</span>
+            <span className="text-xs font-medium text-slate-400">
+              {application?.application_approvals.length || 0} Statutory Channels
+            </span>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -194,13 +201,37 @@ export default function EntrepreneurDashboard() {
         </div>
 
         {/* Document Pre-Validation & Vault Preview */}
-        <Card title="Uploaded Documents & AI Pre-Validation Status" subtitle="Pre-screened against regulatory checklists">
+        <Card
+          title="Uploaded Documents & AI Pre-Validation Status"
+          subtitle="Pre-screened against regulatory checklists"
+          action={
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => setIsUploadModalOpen(true)}
+              className="flex items-center gap-1.5"
+            >
+              <Upload className="h-3.5 w-3.5" /> Upload Document
+            </Button>
+          }
+        >
           <div className="space-y-3">
             {documents.map((doc) => (
               <DocumentCard key={doc.id} doc={doc} />
             ))}
           </div>
         </Card>
+
+        {/* Upload Document Modal */}
+        <UploadDocumentModal
+          isOpen={isUploadModalOpen}
+          onClose={() => setIsUploadModalOpen(false)}
+          onSuccess={(newDoc) => {
+            setDocuments((prev) => [newDoc, ...prev]);
+          }}
+          businessId={application?.business_id || "biz-001"}
+          applicationId={application?.id || "app-001"}
+        />
       </main>
     </div>
   );

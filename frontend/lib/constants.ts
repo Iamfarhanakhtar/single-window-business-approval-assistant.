@@ -38,8 +38,8 @@ export const STATUS_SEMANTICS = {
 export const DEMO_ACCOUNTS = [
   {
     role: "entrepreneur",
-    label: "Entrepreneur (ABC Foods Pvt Ltd)",
-    email: "entrepreneur@abcfoods.com",
+    label: "Entrepreneur (Pragati Foods Pvt Ltd)",
+    email: "entrepreneur@pragatifoods.com",
     password: "password123",
     description: "Applicant managing industrial clearances, document uploads & SLA tracking."
   },

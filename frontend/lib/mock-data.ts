@@ -3,6 +3,7 @@ import {
   AuthResponse,
   Department,
   Approval,
+  ApprovalStatus,
   Business,
   Application,
   DocumentItem,
@@ -14,10 +15,10 @@ import {
 } from "@/types";
 
 export const MOCK_USERS: Record<string, { user: User; auth: AuthResponse }> = {
-  "entrepreneur@abcfoods.com": {
+  "entrepreneur@pragatifoods.com": {
     user: {
       id: "usr-ent-001",
-      email: "entrepreneur@abcfoods.com",
+      email: "entrepreneur@pragatifoods.com",
       full_name: "Rajesh Sharma",
       phone_number: "+91-9876543210",
       role: "entrepreneur",
@@ -29,7 +30,26 @@ export const MOCK_USERS: Record<string, { user: User; auth: AuthResponse }> = {
       token_type: "bearer",
       role: "entrepreneur",
       user_id: "usr-ent-001",
-      email: "entrepreneur@abcfoods.com",
+      email: "entrepreneur@pragatifoods.com",
+      full_name: "Rajesh Sharma"
+    }
+  },
+  "entrepreneur@abcfoods.com": {
+    user: {
+      id: "usr-ent-001",
+      email: "entrepreneur@pragatifoods.com",
+      full_name: "Rajesh Sharma",
+      phone_number: "+91-9876543210",
+      role: "entrepreneur",
+      is_active: true,
+      created_at: new Date().toISOString()
+    },
+    auth: {
+      access_token: "mock-jwt-token-entrepreneur",
+      token_type: "bearer",
+      role: "entrepreneur",
+      user_id: "usr-ent-001",
+      email: "entrepreneur@pragatifoods.com",
       full_name: "Rajesh Sharma"
     }
   },
@@ -132,95 +152,16 @@ export const MOCK_DEPARTMENTS: Department[] = [
   }
 ];
 
-export const MOCK_APPROVALS: Approval[] = [
-  {
-    id: "appr-fire",
-    code: "FIRE_NOC",
-    name: "Fire Safety No Objection Certificate (Form-B)",
-    category: "Safety",
-    description: "Mandatory clearance for commercial & manufacturing units",
-    sla_days: 15,
-    validity_years: 3,
-    statutory_fee: 5000,
-    requires_inspection: true,
-    department_id: "dept-fire",
-    requirements: [
-      {
-        id: "req-1",
-        document_type: "Building Layout & Evacuation Plan",
-        is_mandatory: true,
-        description: "Certified structural blueprint indicating emergency exits and hydrant placement"
-      }
-    ]
-  },
-  {
-    id: "appr-pcb",
-    code: "PCB_CTE",
-    name: "Consent to Establish (Orange Category - Food Industry)",
-    category: "Environmental",
-    description: "Pollution control clearance under Water & Air Acts",
-    sla_days: 30,
-    validity_years: 5,
-    statutory_fee: 25000,
-    requires_inspection: true,
-    department_id: "dept-uppcb",
-    requirements: [
-      {
-        id: "req-2",
-        document_type: "Effluent Treatment Plant (ETP) Scheme",
-        is_mandatory: true,
-        description: "Detailed wastewater treatment and water balance calculation"
-      }
-    ]
-  },
-  {
-    id: "appr-fssai",
-    code: "FSSAI_MFG",
-    name: "FSSAI State Manufacturing License",
-    category: "Operational",
-    description: "Statutory food safety manufacturing compliance",
-    sla_days: 21,
-    validity_years: 5,
-    statutory_fee: 7500,
-    requires_inspection: false,
-    department_id: "dept-fssai",
-    requirements: [
-      {
-        id: "req-3",
-        document_type: "FSMS Blueprint & Potability Report",
-        is_mandatory: true,
-        description: "Food Safety Management System layout and certified laboratory water analysis"
-      }
-    ]
-  },
-  {
-    id: "appr-factories",
-    code: "FACTORY_LIC",
-    name: "Factory License & Structural Registration",
-    category: "Labor & Safety",
-    description: "Factories Act 1948 Section 6 clearance",
-    sla_days: 20,
-    validity_years: 1,
-    statutory_fee: 10000,
-    requires_inspection: true,
-    department_id: "dept-factories",
-    requirements: [
-      {
-        id: "req-4",
-        document_type: "Factory Architectural Plan & Machinery Layout",
-        is_mandatory: true,
-        description: "Detailed machinery layout signed by certified chartered engineer"
-      }
-    ]
-  }
-];
+import approvalsData from "@/data/approvals.json";
+
+export const MOCK_APPROVALS: Approval[] = approvalsData as Approval[];
 
 export const MOCK_BUSINESSES: Business[] = [
   {
     id: "biz-001",
     user_id: "usr-ent-001",
-    legal_name: "ABC Foods Private Limited",
-    trade_name: "ABC Organics",
+    legal_name: "Pragati Foods Private Limited",
+    trade_name: "Pragati Organics",
     registration_type: "Private Limited Company",
     pan_number: "AAACA1234F",
     gstin: "09AAACA1234F1Z5",
@@ -257,39 +198,36 @@ export const MOCK_APPLICATIONS: Application[] = [
     overall_risk_score: 0.22,
     created_at: new Date(Date.now() - 14 * 86400000).toISOString(),
     updated_at: new Date(Date.now() - 2 * 86400000).toISOString(),
-    application_approvals: [
-      {
-        id: "aa-1",
-        approval_id: "appr-fire",
-        status: "APPROVED",
-        sla_target_date: new Date(Date.now() + 3 * 86400000).toISOString(),
-        decision_date: new Date(Date.now() - 2 * 86400000).toISOString(),
-        decision_remarks: "Site inspection verified. All hydrant points and fire barriers fully compliant.",
-        certificate_number: "UP-FIRE-2026-9812",
-        approval: MOCK_APPROVALS[0]
-      },
-      {
-        id: "aa-2",
-        approval_id: "appr-pcb",
-        status: "QUERY_RAISED",
-        sla_target_date: new Date(Date.now() + 8 * 86400000).toISOString(),
-        approval: MOCK_APPROVALS[1]
-      },
-      {
-        id: "aa-3",
-        approval_id: "appr-fssai",
-        status: "IN_REVIEW",
-        sla_target_date: new Date(Date.now() + 9 * 86400000).toISOString(),
-        approval: MOCK_APPROVALS[2]
-      },
-      {
-        id: "aa-4",
-        approval_id: "appr-factories",
-        status: "INSPECTION_SCHEDULED",
-        sla_target_date: new Date(Date.now() + 10 * 86400000).toISOString(),
-        approval: MOCK_APPROVALS[3]
-      }
-    ]
+    application_approvals: MOCK_APPROVALS.map((approval, index) => {
+      const statuses: ApprovalStatus[] = [
+        "APPROVED",
+        "APPROVED",
+        "QUERY_RAISED",
+        "IN_REVIEW",
+        "INSPECTION_SCHEDULED",
+        "IN_REVIEW",
+        "APPROVED",
+        "APPROVED",
+        "APPROVED",
+        "IN_REVIEW",
+        "PENDING",
+        "PENDING"
+      ];
+      const currentStatus = statuses[index] || "IN_REVIEW";
+      return {
+        id: `aa-${approval.id}`,
+        approval_id: approval.id,
+        status: currentStatus,
+        sla_target_date: new Date(Date.now() + (index + 2) * 86400000).toISOString(),
+        decision_date: currentStatus === "APPROVED" ? new Date(Date.now() - 2 * 86400000).toISOString() : undefined,
+        decision_remarks:
+          currentStatus === "APPROVED"
+            ? "Verified against statutory compliance requirements on NSWS portal."
+            : undefined,
+        certificate_number: currentStatus === "APPROVED" ? `UP-CERT-2026-${1000 + index}` : undefined,
+        approval: approval
+      };
+    })
   }
 ];
 
@@ -299,7 +237,7 @@ export const MOCK_DOCUMENTS: DocumentItem[] = [
     business_id: "biz-001",
     application_id: "app-001",
     document_type: "Building Layout & Evacuation Plan",
-    file_name: "ABC_Foods_Site_Layout_Approved.pdf",
+    file_name: "Pragati_Foods_Site_Layout_Approved.pdf",
     file_size_bytes: 2450000,
     mime_type: "application/pdf",
     is_verified: true,

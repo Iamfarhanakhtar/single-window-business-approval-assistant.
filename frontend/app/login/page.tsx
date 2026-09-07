@@ -12,7 +12,7 @@ import { Shield, ArrowRight, UserCheck } from "lucide-react";
 
 export default function LoginPage() {
   const router = useRouter();
-  const [email, setEmail] = useState("entrepreneur@abcfoods.com");
+  const [email, setEmail] = useState("entrepreneur@pragatifoods.com");
   const [password, setPassword] = useState("password123");
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);

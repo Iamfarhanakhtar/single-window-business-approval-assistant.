@@ -27,7 +27,7 @@ def run_demo():
 
     docs_dir = Path(__file__).resolve().parent / "demo_docs"
 
-    expected_company = "ABC Foods Pvt Ltd"
+    expected_company = "Pragati Foods Pvt Ltd"
     print(f"Target Applicant Enterprise: '{expected_company}'")
     print()
 

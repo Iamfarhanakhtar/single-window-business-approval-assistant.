@@ -32,6 +32,13 @@ export const applicationService = {
     return apiClient<DocumentItem[]>("/documents", { params });
   },
 
+  async uploadDocument(formData: FormData): Promise<DocumentItem> {
+    return apiClient<DocumentItem>("/documents/upload", {
+      method: "POST",
+      body: formData,
+    });
+  },
+
   async getQueries(applicationId?: string): Promise<QueryRecord[]> {
     const params: Record<string, string> = {};
     if (applicationId) params["application_id"] = applicationId;

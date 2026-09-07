@@ -113,7 +113,7 @@ All accounts use the password: `password123`
 
 | Role | Email | Use Case |
 | :--- | :--- | :--- |
-| **Entrepreneur** | `entrepreneur@abcfoods.com` | Applicant portal for *ABC Foods Pvt Ltd* (Clearances, uploads, roadmap) |
+| **Entrepreneur** | `entrepreneur@pragatifoods.com` | Applicant portal for *Pragati Foods Pvt Ltd* (Clearances, uploads, roadmap) |
 | **Government Officer** | `collector.ghaziabad@gov.in` | District Magistrate / Nodal Officer executive dashboard & state SLA |
 | **Department Officer** | `officer.uppcb@gov.in` | Scrutiny officer reviewing UPPCB Consent to Establish and scheduling visits |
 | **System Admin** | `admin@gov.in` | Regulatory rule configuration and department management |

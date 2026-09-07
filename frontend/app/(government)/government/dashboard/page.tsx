@@ -121,7 +121,7 @@ export default function GovernmentDashboard() {
           <MetricCard
             label="Total Submissions"
             value="1"
-            subtext="ABC Foods Pvt Ltd"
+            subtext="Pragati Foods Pvt Ltd"
             icon={<BarChart3 className="h-5 w-5 text-blue-600" />}
           />
           <MetricCard

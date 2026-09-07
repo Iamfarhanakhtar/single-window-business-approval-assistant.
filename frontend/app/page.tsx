@@ -93,7 +93,7 @@ export default function LandingPage() {
         <div className="mx-auto max-w-7xl flex flex-wrap items-center justify-between gap-4 text-xs font-medium text-slate-600">
           <div className="flex items-center gap-2">
             <Building2 className="h-4 w-4 text-blue-700" />
-            <span>Demonstration Entity: <strong className="text-slate-900">ABC Foods Pvt Ltd</strong> (Food Processing • Ghaziabad, UP • ₹5 Cr)</span>
+            <span>Demonstration Entity: <strong className="text-slate-900">Pragati Foods Pvt Ltd</strong> (Food Processing • Ghaziabad, UP • ₹5 Cr)</span>
           </div>
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1.5 text-emerald-700">
