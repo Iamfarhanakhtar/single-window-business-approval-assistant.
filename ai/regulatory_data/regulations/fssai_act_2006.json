@@ -1,0 +1,28 @@
+{
+  "document_id": "REG_FSSAI_2006",
+  "document_title": "Food Safety and Standards Act, 2006 & Licensing Regulations 2011",
+  "authority": "Food Safety and Standards Authority of India (FSSAI)",
+  "jurisdiction": "Uttar Pradesh / Central",
+  "source_name": "FSSAI FoSCoS Portal",
+  "source_url": "https://foscos.fssai.gov.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 31(1)",
+      "title": "Licensing and registration of food business",
+      "text": "No person shall commence or carry on any food business except under a license granted by the Designated Officer. Any food business operator manufacturing, processing, packaging, storing, transporting, or distributing food products must obtain a State or Central FSSAI License prior to commencing commercial operations."
+    },
+    {
+      "section_number": "Schedule 4 Part II",
+      "title": "General Hygienic and Sanitary Practices to be followed by Food Business Operators",
+      "text": "Every food manufacturing and processing establishment must ensure potable water compliance as per IS 10500 standards, proper layout and separation of raw material and finished product sections, personal hygiene protocols, adequate drainage, pest management control systems, and a certified Food Safety Management System (FSMS) plan."
+    },
+    {
+      "section_number": "Regulation 2.1.3",
+      "title": "Application for License to the Designated Officer",
+      "text": "An application for grant of license shall be accompanied by a layout plan of the processing unit showing dimensions and operation-wise area allocation, list of directors with full address, list of machinery with name and installed capacity, potable water chemical analysis report, and authorization letter for the nominated technical supervisor."
+    }
+  ]
+}

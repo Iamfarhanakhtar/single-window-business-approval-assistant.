@@ -13,14 +13,21 @@ class Settings(BaseSettings):
     ENVIRONMENT: str = "development"
     DEBUG: bool = True
 
-    # Server
+    # Server & CORS
     BACKEND_HOST: str = "0.0.0.0"
     BACKEND_PORT: int = 8000
+    FRONTEND_ORIGIN: str = "http://localhost:3000"
     CORS_ORIGINS: List[str] = [
         "http://localhost:3000",
         "http://127.0.0.1:3000",
-        "http://localhost:8000"
+        "http://localhost:8000",
+        "http://127.0.0.1:8000",
     ]
+
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        if self.FRONTEND_ORIGIN and self.FRONTEND_ORIGIN not in self.CORS_ORIGINS:
+            self.CORS_ORIGINS.append(self.FRONTEND_ORIGIN)
 
     # Database: Default to SQLite for seamless local dev; override with PostgreSQL in production/docker
     DATABASE_URL: str = Field(

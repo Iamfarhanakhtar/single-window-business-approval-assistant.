@@ -1,0 +1,28 @@
+{
+  "document_id": "REG_FACTORY_1948",
+  "document_title": "Factories Act, 1948 & Uttar Pradesh Factories Rules 1950",
+  "authority": "Directorate of Factories (Labour Department, Uttar Pradesh)",
+  "jurisdiction": "Uttar Pradesh",
+  "source_name": "Directorate of Factories UP / Nivesh Mitra",
+  "source_url": "https://niveshmitra.up.nic.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 2(m)",
+      "title": "Definition of Factory and Statutory Thresholds",
+      "text": "Factory means any premises whereon ten or more workers are working, or were working on any day of the preceding twelve months, and in any part of which a manufacturing process is being carried on with the aid of power; or whereon twenty or more workers are working without the aid of power."
+    },
+    {
+      "section_number": "Section 6",
+      "title": "Approval, licensing and registration of factories",
+      "text": "The State Government may make rules requiring the previous permission in writing of the Chief Inspector for the site on which the factory is to be situated and for the construction or extension of any factory. No manufacturing process shall be carried on in any factory unless a valid factory license has been obtained and building layout plans have been formally approved."
+    },
+    {
+      "section_number": "UP Factory Rule 3",
+      "title": "Submission of Plans and Particulars",
+      "text": "Application for approval of building plans, machinery layout, ventilation schemes, and emergency exit routes must be submitted in Form 1 accompanied by detailed site plan drawings, structural certificates, and proof of legal possession of land before commencing construction or installation."
+    }
+  ]
+}

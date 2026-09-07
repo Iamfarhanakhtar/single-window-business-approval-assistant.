@@ -30,6 +30,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ role = "entrepreneur" }) => {
 
   const entrepreneurLinks = [
     { href: "/dashboard", label: "Overview", icon: LayoutDashboard },
+    { href: "/compliance-scanner", label: "AI Compliance Scanner", icon: ShieldAlert },
     { href: "/business", label: "Business Profile", icon: Building2 },
     { href: "/approvals", label: "Approval Roadmap", icon: CheckSquare },
     { href: "/applications", label: "My Applications", icon: FolderKanban },

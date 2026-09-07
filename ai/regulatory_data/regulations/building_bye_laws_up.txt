@@ -1,0 +1,17 @@
+DOCUMENT_ID: UP_BUILDING_BYELAWS_2016
+TITLE: Uttar Pradesh Model Building Byelaws and Industrial Layout Norms
+AUTHORITY: Housing and Urban Planning Department (Uttar Pradesh)
+JURISDICTION: Uttar Pradesh
+DOCUMENT_TYPE: Regulation
+SOURCE_NAME: Housing & Urban Planning Department UP
+SOURCE_URL: https://niveshmitra.up.nic.in
+RETRIEVED_AT: 2026-09-04T00:00:00Z
+LAST_VERIFIED_AT: 2026-09-04T00:00:00Z
+IS_OFFICIAL: false
+DISCLAIMER: DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)
+
+Section 12: Industrial Building Setbacks and Road Width Requirements
+All industrial development plots exceeding 1000 square meters must provide mandatory front setbacks of minimum 9 meters and rear/side setbacks of minimum 6 meters for fire tender access.
+
+Section 15: Ground Coverage and Floor Area Ratio (FAR) for Manufacturing Units
+The maximum permissible ground coverage for flatted factories and general manufacturing units is 60%, with maximum Floor Area Ratio (FAR) of 1.5, subject to structural stability certification by a certified structural engineer.

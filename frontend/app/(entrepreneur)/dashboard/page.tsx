@@ -92,12 +92,16 @@ export default function EntrepreneurDashboard() {
             </p>
           </div>
           <div className="flex items-center gap-3">
-            <Button variant="outline" size="sm" className="flex items-center gap-1.5">
-              <Upload className="h-3.5 w-3.5" /> Upload Document
-            </Button>
-            <Button size="sm" className="flex items-center gap-1.5">
-              <Sparkles className="h-3.5 w-3.5" /> AI Roadmap Scan
-            </Button>
+            <a href="/documents">
+              <Button variant="outline" size="sm" className="flex items-center gap-1.5">
+                <Upload className="h-3.5 w-3.5" /> Upload Document
+              </Button>
+            </a>
+            <a href="/compliance-scanner">
+              <Button size="sm" className="flex items-center gap-1.5">
+                <Sparkles className="h-3.5 w-3.5" /> AI Roadmap Scan
+              </Button>
+            </a>
           </div>
         </div>
 

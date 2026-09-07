@@ -28,6 +28,7 @@ from app.models.entities import (
     Incentive,
     AuditLog,
     MLPrediction,
+    ComplianceAnalysis,
 )
 
 __all__ = [
@@ -59,4 +60,5 @@ __all__ = [
     "Incentive",
     "AuditLog",
     "MLPrediction",
+    "ComplianceAnalysis",
 ]

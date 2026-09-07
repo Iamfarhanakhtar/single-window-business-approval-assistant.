@@ -1,0 +1,23 @@
+{
+  "document_id": "REG_ELEC_2003",
+  "document_title": "Electricity Act, 2003 & Central Electricity Authority (Safety Measures) Regulations 2010",
+  "authority": "Directorate of Electrical Safety (CEIG, Uttar Pradesh)",
+  "jurisdiction": "Uttar Pradesh",
+  "source_name": "Electrical Safety Directorate UP / Nivesh Mitra",
+  "source_url": "http://ceig.up.gov.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 54",
+      "title": "Control of Transmission and Use of Electricity by Electrical Inspector",
+      "text": "Every person proposing to construct or install any electrical plant or electric line or high voltage apparatus or diesel generator (DG) set exceeding prescribed kVA capacity or connected load of 50 kW and above must give notice to the Chief Electrical Inspector to Government (CEIG) and obtain prior safety approval before energization."
+    },
+    {
+      "section_number": "Regulation 43",
+      "title": "Approval by Electrical Inspector for High Voltage Installations",
+      "text": "High Voltage (HT) and Extra High Voltage (EHV) installations, sub-stations, and generating sets shall not be brought into service without the prior inspection and written approval of the Electrical Inspector. Application requires submission of Single Line Diagram (SLD), earthing pit resistance test reports, and electrical contractor completion certificates."
+    }
+  ]
+}

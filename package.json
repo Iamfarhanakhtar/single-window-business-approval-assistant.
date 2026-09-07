@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Bharat Single-Window Compliance & Approval Solution (SIH Problem Statement 130)",
   "scripts": {
-    "dev": "cd frontend && npm run dev",
+    "dev": "bash start-dev.sh",
     "dev:frontend": "cd frontend && npm run dev",
-    "dev:backend": "cd backend && .venv/bin/python -m uvicorn app.main:app --port 8000 --reload",
+    "dev:backend": "cd backend && .venv/bin/python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload",
     "build": "cd frontend && npm run build",
     "start": "cd frontend && npm run start",
     "install:all": "cd frontend && npm install",

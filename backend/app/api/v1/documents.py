@@ -12,6 +12,9 @@ from app.core.config import settings
 from ai.services.mock_ai_service import mock_ai_service
 from app.schemas.domain import ValidateDocRequest
 
+from app.schemas.compliance import DocumentValidateRequest, DocumentValidationResponse
+from app.services.compliance_analysis_service import compliance_service
+
 router = APIRouter(prefix="/documents", tags=["Documents & Pre-Validation"])
 
 @router.get("", response_model=List[DocumentResponse])
@@ -27,6 +30,20 @@ def list_documents(
     if application_id:
         query = query.filter(Document.application_id == application_id)
     return query.all()
+
+@router.post("/validate", response_model=DocumentValidationResponse)
+def validate_document_endpoint(request: DocumentValidateRequest):
+    """
+    POST /api/v1/documents/validate
+    Pre-validates document formatting, entity matching, expiry dates, and category.
+    """
+    try:
+        return compliance_service.validate_document(request)
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Document AI validation error: {str(e)}"
+        )
 
 @router.post("/upload", response_model=DocumentResponse, status_code=status.HTTP_201_CREATED)
 async def upload_document(
@@ -66,21 +83,27 @@ async def upload_document(
     db.add(new_doc)
     db.flush()
 
-    # Pre-validate with Document AI
-    val_res = mock_ai_service.validate_document(ValidateDocRequest(
+    # Pre-validate with real Document AI pipeline
+    val_res = compliance_service.validate_document(DocumentValidateRequest(
+        document_id=new_doc.id,
+        filename=file.filename,
         document_type=document_type,
-        file_name=file.filename
+        file_path=file_path,
+        expected_entity_name=biz.legal_name,
+        expected_document_type=document_type,
+        application_id=application_id,
     ))
 
     val_record = DocumentValidation(
         document_id=new_doc.id,
         status=val_res.status,
-        validation_score=val_res.confidence_score,
-        extracted_metadata=val_res.extracted_fields,
-        issues_detected=val_res.issues_detected
+        validation_score=val_res.confidence,
+        extracted_metadata={"days_until_expiry": val_res.days_until_expiry, "entity_match": val_res.entity_match},
+        issues_detected=val_res.warnings + val_res.errors
     )
     db.add(val_record)
 
     db.commit()
     db.refresh(new_doc)
     return new_doc
+

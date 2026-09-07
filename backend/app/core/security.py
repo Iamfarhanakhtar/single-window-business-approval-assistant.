@@ -1,9 +1,14 @@
-"""Security, Password Hashing, and JWT Utilities using standard bcrypt & python-jose"""
 from datetime import datetime, timedelta, timezone
 from typing import Any, Optional, Union
 import bcrypt
-from jose import jwt
+try:
+    import jwt
+except ImportError:
+    from jose import jwt
+
 from app.core.config import settings
+
+
 
 def get_password_hash(password: str) -> str:
     pwd_bytes = password.encode('utf-8')[:72]

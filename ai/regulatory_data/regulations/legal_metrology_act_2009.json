@@ -1,0 +1,23 @@
+{
+  "document_id": "REG_METROLOGY_2009",
+  "document_title": "Legal Metrology Act, 2009 & Legal Metrology (Packaged Commodities) Rules 2011",
+  "authority": "Department of Legal Metrology (Uttar Pradesh / Central)",
+  "jurisdiction": "Uttar Pradesh / Central",
+  "source_name": "National Single Window System (NSWS) / Legal Metrology",
+  "source_url": "https://www.nsws.gov.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 19",
+      "title": "Approval of Model and Registration of Packaged Commodities",
+      "text": "Every person who manufactures or packs any commodity for sale, distribution or delivery in packaged form shall make an application with the Director or Controller of Legal Metrology for registration of the pre-packaged commodity and packaging unit premises."
+    },
+    {
+      "section_number": "Rule 27",
+      "title": "Registration of Manufacturers and Packers",
+      "text": "Every manufacturer, packer or importer of pre-packaged commodities shall apply for registration within ninety days of commencement of pre-packing activities, submitting specimen package labels containing mandatory declarations (MRP, Net Weight/Volume, Batch No., Manufacturing Date, Customer Care Contact)."
+    }
+  ]
+}

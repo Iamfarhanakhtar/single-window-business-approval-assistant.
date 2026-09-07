@@ -11,6 +11,7 @@ from app.api.v1.renewals import router as renewals_router
 from app.api.v1.dashboard import router as dashboard_router
 from app.api.v1.analytics import router as analytics_router
 from app.api.v1.ai_routes import router as ai_router
+from app.api.v1.compliance import router as compliance_router
 
 api_v1_router = APIRouter()
 
@@ -24,4 +25,6 @@ api_v1_router.include_router(queries_router)
 api_v1_router.include_router(renewals_router)
 api_v1_router.include_router(dashboard_router)
 api_v1_router.include_router(analytics_router)
+api_v1_router.include_router(compliance_router)
 api_v1_router.include_router(ai_router)
+

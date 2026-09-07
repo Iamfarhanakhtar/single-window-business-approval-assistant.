@@ -1,0 +1,43 @@
+{
+  "model_version": "0.1.0",
+  "training_date": "2026-09-06T11:33:02.684471+00:00",
+  "dataset_type": "SYNTHETIC_DEMO",
+  "is_synthetic": true,
+  "disclaimer": "This dataset is synthetic/demo data created for SIH prototype development. It is not official government historical data and must not be used to make real-world regulatory claims.",
+  "random_seed": 42,
+  "dataset_rows": 1500,
+  "train_rows": 1200,
+  "test_rows": 300,
+  "numerical_features": [
+    "investment",
+    "employees",
+    "approval_count",
+    "document_count",
+    "missing_document_count",
+    "inspection_required",
+    "department_count",
+    "previous_queries",
+    "sla_days"
+  ],
+  "categorical_features": [
+    "state",
+    "sector",
+    "project_stage",
+    "applicant_type",
+    "season"
+  ],
+  "classifier": "RandomForestClassifier",
+  "classifier_metrics": {
+    "accuracy": 0.8767,
+    "precision": 0.866,
+    "recall": 0.9385,
+    "f1": 0.9008,
+    "roc_auc": 0.9354
+  },
+  "regressor": "RandomForestRegressor",
+  "regressor_metrics": {
+    "mae": 2.6911,
+    "rmse": 3.9015,
+    "r2": 0.9235
+  }
+}

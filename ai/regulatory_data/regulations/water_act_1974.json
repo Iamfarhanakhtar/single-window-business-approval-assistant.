@@ -1,0 +1,33 @@
+{
+  "document_id": "REG_WATER_1974",
+  "document_title": "Water (Prevention and Control of Pollution) Act, 1974 (Sections 25 and 26)",
+  "authority": "Uttar Pradesh Pollution Control Board (UPPCB)",
+  "jurisdiction": "Uttar Pradesh",
+  "source_name": "UPPCB / Nivesh Mitra Single Window Portal",
+  "source_url": "https://niveshmitra.up.nic.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 25(1)",
+      "title": "Restrictions on new outlets and new discharges",
+      "text": "Subject to the provisions of this section, no person shall, without the previous consent of the State Board, establish or take any steps to establish any industry, operation or process, or any treatment and disposal system or an extension or addition thereto, which is likely to discharge sewage or trade effluent into a stream or well or sewer or on land."
+    },
+    {
+      "section_number": "Section 25(2)",
+      "title": "Application for Consent to Establish (CTE)",
+      "text": "An application for consent of the State Board under sub-section (1) shall be made in such form, contain such particulars and be accompanied by such fees as may be prescribed. The application must include detailed engineering plans for an Effluent Treatment Plant (ETP), water balance diagrams, and land ownership documentation."
+    },
+    {
+      "section_number": "Section 25(4)",
+      "title": "Grant or Refusal of Consent",
+      "text": "The State Board may grant its consent subject to such conditions as it may think fit, including conditions as to the point of discharge, the nature and composition, temperature, volume or rate of discharge of the effluent, and the execution of works and installation of plant and equipment for purifying effluent."
+    },
+    {
+      "section_number": "Section 26",
+      "title": "Consent to Operate (CTO) for Existing and Commissioned Outlets",
+      "text": "Where immediately before the commencement of this Act any person was discharging any sewage or trade effluent into a stream or well, or upon completion of construction under a valid Consent to Establish, the occupier must obtain a valid Consent to Operate (CTO) before commencing commercial production or active discharge."
+    }
+  ]
+}

@@ -452,7 +452,24 @@ class MLPrediction(Base):
     delay_probability = Column(Float, default=0.0)
     risk_score = Column(Float, default=0.0)
     feature_importance = Column(JSON, nullable=True)
-    explanation = Column(Text, nullable=True)
+    application = relationship("Application", back_populates="ml_predictions")
+
+
+class ComplianceAnalysis(Base):
+    """Stores full multi-pillar compliance analysis snapshots and AI outputs"""
+    __tablename__ = "compliance_analyses"
+
+    id = Column(String(36), primary_key=True, default=generate_uuid)
+    application_id = Column(String(36), ForeignKey("applications.id"), nullable=True)
+    business_id = Column(String(36), ForeignKey("businesses.id"), nullable=True)
+    profile_snapshot = Column(JSON, nullable=False)
+    summary = Column(JSON, nullable=False)
+    risk_score = Column(Float, default=0.0)
+    delay_probability = Column(Float, default=0.0)
+    analysis_result = Column(JSON, nullable=False)
+    version = Column(String(50), default="1.0.0")
     created_at = Column(DateTime, default=utc_now)
 
-    application = relationship("Application", back_populates="ml_predictions")
+    application = relationship("Application", foreign_keys=[application_id])
+    business = relationship("Business", foreign_keys=[business_id])
+

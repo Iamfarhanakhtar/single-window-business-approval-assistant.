@@ -223,3 +223,100 @@ export interface AnalyzeBusinessResponse {
   eligible_incentives: string[];
   explanation: string;
 }
+
+// Unified Compliance Analysis Schemas (SIH-130)
+export interface ApprovalAnalysisItem {
+  approval_id: string;
+  approval_name: string;
+  authority: string;
+  status: "POTENTIALLY_APPLICABLE" | "REQUIRES_VERIFICATION" | "PARTIALLY_MATCHED";
+  score: number;
+  reason: string;
+  documents: string[];
+  processing_days: number;
+  statutory_fee: number;
+  department: string;
+  category: string;
+  is_mandatory: boolean;
+  prerequisites?: string[];
+}
+
+export interface DocumentRequirementItem {
+  document_name: string;
+  required_for: string[];
+  status: string;
+}
+
+export interface RiskAnalysisItem {
+  risk_score: number;
+  risk_level: "LOW" | "MEDIUM" | "HIGH";
+  factors: string[];
+}
+
+export interface DelayPredictionItem {
+  probability: number;
+  predicted_days: number;
+  factors: string[];
+  is_synthetic_model: boolean;
+}
+
+export interface RegulatoryExplanationItem {
+  approval_id?: string;
+  approval_name: string;
+  answer: string;
+  cited_acts: string[];
+  confidence: number;
+  sources: Array<{ source_name: string; source_url: string; section?: string }>;
+}
+
+export interface SourceReferenceItem {
+  source_name: string;
+  source_url: string;
+  authority: string;
+  jurisdiction: string;
+  is_official: boolean;
+}
+
+export interface ComplianceSummary {
+  total_approvals: number;
+  potentially_applicable: number;
+  requires_verification: number;
+  documents_required: number;
+}
+
+export interface UnifiedComplianceAnalysisResponse {
+  business_profile: Record<string, any>;
+  summary: ComplianceSummary;
+  approvals: ApprovalAnalysisItem[];
+  documents: DocumentRequirementItem[];
+  risk: RiskAnalysisItem;
+  delay_prediction: DelayPredictionItem;
+  recommendations: string[];
+  regulatory_explanations: RegulatoryExplanationItem[];
+  sources: SourceReferenceItem[];
+  disclaimer: string;
+}
+
+export interface DocumentValidationCheck {
+  check_name: string;
+  passed: boolean;
+  details: string;
+}
+
+export interface DocumentValidationResponse {
+  document_id: string;
+  filename: string;
+  status: "VALID" | "WARNING" | "REQUIRES_HUMAN_VERIFICATION" | "UNREADABLE" | "INCOMPLETE";
+  entity_match: string;
+  expiry_status: string;
+  type_match: string;
+  checks: Array<{ check_name: string; passed: boolean; details: string }>;
+  warnings: string[];
+  errors: string[];
+  confidence: number;
+  days_until_expiry?: number;
+  requires_human_verification: boolean;
+  redacted_preview?: string;
+  disclaimer: string;
+}
+

@@ -1,0 +1,23 @@
+{
+  "document_id": "REG_LABOUR_1970",
+  "document_title": "Contract Labour (Regulation and Abolition) Act, 1970 & UP Rules 1975",
+  "authority": "Labour Department (Uttar Pradesh)",
+  "jurisdiction": "Uttar Pradesh",
+  "source_name": "Labour Department Uttar Pradesh",
+  "source_url": "http://uplabour.gov.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 7",
+      "title": "Registration of Certain Establishments Employing Contract Labour",
+      "text": "Every principal employer of an establishment to which this Act applies—namely establishments employing twenty or more workmen on any day of the preceding twelve months as contract labour—shall make an application to the registering officer in the prescribed manner for registration of the establishment."
+    },
+    {
+      "section_number": "Section 9",
+      "title": "Effect of Non-Registration",
+      "text": "No principal employer of an establishment to which this Act applies shall employ contract labour in the establishment if no application for registration has been made or if the certificate of registration has been revoked."
+    }
+  ]
+}

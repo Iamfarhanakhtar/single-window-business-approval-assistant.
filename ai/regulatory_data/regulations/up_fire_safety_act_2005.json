@@ -1,0 +1,23 @@
+{
+  "document_id": "REG_FIRE_2005",
+  "document_title": "Uttar Pradesh Fire Prevention and Fire Safety Act, 2005 & National Building Code 2016",
+  "authority": "Uttar Pradesh Fire Service",
+  "jurisdiction": "Uttar Pradesh",
+  "source_name": "UP Fire Service / Nivesh Mitra",
+  "source_url": "https://upfire.gov.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 4",
+      "title": "Provision of fire prevention and fire safety measures",
+      "text": "Every occupier of an industrial or commercial building exceeding statutory height or built-up area thresholds, or storing hazardous/combustible substances, must provide and maintain mandatory fire fighting equipment, automatic sprinklers, smoke alarms, fire hydrants, and unhindered emergency evacuation passages as specified under Part IV of NBC 2016."
+    },
+    {
+      "section_number": "Section 7",
+      "title": "Inspection of premises and grant of Provisional / Final Fire NOC",
+      "text": "Before initiating construction, an enterprise must secure a Provisional Fire NOC by submitting certified architectural layout blueprints. Upon completion of building construction and installation of fire-fighting mechanisms, the Chief Fire Officer (CFO) conducts on-site physical verification before issuing the Final Fire Safety NOC."
+    }
+  ]
+}

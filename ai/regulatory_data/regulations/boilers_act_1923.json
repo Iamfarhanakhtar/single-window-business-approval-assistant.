@@ -1,0 +1,23 @@
+{
+  "document_id": "REG_BOILER_1923",
+  "document_title": "Indian Boilers Act, 1923 & Indian Boiler Regulations (IBR 1950)",
+  "authority": "Directorate of Boilers (Uttar Pradesh)",
+  "jurisdiction": "Uttar Pradesh / Central",
+  "source_name": "National Single Window System (NSWS) / UP Boilers",
+  "source_url": "https://www.nsws.gov.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 6",
+      "title": "Prohibition of use of unregistered or uncertificated boiler",
+      "text": "Save as otherwise expressly provided in this Act, no owner of a boiler shall use the boiler or permit it to be used unless the boiler has been duly registered in accordance with the provisions of this Act, and a valid certificate or provisional order authorizing the use of the boiler is in force under Section 7."
+    },
+    {
+      "section_number": "Section 7",
+      "title": "Registration, Hydraulic Testing and Certificate for Use",
+      "text": "An industrial unit operating a steam boiler exceeding 25 litres volume with working steam pressure above 1.0 kg/cm2 must apply for registration accompanied by manufacturer certificates (Form II, III, IV), steam pipeline fabrication drawings, and certified boiler attendant credentials. Registration is granted following on-site hydraulic pressure testing by the Inspector of Boilers."
+    }
+  ]
+}

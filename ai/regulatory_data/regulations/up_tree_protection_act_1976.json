@@ -1,0 +1,23 @@
+{
+  "document_id": "REG_TREE_1976",
+  "document_title": "Uttar Pradesh Protection of Trees Act, 1976",
+  "authority": "Department of Forests (Uttar Pradesh)",
+  "jurisdiction": "Uttar Pradesh",
+  "source_name": "Department of Forests UP / Nivesh Mitra",
+  "source_url": "https://niveshmitra.up.nic.in",
+  "retrieved_at": "2026-09-04T00:00:00Z",
+  "last_verified_at": "2026-09-04T00:00:00Z",
+  "disclaimer": "DEMO / SYNTHETIC — NOT OFFICIAL REGULATORY TEXT (Curated for SIH 2026 Prototype)",
+  "sections": [
+    {
+      "section_number": "Section 4",
+      "title": "Restriction on felling of trees on private and acquired land",
+      "text": "Except as provided in this Act or the rules made thereunder, no person shall fell any tree of a specified or protected species or cause or permit the same to be felled in any area without obtaining the prior permission in writing of the Tree Officer or Divisional Forest Officer (DFO)."
+    },
+    {
+      "section_number": "Section 7",
+      "title": "Obligation to plant trees and compensatory afforestation",
+      "text": "Every person who is granted permission under Section 5 to fell a tree shall be bound to plant such number and kind of trees in the same plot or designated afforestation area (minimum 1:10 compensatory plantation ratio) and maintain them for a period of five years."
+    }
+  ]
+}

@@ -121,6 +121,28 @@ function getMockFallback<T>(endpoint: string, options: RequestOptions = {}): T {
   }
 
   // Documents
+  if (cleanEndpoint.startsWith("/documents/validate") || cleanEndpoint.startsWith("/ai/validate-document") || cleanEndpoint.startsWith("/compliance/validate-document")) {
+    return {
+      document_id: "DOC_VAL_001",
+      filename: "fire_noc_layout.txt",
+      status: "VALID",
+      entity_match: "EXACT_MATCH",
+      expiry_status: "VALID",
+      type_match: "MATCH",
+      checks: [
+        { check_name: "Readability", passed: true, details: "Document text successfully parsed." },
+        { check_name: "Document Type Match", passed: true, details: "Document category aligns with Fire NOC." },
+        { check_name: "Entity Name Consistency", passed: true, details: "Matches enterprise name." },
+        { check_name: "Validity Period", passed: true, details: "Certificate valid for 863 days." }
+      ],
+      warnings: [],
+      errors: [],
+      confidence: 1.0,
+      days_until_expiry: 863,
+      requires_human_verification: true,
+      disclaimer: "Document AI pre-validation is a data consistency and completeness check."
+    } as unknown as T;
+  }
   if (cleanEndpoint.startsWith("/documents")) {
     return MOCK_DOCUMENTS as unknown as T;
   }
@@ -145,9 +167,90 @@ function getMockFallback<T>(endpoint: string, options: RequestOptions = {}): T {
     return MOCK_INCENTIVES as unknown as T;
   }
 
-  // AI Endpoints
-  if (cleanEndpoint.startsWith("/ai/analyze-business")) {
-    return MOCK_AI_ANALYSIS as unknown as T;
+  // AI & Compliance Endpoints
+  if (cleanEndpoint.startsWith("/compliance/analyze") || cleanEndpoint.startsWith("/ai/analyze-business")) {
+    return {
+      business_profile: {
+        sector: "Food Processing",
+        state: "Uttar Pradesh",
+        district: "Ghaziabad",
+        investment: 50000000,
+        employees: 80,
+        project_stage: "Pre-Operation"
+      },
+      summary: {
+        total_approvals: 4,
+        potentially_applicable: 4,
+        requires_verification: 0,
+        documents_required: 6
+      },
+      approvals: [
+        {
+          approval_id: "UP_PCB_CTE_001",
+          approval_name: "Consent to Establish (CTE) - Orange/Red Category",
+          authority: "Uttar Pradesh Pollution Control Board (UPPCB)",
+          status: "POTENTIALLY_APPLICABLE",
+          score: 1.0,
+          reason: "Applicable for manufacturing/food processing units in Uttar Pradesh.",
+          documents: ["Site Plan", "ETP Schematic", "Water Balance Chart"],
+          processing_days: 30,
+          statutory_fee: 25000,
+          department: "UPPCB",
+          category: "Environmental",
+          is_mandatory: true,
+          prerequisites: []
+        },
+        {
+          approval_id: "UP_FIRE_NOC_001",
+          approval_name: "Fire Safety No Objection Certificate (Provisional)",
+          authority: "Uttar Pradesh Fire Service Headquarters",
+          status: "POTENTIALLY_APPLICABLE",
+          score: 1.0,
+          reason: "Mandatory safety clearance for industrial buildings >500 sqm.",
+          documents: ["Building Layout Blueprint", "Fire Fighting Installation Plan"],
+          processing_days: 15,
+          statutory_fee: 5000,
+          department: "Fire Department",
+          category: "Safety",
+          is_mandatory: true,
+          prerequisites: []
+        }
+      ],
+      documents: [
+        { document_name: "Site Plan", required_for: ["Consent to Establish (CTE) - Orange/Red Category"], status: "MISSING" },
+        { document_name: "Building Layout Blueprint", required_for: ["Fire Safety No Objection Certificate (Provisional)"], status: "MISSING" },
+        { document_name: "ETP Schematic", required_for: ["Consent to Establish (CTE) - Orange/Red Category"], status: "MISSING" }
+      ],
+      risk: {
+        risk_score: 28,
+        risk_level: "LOW",
+        factors: ["Standard industrial profile with predictable clearance pathways."]
+      },
+      delay_prediction: {
+        probability: 0.18,
+        predicted_days: 28,
+        factors: ["Parallel application submission recommended."],
+        is_synthetic_model: true
+      },
+      recommendations: [
+        "Apply concurrently for UPPCB CTE and Fire Safety NOC to compress timeline.",
+        "Ensure ETP drawings are pre-validated to avoid scrutiny deficiency queries."
+      ],
+      regulatory_explanations: [
+        {
+          approval_id: "UP_PCB_CTE_001",
+          approval_name: "Consent to Establish (CTE)",
+          answer: "Under Section 25 of the Water Act 1974, prior consent from the State Board is mandatory before establishing manufacturing units.",
+          cited_acts: ["Water (Prevention & Control of Pollution) Act 1974 Sec 25", "UP Single Window Act 2018"],
+          confidence: 0.94,
+          sources: [{ source_name: "Water Act 1974", source_url: "https://cpcb.nic.in" }]
+        }
+      ],
+      sources: [
+        { source_name: "Water Act 1974", source_url: "https://cpcb.nic.in", authority: "Central Pollution Control Board", jurisdiction: "Central", is_official: true }
+      ],
+      disclaimer: "Deterministic Rule Engine analysis with ML predictions. Does not replace statutory government approval."
+    } as unknown as T;
   }
   if (cleanEndpoint.startsWith("/ai/ask")) {
     return {
