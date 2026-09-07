@@ -1,0 +1,11 @@
+sector,state,investment_inr,employees,approvals_count,has_hazardous,processing_days,sla_breached,query_raised
+Food Processing,Uttar Pradesh,50000000,80,4,0,32,0,0
+Chemical Manufacturing,Gujarat,120000000,150,6,1,58,1,1
+Textile Processing,Tamil Nadu,35000000,45,3,0,24,0,0
+Automobile Ancillary,Maharashtra,85000000,110,5,0,39,0,1
+Pharmaceuticals,Telangana,150000000,180,6,1,64,1,1
+IT & Software,Karnataka,20000000,30,2,0,14,0,0
+Dairy Processing,Punjab,40000000,60,4,0,28,0,0
+Plastics & Packaging,Rajasthan,30000000,40,3,0,26,0,0
+Heavy Engineering,Haryana,95000000,120,5,0,45,1,1
+Electronics Assembly,Uttar Pradesh,60000000,90,4,0,30,0,0

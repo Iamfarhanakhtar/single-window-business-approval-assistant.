@@ -1,0 +1,1501 @@
+application_id,state,sector,investment,employees,approval_count,document_count,missing_document_count,inspection_required,department_count,previous_queries,project_stage,applicant_type,season,authority,sla_days,actual_processing_days,delayed
+APP_SYN_0001,Uttar Pradesh,Information Technology,6737725.98,28,4,12,3,1,2,0,Pre-Operation,MSME,Q3,UP Fire Service,15,22.2,1
+APP_SYN_0002,Uttar Pradesh,Food Processing,2397015.8,96,5,20,0,1,3,0,Pre-Operation,MSME,Q1,Directorate of Factories,60,59.5,0
+APP_SYN_0003,Maharashtra,Pharmaceuticals,5815868.15,13,3,12,1,0,1,0,Pre-Operation,MSME,Q2,FSSAI,20,18.5,0
+APP_SYN_0004,Uttar Pradesh,Pharmaceuticals,485398973.93,526,10,40,0,0,3,2,Pre-Establishment,Enterprise,Q2,Legal Metrology,30,36.3,1
+APP_SYN_0005,Uttar Pradesh,Manufacturing,1913070.79,13,1,3,2,0,1,3,Pre-Operation,Individual,Q1,CEIG,30,37.4,1
+APP_SYN_0006,Uttar Pradesh,Food Processing,18712535.95,184,4,16,0,0,4,1,Pre-Operation,Enterprise,Q3,Directorate of Factories,30,30.9,1
+APP_SYN_0007,Maharashtra,Food Processing,7835974.49,18,4,20,0,0,1,0,Pre-Operation,MSME,Q3,Legal Metrology,15,12.8,0
+APP_SYN_0008,Gujarat,Food Processing,2918955.56,4,1,5,0,0,1,2,Pre-Operation,Individual,Q3,Boilers Directorate,30,27.8,0
+APP_SYN_0009,Gujarat,Pharmaceuticals,16150954.48,96,2,8,0,0,2,0,Pre-Operation,MSME,Q2,Legal Metrology,30,23.9,0
+APP_SYN_0010,Tamil Nadu,Food Processing,4097257.42,83,4,12,0,0,2,0,Pre-Operation,MSME,Q1,UPPCB,15,10.5,0
+APP_SYN_0011,Gujarat,Textiles,1157037.21,5,2,6,1,0,1,0,Pre-Establishment,Individual,Q3,UPPCB,20,19.1,0
+APP_SYN_0012,Maharashtra,Manufacturing,4829083.22,74,4,12,0,1,3,1,Pre-Establishment,MSME,Q1,Boilers Directorate,45,54.0,1
+APP_SYN_0013,Uttar Pradesh,Food Processing,64533977.7,387,11,55,0,0,2,2,Pre-Operation,Enterprise,Q4,Boilers Directorate,45,44.9,0
+APP_SYN_0014,Uttar Pradesh,Textiles,4157428.26,16,6,30,0,0,1,1,Pre-Operation,MSME,Q4,UPPCB,30,27.3,0
+APP_SYN_0015,Tamil Nadu,Manufacturing,48820430.58,276,11,33,1,0,3,0,Operation,Enterprise,Q1,FSSAI,20,22.3,1
+APP_SYN_0016,Gujarat,Textiles,112981655.31,441,10,30,0,0,4,0,Pre-Establishment,Enterprise,Q1,Legal Metrology,30,26.0,0
+APP_SYN_0017,Uttar Pradesh,Manufacturing,1144981.49,32,2,6,0,1,1,1,Operation,MSME,Q4,Directorate of Factories,15,13.7,0
+APP_SYN_0018,Rajasthan,Manufacturing,35503991.51,351,8,40,4,0,4,0,Pre-Establishment,Enterprise,Q4,UPPCB,15,24.1,1
+APP_SYN_0019,Uttar Pradesh,Manufacturing,8958291.09,27,3,15,0,0,3,2,Pre-Establishment,MSME,Q2,UP Fire Service,15,14.0,0
+APP_SYN_0020,Gujarat,Manufacturing,2998549.09,11,2,6,0,0,1,0,Pre-Establishment,MSME,Q2,UPPCB,45,33.3,0
+APP_SYN_0021,Uttar Pradesh,Manufacturing,45574109.75,354,7,28,0,1,3,0,Pre-Operation,Enterprise,Q3,UPPCB,30,32.5,1
+APP_SYN_0022,Uttar Pradesh,Information Technology,178017569.87,318,5,20,0,0,5,0,Pre-Operation,Enterprise,Q4,FSSAI,20,18.9,0
+APP_SYN_0023,Uttar Pradesh,Food Processing,13520711.24,562,10,40,0,0,3,2,Operation,Enterprise,Q1,FSSAI,30,31.7,1
+APP_SYN_0024,Maharashtra,Textiles,13725749.45,135,4,16,0,0,2,0,Pre-Operation,Enterprise,Q3,FSSAI,60,51.8,0
+APP_SYN_0025,Uttar Pradesh,Food Processing,266744263.1,571,9,36,0,0,2,2,Pre-Operation,Enterprise,Q4,UPPCB,20,20.8,1
+APP_SYN_0026,Maharashtra,Textiles,1478355.5,12,2,10,1,0,1,0,Pre-Operation,Individual,Q2,UPPCB,45,42.9,0
+APP_SYN_0027,Uttar Pradesh,Information Technology,6748248.14,85,3,12,1,0,1,0,Operation,MSME,Q1,FSSAI,20,16.0,0
+APP_SYN_0028,Gujarat,Food Processing,5612995.92,77,4,20,0,0,1,1,Operation,MSME,Q1,CEIG,20,17.4,0
+APP_SYN_0029,Tamil Nadu,Pharmaceuticals,128949437.28,391,8,40,0,0,4,2,Pre-Operation,Enterprise,Q1,Directorate of Factories,15,17.3,1
+APP_SYN_0030,Uttar Pradesh,Information Technology,6334528.58,56,4,12,2,0,1,0,Operation,MSME,Q3,CEIG,20,19.6,0
+APP_SYN_0031,Uttar Pradesh,Manufacturing,69196248.54,302,9,36,1,0,4,2,Pre-Operation,Enterprise,Q3,Directorate of Factories,30,44.6,1
+APP_SYN_0032,Uttar Pradesh,Food Processing,3033551.56,65,5,25,0,1,2,0,Operation,MSME,Q1,Legal Metrology,20,17.6,0
+APP_SYN_0033,Uttar Pradesh,Manufacturing,14900578.28,81,5,15,0,0,2,2,Pre-Establishment,MSME,Q1,Boilers Directorate,15,15.9,1
+APP_SYN_0034,Rajasthan,Food Processing,10584055.39,61,3,9,0,0,3,3,Operation,MSME,Q1,Legal Metrology,30,31.0,1
+APP_SYN_0035,Uttar Pradesh,Textiles,4474395.25,8,2,8,0,0,1,0,Operation,Individual,Q4,Legal Metrology,20,14.0,0
+APP_SYN_0036,Uttar Pradesh,Manufacturing,1604527.9,17,4,16,3,1,1,1,Pre-Establishment,MSME,Q1,FSSAI,20,28.6,1
+APP_SYN_0037,Tamil Nadu,Pharmaceuticals,6826905.26,67,2,10,2,1,2,0,Pre-Establishment,MSME,Q1,Legal Metrology,20,21.4,1
+APP_SYN_0038,Uttar Pradesh,Food Processing,40013174.88,507,6,18,0,0,2,3,Operation,Enterprise,Q3,CEIG,30,35.8,1
+APP_SYN_0039,Uttar Pradesh,Textiles,6542742.31,7,4,12,1,0,2,2,Pre-Operation,MSME,Q4,Boilers Directorate,20,27.7,1
+APP_SYN_0040,Uttar Pradesh,Food Processing,26955952.58,355,5,20,1,0,3,1,Pre-Operation,Enterprise,Q2,Directorate of Factories,20,20.9,1
+APP_SYN_0041,Maharashtra,Pharmaceuticals,4612422.62,21,3,9,4,0,1,0,Pre-Establishment,MSME,Q1,CEIG,30,42.7,1
+APP_SYN_0042,Uttar Pradesh,Food Processing,7226595.49,8,2,10,0,1,2,1,Pre-Establishment,MSME,Q3,Directorate of Factories,15,14.5,0
+APP_SYN_0043,Karnataka,Food Processing,968316.81,50,3,12,0,0,1,0,Pre-Establishment,MSME,Q2,UPPCB,20,15.4,0
+APP_SYN_0044,Gujarat,Manufacturing,6215164.44,51,3,12,0,1,3,0,Pre-Establishment,MSME,Q1,UP Fire Service,20,19.3,0
+APP_SYN_0045,Gujarat,Pharmaceuticals,18238219.6,19,2,6,0,0,2,2,Pre-Operation,MSME,Q1,UP Fire Service,15,11.0,0
+APP_SYN_0046,Maharashtra,Food Processing,4246118.31,90,3,9,1,0,3,0,Pre-Establishment,MSME,Q2,Directorate of Factories,45,53.9,1
+APP_SYN_0047,Gujarat,Food Processing,4569931.77,98,4,16,2,0,2,2,Pre-Operation,MSME,Q1,UPPCB,15,15.5,1
+APP_SYN_0048,Uttar Pradesh,Textiles,39510953.66,490,5,25,1,0,4,1,Operation,Enterprise,Q4,FSSAI,15,18.7,1
+APP_SYN_0049,Uttar Pradesh,Manufacturing,1592104.96,41,4,12,0,0,3,0,Pre-Operation,MSME,Q3,UPPCB,15,14.7,0
+APP_SYN_0050,Uttar Pradesh,Information Technology,107790080.47,599,10,40,0,1,4,1,Pre-Establishment,Enterprise,Q1,Boilers Directorate,20,24.9,1
+APP_SYN_0051,Tamil Nadu,Information Technology,8248430.63,64,4,12,2,0,1,0,Pre-Establishment,MSME,Q1,Legal Metrology,20,21.4,1
+APP_SYN_0052,Tamil Nadu,Manufacturing,9495603.82,67,2,6,2,0,1,0,Pre-Operation,MSME,Q2,Directorate of Factories,45,54.9,1
+APP_SYN_0053,Gujarat,Food Processing,54008217.38,338,7,35,1,1,3,1,Operation,Enterprise,Q4,UP Fire Service,30,38.1,1
+APP_SYN_0054,Karnataka,Food Processing,27628343.54,208,10,30,0,0,5,1,Pre-Establishment,Enterprise,Q1,Directorate of Factories,15,17.0,1
+APP_SYN_0055,Uttar Pradesh,Textiles,9165928.36,118,7,28,3,0,4,0,Pre-Operation,Enterprise,Q3,FSSAI,20,29.2,1
+APP_SYN_0056,Tamil Nadu,Food Processing,5882637.86,72,6,30,0,1,1,1,Pre-Operation,MSME,Q1,UPPCB,20,21.3,1
+APP_SYN_0057,Gujarat,Information Technology,5635407.0,44,6,18,1,0,3,1,Operation,MSME,Q2,CEIG,30,37.2,1
+APP_SYN_0058,Uttar Pradesh,Manufacturing,1991336.04,11,1,5,0,0,1,0,Operation,Individual,Q3,UP Fire Service,20,15.5,0
+APP_SYN_0059,Tamil Nadu,Manufacturing,15942946.23,133,4,16,2,1,2,0,Pre-Operation,Enterprise,Q4,UP Fire Service,20,25.8,1
+APP_SYN_0060,Uttar Pradesh,Manufacturing,402390736.44,67,4,20,0,1,3,0,Pre-Operation,Enterprise,Q2,Legal Metrology,20,17.0,0
+APP_SYN_0061,Maharashtra,Food Processing,11220348.01,211,7,35,4,1,2,2,Pre-Establishment,Enterprise,Q3,Directorate of Factories,20,33.8,1
+APP_SYN_0062,Maharashtra,Food Processing,10324687.99,55,2,8,2,1,2,1,Pre-Establishment,MSME,Q4,Legal Metrology,30,34.6,1
+APP_SYN_0063,Rajasthan,Information Technology,6996400.9,64,3,9,2,0,2,0,Pre-Establishment,MSME,Q3,UP Fire Service,20,19.9,0
+APP_SYN_0064,Maharashtra,Food Processing,1325399.48,90,5,20,1,1,1,0,Pre-Operation,MSME,Q2,UPPCB,15,13.9,0
+APP_SYN_0065,Maharashtra,Manufacturing,69417588.42,543,7,28,3,1,3,1,Pre-Operation,Enterprise,Q1,Boilers Directorate,30,42.3,1
+APP_SYN_0066,Maharashtra,Chemicals,22948433.0,90,6,18,0,1,3,0,Pre-Operation,MSME,Q1,UPPCB,30,30.2,1
+APP_SYN_0067,Maharashtra,Manufacturing,1222210.13,58,4,20,0,1,1,0,Pre-Operation,MSME,Q2,UP Fire Service,30,22.2,0
+APP_SYN_0068,Uttar Pradesh,Pharmaceuticals,63584799.85,455,8,24,0,0,5,0,Pre-Operation,Enterprise,Q2,UP Fire Service,30,29.9,0
+APP_SYN_0069,Karnataka,Information Technology,12721202.4,266,8,32,0,0,4,0,Pre-Establishment,Enterprise,Q2,CEIG,15,12.3,0
+APP_SYN_0070,Rajasthan,Food Processing,6414081.24,16,4,12,1,1,3,1,Pre-Establishment,MSME,Q3,Directorate of Factories,60,87.3,1
+APP_SYN_0071,Tamil Nadu,Manufacturing,5854857.47,21,3,12,3,0,1,1,Pre-Operation,MSME,Q2,Boilers Directorate,20,23.7,1
+APP_SYN_0072,Tamil Nadu,Information Technology,3714073.66,21,4,16,2,0,1,0,Operation,MSME,Q2,FSSAI,20,21.8,1
+APP_SYN_0073,Maharashtra,Chemicals,3676502.34,157,9,45,0,1,3,0,Pre-Operation,Enterprise,Q1,UP Fire Service,15,16.2,1
+APP_SYN_0074,Uttar Pradesh,Information Technology,43062526.18,14,2,10,0,0,2,0,Pre-Establishment,MSME,Q1,Legal Metrology,20,14.3,0
+APP_SYN_0075,Uttar Pradesh,Pharmaceuticals,4430151.35,72,5,20,2,0,3,0,Pre-Operation,MSME,Q4,UPPCB,60,65.5,1
+APP_SYN_0076,Tamil Nadu,Manufacturing,1099632.4,19,1,4,0,0,1,0,Operation,Individual,Q3,FSSAI,15,10.7,0
+APP_SYN_0077,Karnataka,Manufacturing,961221.78,18,2,8,4,1,1,0,Pre-Establishment,Individual,Q1,UPPCB,30,38.5,1
+APP_SYN_0078,Gujarat,Food Processing,10381680.53,590,4,12,2,0,4,0,Operation,Enterprise,Q3,UPPCB,45,52.6,1
+APP_SYN_0079,Gujarat,Food Processing,5589909.93,41,5,15,4,0,1,2,Pre-Establishment,MSME,Q3,CEIG,20,29.5,1
+APP_SYN_0080,Tamil Nadu,Manufacturing,6112761.55,84,5,25,2,1,1,2,Pre-Operation,MSME,Q1,CEIG,30,44.8,1
+APP_SYN_0081,Gujarat,Manufacturing,4715217.19,57,3,12,1,0,2,0,Pre-Operation,MSME,Q3,CEIG,15,14.9,0
+APP_SYN_0082,Uttar Pradesh,Manufacturing,4213387.07,34,3,12,0,1,1,2,Pre-Establishment,MSME,Q4,CEIG,15,16.8,1
+APP_SYN_0083,Tamil Nadu,Textiles,5994636.67,69,3,12,2,1,3,3,Pre-Establishment,MSME,Q1,FSSAI,30,44.1,1
+APP_SYN_0084,Uttar Pradesh,Chemicals,18857461.39,62,3,12,0,1,2,0,Pre-Establishment,MSME,Q2,Boilers Directorate,45,40.2,0
+APP_SYN_0085,Maharashtra,Chemicals,25754546.63,431,7,21,3,0,5,1,Pre-Establishment,Enterprise,Q3,Legal Metrology,20,31.1,1
+APP_SYN_0086,Uttar Pradesh,Information Technology,12911313.73,320,7,35,3,0,5,2,Pre-Operation,Enterprise,Q3,UP Fire Service,30,55.0,1
+APP_SYN_0087,Karnataka,Chemicals,122580877.03,202,9,45,0,1,3,0,Pre-Operation,Enterprise,Q4,FSSAI,15,16.8,1
+APP_SYN_0088,Maharashtra,Food Processing,25913071.93,86,4,12,2,1,1,0,Pre-Operation,MSME,Q4,Directorate of Factories,20,22.8,1
+APP_SYN_0089,Uttar Pradesh,Food Processing,17943143.84,78,3,12,0,1,1,0,Operation,MSME,Q4,Legal Metrology,30,29.6,0
+APP_SYN_0090,Uttar Pradesh,Food Processing,7142067.47,65,4,16,1,1,3,1,Operation,MSME,Q2,UP Fire Service,20,24.3,1
+APP_SYN_0091,Tamil Nadu,Information Technology,267379658.88,257,7,28,2,0,3,0,Pre-Operation,Enterprise,Q3,Directorate of Factories,15,18.1,1
+APP_SYN_0092,Uttar Pradesh,Textiles,9802769.37,405,8,24,2,0,5,0,Pre-Operation,Enterprise,Q1,CEIG,30,41.9,1
+APP_SYN_0093,Gujarat,Food Processing,1737765.73,15,1,5,0,1,1,1,Operation,Individual,Q3,FSSAI,30,26.9,0
+APP_SYN_0094,Uttar Pradesh,Food Processing,1375972.2,4,2,6,0,1,1,0,Pre-Establishment,Individual,Q4,UP Fire Service,30,30.1,1
+APP_SYN_0095,Gujarat,Information Technology,14607731.61,30,5,25,1,0,2,0,Pre-Establishment,MSME,Q3,CEIG,20,19.3,0
+APP_SYN_0096,Uttar Pradesh,Manufacturing,13510970.73,74,2,6,3,0,2,1,Pre-Establishment,MSME,Q2,Boilers Directorate,20,22.5,1
+APP_SYN_0097,Karnataka,Food Processing,1008398.5,98,2,6,0,1,1,1,Operation,MSME,Q3,UP Fire Service,15,15.4,1
+APP_SYN_0098,Uttar Pradesh,Food Processing,56161493.28,205,10,40,0,0,4,0,Pre-Operation,Enterprise,Q1,UPPCB,15,14.9,0
+APP_SYN_0099,Maharashtra,Information Technology,4629708.62,55,5,15,0,0,2,0,Pre-Establishment,MSME,Q2,CEIG,20,16.5,0
+APP_SYN_0100,Rajasthan,Manufacturing,2297998.35,49,5,20,1,0,2,0,Pre-Establishment,MSME,Q3,FSSAI,30,29.7,0
+APP_SYN_0101,Uttar Pradesh,Food Processing,5171623.51,34,3,9,2,1,2,1,Operation,MSME,Q1,Boilers Directorate,15,19.5,1
+APP_SYN_0102,Karnataka,Pharmaceuticals,1989732.81,2,2,8,0,1,1,3,Pre-Operation,Individual,Q2,CEIG,30,39.6,1
+APP_SYN_0103,Uttar Pradesh,Food Processing,36021629.96,531,5,15,0,1,2,0,Pre-Establishment,Enterprise,Q2,Legal Metrology,20,19.5,0
+APP_SYN_0104,Gujarat,Food Processing,87517645.55,466,4,12,0,0,4,0,Pre-Operation,Enterprise,Q3,CEIG,15,11.2,0
+APP_SYN_0105,Gujarat,Chemicals,3747519.0,30,2,8,0,0,1,0,Pre-Operation,MSME,Q4,UP Fire Service,20,15.6,0
+APP_SYN_0106,Maharashtra,Textiles,11221058.26,19,2,10,0,1,2,0,Pre-Operation,MSME,Q1,Boilers Directorate,15,13.3,0
+APP_SYN_0107,Maharashtra,Food Processing,1167432.52,40,3,9,4,1,2,0,Pre-Establishment,MSME,Q3,FSSAI,15,23.4,1
+APP_SYN_0108,Tamil Nadu,Chemicals,2790978.66,58,2,8,0,0,1,1,Pre-Establishment,MSME,Q1,UP Fire Service,20,16.1,0
+APP_SYN_0109,Maharashtra,Chemicals,6207128.96,53,3,9,0,1,3,2,Pre-Operation,MSME,Q1,CEIG,30,35.6,1
+APP_SYN_0110,Karnataka,Chemicals,8058511.22,37,6,24,0,1,1,1,Pre-Establishment,MSME,Q1,Boilers Directorate,20,19.1,0
+APP_SYN_0111,Uttar Pradesh,Manufacturing,20538739.43,46,6,18,1,1,3,0,Pre-Operation,MSME,Q2,Directorate of Factories,15,18.6,1
+APP_SYN_0112,Gujarat,Manufacturing,2234161.56,45,5,15,2,1,1,0,Pre-Establishment,MSME,Q4,CEIG,30,33.3,1
+APP_SYN_0113,Uttar Pradesh,Manufacturing,1623881.83,39,3,12,0,1,3,0,Pre-Operation,MSME,Q2,Directorate of Factories,60,49.6,0
+APP_SYN_0114,Gujarat,Chemicals,831961.81,27,5,20,4,1,3,0,Pre-Establishment,MSME,Q2,UPPCB,30,44.1,1
+APP_SYN_0115,Maharashtra,Manufacturing,62668058.48,558,9,27,0,0,5,0,Pre-Establishment,Enterprise,Q1,CEIG,20,21.4,1
+APP_SYN_0116,Uttar Pradesh,Manufacturing,7219099.6,64,6,30,0,1,2,1,Pre-Operation,MSME,Q2,FSSAI,30,35.7,1
+APP_SYN_0117,Maharashtra,Textiles,3808370.09,82,5,20,2,0,2,2,Pre-Establishment,MSME,Q2,UPPCB,45,54.3,1
+APP_SYN_0118,Maharashtra,Manufacturing,2298825.89,12,6,18,0,0,2,1,Pre-Operation,MSME,Q3,Directorate of Factories,15,14.4,0
+APP_SYN_0119,Maharashtra,Information Technology,1432388.24,35,4,20,0,0,1,0,Operation,MSME,Q3,Legal Metrology,30,27.2,0
+APP_SYN_0120,Gujarat,Food Processing,3056248.96,11,5,25,0,0,1,0,Pre-Operation,MSME,Q1,UPPCB,15,12.1,0
+APP_SYN_0121,Gujarat,Chemicals,12666329.99,204,7,28,0,0,3,3,Pre-Operation,Enterprise,Q3,Legal Metrology,15,20.8,1
+APP_SYN_0122,Uttar Pradesh,Manufacturing,7771936.17,17,6,24,1,0,2,0,Pre-Operation,MSME,Q3,UP Fire Service,15,13.7,0
+APP_SYN_0123,Uttar Pradesh,Food Processing,3946433.09,86,4,12,0,1,1,1,Pre-Operation,MSME,Q4,Boilers Directorate,45,47.5,1
+APP_SYN_0124,Rajasthan,Chemicals,53364650.92,281,8,40,0,0,5,0,Pre-Establishment,Enterprise,Q4,CEIG,15,15.8,1
+APP_SYN_0125,Tamil Nadu,Manufacturing,3323499.14,76,2,10,1,1,2,0,Operation,MSME,Q4,UPPCB,15,16.4,1
+APP_SYN_0126,Maharashtra,Manufacturing,630332.94,5,2,8,1,0,1,0,Pre-Operation,Individual,Q4,Boilers Directorate,15,11.1,0
+APP_SYN_0127,Rajasthan,Food Processing,29787164.73,431,7,21,1,1,3,0,Pre-Operation,Enterprise,Q2,Boilers Directorate,60,67.5,1
+APP_SYN_0128,Karnataka,Food Processing,334206659.06,275,6,30,0,1,3,0,Operation,Enterprise,Q1,Boilers Directorate,20,21.0,1
+APP_SYN_0129,Maharashtra,Manufacturing,5195458.18,25,4,16,2,1,2,2,Pre-Establishment,MSME,Q4,CEIG,20,32.9,1
+APP_SYN_0130,Karnataka,Manufacturing,15635872.55,284,4,12,1,0,3,1,Pre-Operation,Enterprise,Q3,Boilers Directorate,15,17.9,1
+APP_SYN_0131,Rajasthan,Manufacturing,10249675.97,7,4,12,0,1,3,2,Pre-Establishment,MSME,Q2,Directorate of Factories,20,24.9,1
+APP_SYN_0132,Uttar Pradesh,Manufacturing,18440129.11,540,4,12,1,1,3,0,Pre-Operation,Enterprise,Q3,UPPCB,20,22.0,1
+APP_SYN_0133,Karnataka,Manufacturing,19650071.17,467,8,40,1,1,2,0,Pre-Establishment,Enterprise,Q2,FSSAI,20,23.1,1
+APP_SYN_0134,Uttar Pradesh,Manufacturing,56770124.94,454,5,20,0,1,3,0,Pre-Operation,Enterprise,Q2,Directorate of Factories,30,26.2,0
+APP_SYN_0135,Maharashtra,Manufacturing,28041689.21,38,3,15,0,0,3,1,Pre-Establishment,MSME,Q3,FSSAI,15,16.8,1
+APP_SYN_0136,Gujarat,Textiles,2162225.79,59,2,6,0,0,2,0,Operation,MSME,Q4,Directorate of Factories,30,24.6,0
+APP_SYN_0137,Rajasthan,Information Technology,4074710.46,74,5,25,1,0,3,0,Pre-Operation,MSME,Q4,FSSAI,20,21.3,1
+APP_SYN_0138,Uttar Pradesh,Food Processing,7229147.26,475,6,24,2,1,3,0,Pre-Establishment,Enterprise,Q1,Legal Metrology,30,39.2,1
+APP_SYN_0139,Maharashtra,Manufacturing,541974.3,61,5,15,0,1,2,0,Pre-Establishment,MSME,Q3,Boilers Directorate,30,28.3,0
+APP_SYN_0140,Gujarat,Information Technology,2670066.48,96,3,15,0,0,2,0,Pre-Establishment,MSME,Q2,Legal Metrology,20,13.9,0
+APP_SYN_0141,Uttar Pradesh,Food Processing,1315508.73,19,3,15,2,0,3,2,Operation,MSME,Q4,UP Fire Service,30,38.3,1
+APP_SYN_0142,Gujarat,Manufacturing,3451001.72,93,6,18,0,0,1,0,Operation,MSME,Q3,UP Fire Service,20,14.5,0
+APP_SYN_0143,Tamil Nadu,Manufacturing,4254836.99,90,2,8,0,1,1,0,Pre-Operation,MSME,Q2,FSSAI,15,12.8,0
+APP_SYN_0144,Tamil Nadu,Chemicals,8844650.83,92,5,20,4,1,3,0,Pre-Operation,MSME,Q4,Directorate of Factories,20,35.7,1
+APP_SYN_0145,Tamil Nadu,Manufacturing,16574358.65,430,4,16,1,1,4,0,Pre-Operation,Enterprise,Q3,CEIG,15,19.0,1
+APP_SYN_0146,Uttar Pradesh,Food Processing,5478633.04,476,6,30,0,0,2,0,Pre-Establishment,Enterprise,Q3,FSSAI,20,15.7,0
+APP_SYN_0147,Karnataka,Food Processing,13293647.53,517,9,36,0,1,5,2,Pre-Establishment,Enterprise,Q3,Legal Metrology,20,28.0,1
+APP_SYN_0148,Rajasthan,Food Processing,3469242.2,98,4,20,0,1,1,0,Pre-Establishment,MSME,Q1,FSSAI,60,56.1,0
+APP_SYN_0149,Gujarat,Manufacturing,115947428.81,431,9,45,0,1,2,1,Pre-Establishment,Enterprise,Q3,Directorate of Factories,20,27.4,1
+APP_SYN_0150,Gujarat,Food Processing,36687541.71,180,7,28,0,1,5,2,Pre-Operation,Enterprise,Q4,UPPCB,15,17.5,1
+APP_SYN_0151,Uttar Pradesh,Food Processing,14270810.95,26,2,10,2,0,1,0,Pre-Establishment,MSME,Q2,Directorate of Factories,30,34.6,1
+APP_SYN_0152,Uttar Pradesh,Food Processing,86968996.3,192,10,50,1,0,2,1,Pre-Establishment,Enterprise,Q2,UPPCB,45,46.4,1
+APP_SYN_0153,Uttar Pradesh,Chemicals,28306529.83,599,9,27,0,0,5,3,Pre-Establishment,Enterprise,Q3,UPPCB,15,18.8,1
+APP_SYN_0154,Uttar Pradesh,Food Processing,926219.62,19,1,4,1,1,1,3,Pre-Operation,Individual,Q3,Legal Metrology,30,42.5,1
+APP_SYN_0155,Maharashtra,Manufacturing,28279891.18,514,9,27,0,0,2,0,Pre-Operation,Enterprise,Q4,Legal Metrology,20,17.2,0
+APP_SYN_0156,Uttar Pradesh,Textiles,2126918.03,9,2,10,1,0,1,2,Pre-Establishment,Individual,Q4,UP Fire Service,20,25.8,1
+APP_SYN_0157,Uttar Pradesh,Food Processing,2823496.35,48,2,6,0,0,1,2,Pre-Operation,MSME,Q1,CEIG,15,12.7,0
+APP_SYN_0158,Rajasthan,Food Processing,2199326.8,23,3,12,1,1,1,0,Pre-Operation,MSME,Q2,FSSAI,30,29.1,0
+APP_SYN_0159,Uttar Pradesh,Manufacturing,7567606.61,38,4,12,0,1,3,0,Pre-Establishment,MSME,Q1,Directorate of Factories,20,19.5,0
+APP_SYN_0160,Uttar Pradesh,Manufacturing,1749684.47,39,6,18,0,1,1,0,Pre-Establishment,MSME,Q4,UP Fire Service,30,28.3,0
+APP_SYN_0161,Karnataka,Food Processing,3588467.28,13,6,18,2,1,1,2,Pre-Operation,MSME,Q4,Legal Metrology,30,42.6,1
+APP_SYN_0162,Uttar Pradesh,Textiles,4010172.91,23,5,15,0,0,1,0,Pre-Establishment,MSME,Q3,Legal Metrology,30,20.0,0
+APP_SYN_0163,Rajasthan,Textiles,3986418.92,72,2,8,0,0,2,0,Operation,MSME,Q2,CEIG,45,37.7,0
+APP_SYN_0164,Uttar Pradesh,Food Processing,10295200.89,81,3,12,0,0,2,0,Pre-Operation,MSME,Q1,UPPCB,15,12.2,0
+APP_SYN_0165,Gujarat,Textiles,38651378.88,468,6,30,1,0,2,0,Pre-Operation,Enterprise,Q2,UP Fire Service,30,28.5,0
+APP_SYN_0166,Uttar Pradesh,Textiles,208655561.92,424,4,16,2,0,2,1,Pre-Operation,Enterprise,Q2,Directorate of Factories,30,32.6,1
+APP_SYN_0167,Tamil Nadu,Pharmaceuticals,4334244.35,37,3,15,0,1,1,0,Pre-Operation,MSME,Q4,UP Fire Service,15,13.4,0
+APP_SYN_0168,Uttar Pradesh,Manufacturing,1401774.44,42,6,24,0,1,2,0,Pre-Operation,MSME,Q3,Directorate of Factories,20,18.6,0
+APP_SYN_0169,Uttar Pradesh,Manufacturing,5021853.43,55,3,15,0,1,2,0,Operation,MSME,Q3,Legal Metrology,30,27.7,0
+APP_SYN_0170,Uttar Pradesh,Manufacturing,2704317.41,63,5,15,4,1,1,3,Pre-Operation,MSME,Q2,FSSAI,20,34.2,1
+APP_SYN_0171,Maharashtra,Food Processing,64912054.46,546,8,40,0,1,3,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,20,23.1,1
+APP_SYN_0172,Maharashtra,Food Processing,51788340.02,214,10,30,0,1,2,0,Pre-Operation,Enterprise,Q3,FSSAI,60,66.0,1
+APP_SYN_0173,Tamil Nadu,Textiles,28757617.25,233,7,28,0,1,2,3,Pre-Operation,Enterprise,Q1,Legal Metrology,20,25.6,1
+APP_SYN_0174,Uttar Pradesh,Chemicals,45754869.28,27,4,12,0,1,3,2,Pre-Operation,MSME,Q4,Legal Metrology,20,26.3,1
+APP_SYN_0175,Uttar Pradesh,Manufacturing,113717222.14,196,10,50,0,1,3,1,Pre-Operation,Enterprise,Q3,Boilers Directorate,45,51.7,1
+APP_SYN_0176,Uttar Pradesh,Manufacturing,27536846.72,253,5,25,0,1,2,0,Pre-Operation,Enterprise,Q2,UP Fire Service,60,49.5,0
+APP_SYN_0177,Gujarat,Chemicals,8137830.17,41,6,18,1,1,1,1,Pre-Establishment,MSME,Q1,FSSAI,15,18.0,1
+APP_SYN_0178,Maharashtra,Food Processing,2859233.28,64,6,24,0,0,1,2,Pre-Operation,MSME,Q2,Directorate of Factories,30,28.2,0
+APP_SYN_0179,Uttar Pradesh,Chemicals,11817018.57,35,5,25,0,0,2,0,Pre-Establishment,MSME,Q2,UP Fire Service,20,18.1,0
+APP_SYN_0180,Uttar Pradesh,Manufacturing,17627854.29,35,2,10,2,1,2,2,Pre-Operation,MSME,Q2,CEIG,30,40.0,1
+APP_SYN_0181,Gujarat,Manufacturing,12586909.79,81,4,16,0,0,3,2,Pre-Operation,MSME,Q1,Boilers Directorate,30,39.5,1
+APP_SYN_0182,Gujarat,Food Processing,9487198.71,90,2,8,0,0,2,3,Pre-Operation,MSME,Q1,UP Fire Service,15,17.6,1
+APP_SYN_0183,Tamil Nadu,Chemicals,10711307.56,55,6,18,0,1,3,1,Pre-Establishment,MSME,Q2,FSSAI,15,16.9,1
+APP_SYN_0184,Uttar Pradesh,Manufacturing,27425607.31,284,8,24,0,0,2,1,Operation,Enterprise,Q3,UP Fire Service,45,41.8,0
+APP_SYN_0185,Uttar Pradesh,Manufacturing,280652.19,9,1,5,0,1,1,1,Pre-Operation,Individual,Q1,CEIG,15,14.1,0
+APP_SYN_0186,Tamil Nadu,Food Processing,4006896.59,60,2,10,1,0,1,0,Pre-Operation,MSME,Q2,UPPCB,30,32.1,1
+APP_SYN_0187,Gujarat,Food Processing,6285993.0,17,2,8,2,1,1,0,Pre-Operation,MSME,Q4,Legal Metrology,30,35.0,1
+APP_SYN_0188,Uttar Pradesh,Pharmaceuticals,72068543.27,585,8,24,3,0,4,1,Pre-Operation,Enterprise,Q2,UP Fire Service,20,28.8,1
+APP_SYN_0189,Karnataka,Chemicals,1042761.38,6,1,3,0,1,1,0,Pre-Operation,Individual,Q3,Legal Metrology,30,27.6,0
+APP_SYN_0190,Maharashtra,Manufacturing,8169284.46,12,2,6,0,0,2,0,Pre-Operation,MSME,Q4,Boilers Directorate,45,46.5,1
+APP_SYN_0191,Gujarat,Information Technology,10630825.03,13,6,30,3,0,2,0,Pre-Operation,MSME,Q4,Boilers Directorate,15,22.3,1
+APP_SYN_0192,Uttar Pradesh,Food Processing,53390138.9,409,7,35,1,0,4,0,Pre-Operation,Enterprise,Q1,Directorate of Factories,45,47.4,1
+APP_SYN_0193,Uttar Pradesh,Manufacturing,18781283.78,471,6,30,0,1,3,3,Operation,Enterprise,Q2,UP Fire Service,30,45.6,1
+APP_SYN_0194,Tamil Nadu,Chemicals,12861593.08,12,5,25,1,0,1,3,Pre-Operation,MSME,Q3,Legal Metrology,20,24.8,1
+APP_SYN_0195,Uttar Pradesh,Textiles,41581474.49,188,8,32,1,0,2,1,Pre-Establishment,Enterprise,Q4,Directorate of Factories,60,69.8,1
+APP_SYN_0196,Uttar Pradesh,Chemicals,1552741.01,8,1,4,0,1,1,0,Operation,Individual,Q3,Directorate of Factories,30,27.1,0
+APP_SYN_0197,Gujarat,Food Processing,69486256.47,304,6,24,0,1,2,1,Pre-Operation,Enterprise,Q2,FSSAI,15,15.4,1
+APP_SYN_0198,Uttar Pradesh,Food Processing,20131715.19,595,6,18,1,0,2,0,Pre-Operation,Enterprise,Q2,FSSAI,30,24.4,0
+APP_SYN_0199,Tamil Nadu,Information Technology,7460865.48,95,3,12,3,1,1,3,Pre-Operation,MSME,Q2,CEIG,15,21.0,1
+APP_SYN_0200,Karnataka,Chemicals,627015.38,4,1,5,1,0,1,0,Pre-Establishment,Individual,Q2,UP Fire Service,30,27.9,0
+APP_SYN_0201,Uttar Pradesh,Manufacturing,72261064.16,133,10,30,1,0,3,0,Operation,Enterprise,Q1,CEIG,45,48.8,1
+APP_SYN_0202,Uttar Pradesh,Food Processing,2569900.45,8,1,3,1,1,1,0,Pre-Establishment,Individual,Q1,UPPCB,30,28.3,0
+APP_SYN_0203,Maharashtra,Manufacturing,11552579.67,45,2,6,0,0,1,1,Pre-Establishment,MSME,Q1,CEIG,15,9.0,0
+APP_SYN_0204,Uttar Pradesh,Food Processing,23337783.39,560,7,21,2,0,4,0,Pre-Operation,Enterprise,Q2,Boilers Directorate,20,22.7,1
+APP_SYN_0205,Gujarat,Chemicals,3341705.44,25,2,10,0,1,2,0,Pre-Establishment,MSME,Q3,Boilers Directorate,30,33.1,1
+APP_SYN_0206,Maharashtra,Information Technology,2572534.69,69,2,6,3,1,2,1,Pre-Establishment,MSME,Q4,FSSAI,30,45.4,1
+APP_SYN_0207,Maharashtra,Pharmaceuticals,84735606.11,526,4,16,0,1,2,2,Pre-Operation,Enterprise,Q2,UPPCB,30,31.1,1
+APP_SYN_0208,Gujarat,Manufacturing,7751109.36,72,3,15,2,0,1,1,Operation,MSME,Q3,UP Fire Service,30,33.2,1
+APP_SYN_0209,Karnataka,Food Processing,33660804.19,69,6,24,0,1,3,1,Pre-Operation,MSME,Q2,UPPCB,60,78.2,1
+APP_SYN_0210,Uttar Pradesh,Pharmaceuticals,95128481.65,362,8,40,0,1,5,2,Pre-Operation,Enterprise,Q4,Boilers Directorate,60,80.0,1
+APP_SYN_0211,Gujarat,Food Processing,2019780.85,16,2,6,0,1,2,1,Pre-Establishment,MSME,Q4,Legal Metrology,15,15.2,1
+APP_SYN_0212,Uttar Pradesh,Food Processing,25323098.33,338,8,32,1,0,5,1,Pre-Establishment,Enterprise,Q3,UP Fire Service,30,35.5,1
+APP_SYN_0213,Gujarat,Information Technology,1183073.22,10,1,4,4,0,1,0,Pre-Establishment,Individual,Q1,UPPCB,30,37.6,1
+APP_SYN_0214,Gujarat,Manufacturing,5041678.52,84,3,12,3,1,2,0,Pre-Establishment,MSME,Q3,Directorate of Factories,15,18.5,1
+APP_SYN_0215,Rajasthan,Food Processing,1905652.47,38,4,20,1,1,2,1,Pre-Establishment,MSME,Q4,Directorate of Factories,30,38.5,1
+APP_SYN_0216,Maharashtra,Food Processing,30227606.84,63,4,20,2,1,1,0,Pre-Establishment,MSME,Q3,UP Fire Service,15,16.2,1
+APP_SYN_0217,Gujarat,Manufacturing,9606114.13,50,3,12,0,0,2,0,Operation,MSME,Q3,UPPCB,15,11.3,0
+APP_SYN_0218,Gujarat,Pharmaceuticals,21849030.84,45,3,9,0,0,2,2,Pre-Operation,MSME,Q1,Directorate of Factories,30,33.5,1
+APP_SYN_0219,Uttar Pradesh,Food Processing,5107687.77,71,3,15,1,0,1,0,Pre-Establishment,MSME,Q4,UP Fire Service,45,38.2,0
+APP_SYN_0220,Uttar Pradesh,Manufacturing,8804578.02,543,5,15,0,1,2,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,45,43.6,0
+APP_SYN_0221,Tamil Nadu,Pharmaceuticals,53603683.96,469,5,25,3,0,5,2,Pre-Establishment,Enterprise,Q2,CEIG,20,33.4,1
+APP_SYN_0222,Uttar Pradesh,Food Processing,10165757.2,83,2,10,0,1,2,0,Pre-Establishment,MSME,Q1,Directorate of Factories,15,13.5,0
+APP_SYN_0223,Uttar Pradesh,Food Processing,66555829.68,118,4,20,0,1,4,0,Pre-Establishment,Enterprise,Q3,Directorate of Factories,20,23.5,1
+APP_SYN_0224,Karnataka,Chemicals,604814.49,10,2,10,0,0,1,2,Pre-Establishment,Individual,Q4,CEIG,15,12.7,0
+APP_SYN_0225,Karnataka,Food Processing,25169092.61,463,4,16,0,1,4,0,Pre-Operation,Enterprise,Q3,UPPCB,30,26.2,0
+APP_SYN_0226,Uttar Pradesh,Manufacturing,148421138.34,338,9,36,0,1,2,0,Pre-Operation,Enterprise,Q1,UP Fire Service,20,19.3,0
+APP_SYN_0227,Uttar Pradesh,Food Processing,34918308.92,196,9,36,3,1,4,0,Pre-Operation,Enterprise,Q2,Boilers Directorate,20,28.6,1
+APP_SYN_0228,Uttar Pradesh,Manufacturing,3714768.93,142,11,33,1,1,4,2,Pre-Operation,Enterprise,Q1,CEIG,20,28.2,1
+APP_SYN_0229,Rajasthan,Manufacturing,64590899.99,220,4,12,0,1,4,0,Pre-Establishment,Enterprise,Q3,Boilers Directorate,30,36.4,1
+APP_SYN_0230,Tamil Nadu,Textiles,31320606.74,413,6,18,0,0,3,2,Pre-Operation,Enterprise,Q1,UPPCB,20,22.5,1
+APP_SYN_0231,Maharashtra,Food Processing,17763533.12,583,9,45,0,1,5,0,Pre-Operation,Enterprise,Q2,Directorate of Factories,30,31.9,1
+APP_SYN_0232,Uttar Pradesh,Manufacturing,1201111.38,87,4,16,0,0,2,0,Pre-Operation,MSME,Q4,CEIG,20,18.0,0
+APP_SYN_0233,Gujarat,Textiles,4560015.93,96,5,15,0,0,2,0,Pre-Operation,MSME,Q3,UP Fire Service,20,21.0,1
+APP_SYN_0234,Maharashtra,Manufacturing,19367699.96,141,4,16,1,1,4,1,Pre-Establishment,Enterprise,Q4,UPPCB,30,44.1,1
+APP_SYN_0235,Gujarat,Pharmaceuticals,202930824.87,103,11,55,0,0,5,2,Pre-Operation,Enterprise,Q2,FSSAI,45,53.5,1
+APP_SYN_0236,Gujarat,Textiles,1258470.5,66,2,8,0,0,2,1,Pre-Operation,MSME,Q2,FSSAI,15,10.1,0
+APP_SYN_0237,Maharashtra,Chemicals,8808436.54,27,5,15,1,0,2,0,Pre-Operation,MSME,Q3,FSSAI,20,20.7,1
+APP_SYN_0238,Uttar Pradesh,Manufacturing,13100887.9,105,9,45,3,1,4,2,Operation,Enterprise,Q4,Legal Metrology,30,56.0,1
+APP_SYN_0239,Uttar Pradesh,Manufacturing,13648211.29,65,3,9,0,1,3,0,Pre-Establishment,MSME,Q4,FSSAI,20,18.8,0
+APP_SYN_0240,Rajasthan,Pharmaceuticals,4461569.17,90,3,15,2,0,1,0,Pre-Operation,MSME,Q2,Boilers Directorate,30,28.4,0
+APP_SYN_0241,Tamil Nadu,Manufacturing,3475549.21,11,1,5,2,0,1,0,Pre-Operation,Individual,Q3,Directorate of Factories,30,30.3,1
+APP_SYN_0242,Gujarat,Manufacturing,9449566.53,18,4,12,1,1,3,0,Pre-Operation,MSME,Q2,UPPCB,45,49.2,1
+APP_SYN_0243,Uttar Pradesh,Manufacturing,20414667.4,113,10,30,0,1,5,0,Pre-Operation,Enterprise,Q1,Legal Metrology,30,32.4,1
+APP_SYN_0244,Karnataka,Food Processing,85315463.74,167,7,28,0,1,3,0,Pre-Establishment,Enterprise,Q3,Directorate of Factories,15,16.8,1
+APP_SYN_0245,Maharashtra,Food Processing,3713017.87,12,6,24,3,1,2,0,Operation,MSME,Q4,FSSAI,30,42.4,1
+APP_SYN_0246,Maharashtra,Manufacturing,49776307.67,122,6,18,2,1,4,3,Operation,Enterprise,Q3,CEIG,20,34.6,1
+APP_SYN_0247,Karnataka,Food Processing,7091827.39,98,6,24,0,0,3,0,Pre-Establishment,MSME,Q3,FSSAI,15,14.7,0
+APP_SYN_0248,Maharashtra,Food Processing,5129858.53,60,4,12,0,0,2,0,Pre-Establishment,MSME,Q1,FSSAI,20,16.6,0
+APP_SYN_0249,Gujarat,Food Processing,88019154.08,425,10,40,2,1,3,1,Pre-Establishment,Enterprise,Q3,UP Fire Service,15,21.2,1
+APP_SYN_0250,Maharashtra,Chemicals,2737848.64,99,3,15,0,0,1,0,Pre-Establishment,MSME,Q4,FSSAI,30,23.3,0
+APP_SYN_0251,Maharashtra,Textiles,119816010.55,81,4,16,0,0,4,1,Pre-Operation,Enterprise,Q3,Boilers Directorate,20,21.5,1
+APP_SYN_0252,Maharashtra,Chemicals,20946834.84,273,9,27,2,1,5,0,Pre-Establishment,Enterprise,Q2,Boilers Directorate,30,47.4,1
+APP_SYN_0253,Maharashtra,Pharmaceuticals,710012.57,6,2,6,0,0,1,0,Pre-Operation,Individual,Q4,UPPCB,30,26.3,0
+APP_SYN_0254,Uttar Pradesh,Pharmaceuticals,14279954.4,7,4,20,2,0,1,0,Operation,MSME,Q1,Legal Metrology,30,28.5,0
+APP_SYN_0255,Uttar Pradesh,Food Processing,8267592.14,81,2,6,1,0,2,0,Operation,MSME,Q2,FSSAI,15,15.6,1
+APP_SYN_0256,Tamil Nadu,Information Technology,1877199.66,2,2,8,0,0,1,2,Pre-Operation,Individual,Q3,Directorate of Factories,20,21.6,1
+APP_SYN_0257,Gujarat,Manufacturing,13305696.71,192,4,16,2,0,4,1,Pre-Operation,Enterprise,Q4,Boilers Directorate,20,28.1,1
+APP_SYN_0258,Tamil Nadu,Pharmaceuticals,22233953.11,189,4,16,3,0,2,2,Operation,Enterprise,Q3,UP Fire Service,30,40.4,1
+APP_SYN_0259,Gujarat,Food Processing,6735451.16,89,6,24,0,0,3,1,Pre-Establishment,MSME,Q3,UPPCB,20,18.1,0
+APP_SYN_0260,Uttar Pradesh,Food Processing,14171740.11,10,4,16,1,1,2,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,24.2,1
+APP_SYN_0261,Tamil Nadu,Food Processing,19149949.2,132,5,25,0,0,5,2,Pre-Operation,Enterprise,Q1,UPPCB,15,14.5,0
+APP_SYN_0262,Rajasthan,Manufacturing,902435.1,15,2,10,0,1,1,0,Operation,Individual,Q2,FSSAI,20,15.9,0
+APP_SYN_0263,Uttar Pradesh,Manufacturing,24155243.93,244,5,15,0,0,4,1,Pre-Operation,Enterprise,Q4,UP Fire Service,20,19.5,0
+APP_SYN_0264,Uttar Pradesh,Pharmaceuticals,1102751.47,2,2,10,0,0,1,2,Operation,Individual,Q3,Boilers Directorate,15,13.3,0
+APP_SYN_0265,Gujarat,Manufacturing,1803695.13,25,2,6,0,0,2,0,Pre-Establishment,MSME,Q2,Legal Metrology,15,14.7,0
+APP_SYN_0266,Maharashtra,Food Processing,16420419.39,56,2,10,2,0,2,0,Operation,MSME,Q4,Directorate of Factories,20,18.3,0
+APP_SYN_0267,Uttar Pradesh,Information Technology,7562206.41,80,3,15,1,0,1,0,Pre-Establishment,MSME,Q4,UP Fire Service,20,22.6,1
+APP_SYN_0268,Karnataka,Food Processing,1617025.98,5,2,10,1,1,1,1,Pre-Operation,MSME,Q2,Boilers Directorate,15,16.4,1
+APP_SYN_0269,Tamil Nadu,Chemicals,6757955.47,82,6,30,0,0,2,1,Pre-Establishment,MSME,Q2,UP Fire Service,30,27.0,0
+APP_SYN_0270,Uttar Pradesh,Manufacturing,1348164.15,2,2,10,0,0,1,0,Pre-Establishment,Individual,Q2,CEIG,30,22.9,0
+APP_SYN_0271,Rajasthan,Manufacturing,6671386.12,39,2,10,0,1,2,3,Pre-Operation,MSME,Q4,FSSAI,15,17.5,1
+APP_SYN_0272,Uttar Pradesh,Manufacturing,3405703.03,14,1,5,0,0,1,0,Operation,Individual,Q3,FSSAI,30,20.8,0
+APP_SYN_0273,Uttar Pradesh,Manufacturing,40338614.63,220,10,50,0,1,2,2,Pre-Establishment,Enterprise,Q3,Directorate of Factories,45,47.4,1
+APP_SYN_0274,Gujarat,Manufacturing,20589057.51,220,9,45,2,1,2,2,Pre-Operation,Enterprise,Q2,UP Fire Service,20,32.2,1
+APP_SYN_0275,Uttar Pradesh,Pharmaceuticals,6879168.34,261,9,45,1,1,5,1,Pre-Establishment,Enterprise,Q4,UP Fire Service,30,43.3,1
+APP_SYN_0276,Uttar Pradesh,Food Processing,15177564.53,199,11,55,0,1,4,3,Pre-Establishment,Enterprise,Q4,Legal Metrology,15,21.2,1
+APP_SYN_0277,Maharashtra,Manufacturing,4605594.44,91,2,6,1,0,2,1,Pre-Establishment,MSME,Q2,Directorate of Factories,30,33.4,1
+APP_SYN_0278,Gujarat,Food Processing,3391015.1,79,4,12,3,0,1,0,Pre-Operation,MSME,Q3,FSSAI,20,23.6,1
+APP_SYN_0279,Uttar Pradesh,Food Processing,3099961.97,52,3,15,0,0,1,0,Operation,MSME,Q4,UPPCB,30,26.5,0
+APP_SYN_0280,Karnataka,Food Processing,2127491.21,67,6,18,0,0,1,0,Pre-Operation,MSME,Q4,FSSAI,15,12.0,0
+APP_SYN_0281,Gujarat,Food Processing,7206873.91,33,4,20,0,0,3,0,Pre-Establishment,MSME,Q3,CEIG,30,28.6,0
+APP_SYN_0282,Karnataka,Food Processing,20967293.41,73,5,15,0,1,2,0,Pre-Establishment,MSME,Q4,UP Fire Service,60,52.4,0
+APP_SYN_0283,Uttar Pradesh,Food Processing,10744953.15,83,2,8,0,0,1,1,Pre-Establishment,MSME,Q3,Directorate of Factories,20,18.3,0
+APP_SYN_0284,Gujarat,Food Processing,1729139.11,19,1,3,1,0,1,0,Pre-Establishment,Individual,Q2,Boilers Directorate,30,29.1,0
+APP_SYN_0285,Gujarat,Manufacturing,3183105.36,89,5,20,0,0,3,0,Pre-Operation,MSME,Q3,Directorate of Factories,20,17.2,0
+APP_SYN_0286,Uttar Pradesh,Textiles,26488062.53,539,6,24,1,0,2,0,Pre-Operation,Enterprise,Q2,FSSAI,20,21.2,1
+APP_SYN_0287,Uttar Pradesh,Chemicals,136725049.55,352,8,24,1,1,3,0,Pre-Establishment,Enterprise,Q4,UPPCB,30,38.4,1
+APP_SYN_0288,Uttar Pradesh,Manufacturing,2288296.16,40,4,20,2,0,2,1,Operation,MSME,Q4,UP Fire Service,30,42.3,1
+APP_SYN_0289,Uttar Pradesh,Food Processing,6654841.94,62,5,20,1,0,2,0,Pre-Establishment,MSME,Q1,UP Fire Service,30,26.6,0
+APP_SYN_0290,Tamil Nadu,Chemicals,18020823.3,501,8,40,1,0,5,1,Pre-Operation,Enterprise,Q2,Legal Metrology,20,23.6,1
+APP_SYN_0291,Gujarat,Manufacturing,2933915.51,91,4,20,2,0,2,0,Pre-Establishment,MSME,Q4,UPPCB,30,34.5,1
+APP_SYN_0292,Uttar Pradesh,Food Processing,44490910.87,560,4,16,1,1,4,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,20,26.2,1
+APP_SYN_0293,Maharashtra,Food Processing,104225104.23,581,9,27,0,1,4,0,Pre-Establishment,Enterprise,Q2,Directorate of Factories,20,21.6,1
+APP_SYN_0294,Tamil Nadu,Manufacturing,2866741.85,88,6,30,2,1,1,1,Pre-Operation,MSME,Q4,Directorate of Factories,30,40.9,1
+APP_SYN_0295,Uttar Pradesh,Food Processing,4036262.86,76,3,15,0,1,2,0,Pre-Establishment,MSME,Q1,CEIG,15,14.1,0
+APP_SYN_0296,Uttar Pradesh,Food Processing,13034390.88,42,3,15,1,0,3,0,Pre-Operation,MSME,Q2,Directorate of Factories,30,30.8,1
+APP_SYN_0297,Tamil Nadu,Chemicals,24959333.78,470,9,27,4,1,2,0,Pre-Operation,Enterprise,Q4,Boilers Directorate,60,107.2,1
+APP_SYN_0298,Gujarat,Information Technology,16975915.78,32,4,12,0,0,3,0,Pre-Operation,MSME,Q4,Legal Metrology,20,18.5,0
+APP_SYN_0299,Uttar Pradesh,Textiles,2565779.05,93,4,16,1,0,2,0,Operation,MSME,Q2,FSSAI,20,17.9,0
+APP_SYN_0300,Maharashtra,Manufacturing,3417018.18,54,4,12,0,1,1,0,Pre-Operation,MSME,Q1,UPPCB,30,22.9,0
+APP_SYN_0301,Gujarat,Food Processing,4141003.43,40,3,15,1,1,3,0,Pre-Establishment,MSME,Q1,Directorate of Factories,20,21.0,1
+APP_SYN_0302,Uttar Pradesh,Food Processing,14104186.1,34,4,16,0,0,2,0,Pre-Operation,MSME,Q1,Boilers Directorate,30,24.4,0
+APP_SYN_0303,Uttar Pradesh,Information Technology,733890.44,34,2,6,0,0,2,1,Pre-Establishment,MSME,Q4,Legal Metrology,20,16.8,0
+APP_SYN_0304,Tamil Nadu,Food Processing,4250225.16,48,3,15,3,0,3,0,Pre-Establishment,MSME,Q1,Boilers Directorate,20,25.3,1
+APP_SYN_0305,Uttar Pradesh,Chemicals,6596535.05,48,3,15,1,0,1,3,Pre-Operation,MSME,Q1,UP Fire Service,20,26.0,1
+APP_SYN_0306,Gujarat,Food Processing,6055133.35,46,6,24,0,0,3,1,Pre-Operation,MSME,Q1,Legal Metrology,15,13.9,0
+APP_SYN_0307,Uttar Pradesh,Textiles,4093431.79,88,5,15,0,0,3,0,Pre-Establishment,MSME,Q4,Boilers Directorate,60,57.5,0
+APP_SYN_0308,Uttar Pradesh,Food Processing,245374.35,10,1,4,0,1,1,2,Pre-Establishment,Individual,Q3,Legal Metrology,60,74.1,1
+APP_SYN_0309,Karnataka,Chemicals,13052697.21,29,3,9,0,0,2,1,Pre-Operation,MSME,Q3,Directorate of Factories,15,15.5,1
+APP_SYN_0310,Uttar Pradesh,Food Processing,4068326.68,71,3,15,0,0,2,0,Pre-Operation,MSME,Q4,FSSAI,15,12.7,0
+APP_SYN_0311,Karnataka,Textiles,4655126.41,59,4,20,0,0,3,3,Pre-Operation,MSME,Q3,FSSAI,30,34.9,1
+APP_SYN_0312,Maharashtra,Manufacturing,64199754.46,338,6,30,0,0,5,3,Pre-Operation,Enterprise,Q4,Legal Metrology,45,59.3,1
+APP_SYN_0313,Gujarat,Manufacturing,46230949.06,468,7,28,0,1,2,0,Pre-Operation,Enterprise,Q4,Legal Metrology,20,19.1,0
+APP_SYN_0314,Uttar Pradesh,Manufacturing,9707597.68,81,4,20,0,1,2,0,Pre-Establishment,MSME,Q3,Directorate of Factories,20,22.5,1
+APP_SYN_0315,Uttar Pradesh,Food Processing,5595186.01,95,2,6,0,0,1,0,Pre-Operation,MSME,Q3,UP Fire Service,15,11.5,0
+APP_SYN_0316,Uttar Pradesh,Food Processing,3456358.57,45,4,12,1,0,1,0,Operation,MSME,Q4,UPPCB,45,37.0,0
+APP_SYN_0317,Uttar Pradesh,Manufacturing,67085406.17,50,7,21,0,0,2,0,Pre-Establishment,Enterprise,Q1,FSSAI,20,11.6,0
+APP_SYN_0318,Gujarat,Chemicals,2532312.52,84,5,20,0,1,3,0,Pre-Operation,MSME,Q1,UPPCB,20,18.2,0
+APP_SYN_0319,Gujarat,Food Processing,3089266.06,77,5,15,0,0,3,0,Pre-Establishment,MSME,Q2,UPPCB,20,15.0,0
+APP_SYN_0320,Maharashtra,Textiles,18806770.0,57,6,30,0,1,5,0,Pre-Operation,Enterprise,Q3,UP Fire Service,15,18.9,1
+APP_SYN_0321,Uttar Pradesh,Pharmaceuticals,81215507.95,179,9,45,1,1,5,0,Pre-Operation,Enterprise,Q2,FSSAI,20,27.0,1
+APP_SYN_0322,Uttar Pradesh,Pharmaceuticals,5076005.69,96,3,12,0,0,3,0,Pre-Establishment,MSME,Q4,FSSAI,20,19.0,0
+APP_SYN_0323,Gujarat,Manufacturing,15762520.82,59,4,16,0,1,3,0,Pre-Establishment,MSME,Q2,UPPCB,20,17.8,0
+APP_SYN_0324,Uttar Pradesh,Manufacturing,55761936.48,49,6,30,2,0,3,2,Pre-Establishment,MSME,Q4,FSSAI,15,20.1,1
+APP_SYN_0325,Tamil Nadu,Food Processing,19355079.74,333,6,24,0,0,4,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,30,27.1,0
+APP_SYN_0326,Uttar Pradesh,Information Technology,2933953.99,72,4,20,0,0,3,1,Operation,MSME,Q2,Directorate of Factories,20,19.2,0
+APP_SYN_0327,Karnataka,Manufacturing,68530209.22,432,4,12,4,1,4,2,Pre-Establishment,Enterprise,Q1,UPPCB,20,33.9,1
+APP_SYN_0328,Maharashtra,Textiles,4516492.21,82,3,15,3,0,3,1,Operation,MSME,Q4,FSSAI,20,26.5,1
+APP_SYN_0329,Uttar Pradesh,Information Technology,58331929.39,495,10,40,0,0,5,0,Pre-Establishment,Enterprise,Q4,CEIG,45,48.3,1
+APP_SYN_0330,Maharashtra,Manufacturing,1368048.6,3,1,4,1,0,1,0,Pre-Establishment,Individual,Q2,UP Fire Service,20,16.1,0
+APP_SYN_0331,Karnataka,Manufacturing,10165808.61,20,4,12,0,0,1,0,Pre-Establishment,MSME,Q3,UPPCB,15,11.5,0
+APP_SYN_0332,Tamil Nadu,Chemicals,6074046.49,69,2,6,0,0,1,1,Pre-Operation,MSME,Q2,Directorate of Factories,30,23.7,0
+APP_SYN_0333,Uttar Pradesh,Food Processing,14684074.65,81,2,10,1,1,1,2,Operation,MSME,Q3,UP Fire Service,45,53.8,1
+APP_SYN_0334,Uttar Pradesh,Chemicals,1395780.56,14,1,4,0,1,1,0,Pre-Operation,Individual,Q4,UP Fire Service,15,11.1,0
+APP_SYN_0335,Uttar Pradesh,Food Processing,2883159.23,51,4,20,0,0,2,0,Pre-Operation,MSME,Q4,Directorate of Factories,20,15.3,0
+APP_SYN_0336,Rajasthan,Chemicals,14870602.27,21,2,8,3,1,2,0,Pre-Operation,MSME,Q1,Boilers Directorate,20,24.4,1
+APP_SYN_0337,Uttar Pradesh,Chemicals,36648856.06,577,7,21,0,0,4,0,Pre-Establishment,Enterprise,Q2,CEIG,30,24.6,0
+APP_SYN_0338,Maharashtra,Food Processing,2265536.57,13,2,8,0,0,1,1,Pre-Operation,Individual,Q1,Boilers Directorate,15,12.3,0
+APP_SYN_0339,Uttar Pradesh,Manufacturing,46134192.07,247,6,24,0,0,3,0,Pre-Operation,Enterprise,Q4,UPPCB,60,49.8,0
+APP_SYN_0340,Rajasthan,Manufacturing,3914040.41,91,6,30,1,0,2,0,Pre-Establishment,MSME,Q4,Directorate of Factories,45,47.6,1
+APP_SYN_0341,Tamil Nadu,Pharmaceuticals,12936254.03,567,10,50,2,0,3,0,Pre-Operation,Enterprise,Q3,UPPCB,15,16.8,1
+APP_SYN_0342,Uttar Pradesh,Information Technology,19482200.43,32,2,10,2,0,2,0,Pre-Operation,MSME,Q4,UPPCB,45,51.1,1
+APP_SYN_0343,Uttar Pradesh,Textiles,45286903.98,476,8,24,0,0,3,0,Pre-Establishment,Enterprise,Q1,Directorate of Factories,15,12.5,0
+APP_SYN_0344,Tamil Nadu,Food Processing,6959510.76,59,6,18,2,1,2,0,Pre-Operation,MSME,Q1,FSSAI,30,41.9,1
+APP_SYN_0345,Uttar Pradesh,Pharmaceuticals,20527301.95,13,6,30,0,0,3,1,Pre-Establishment,MSME,Q3,FSSAI,45,55.2,1
+APP_SYN_0346,Uttar Pradesh,Food Processing,9422930.13,21,5,15,0,1,1,1,Operation,MSME,Q1,Directorate of Factories,30,27.4,0
+APP_SYN_0347,Rajasthan,Chemicals,4046868.58,29,3,12,1,1,2,1,Pre-Operation,MSME,Q4,CEIG,20,27.2,1
+APP_SYN_0348,Gujarat,Food Processing,5070294.4,71,5,20,3,0,1,0,Pre-Establishment,MSME,Q1,UP Fire Service,45,49.9,1
+APP_SYN_0349,Maharashtra,Textiles,9841767.26,52,5,25,3,0,2,1,Pre-Establishment,MSME,Q2,CEIG,45,53.2,1
+APP_SYN_0350,Uttar Pradesh,Food Processing,4075273.99,98,6,30,1,1,3,0,Operation,MSME,Q1,FSSAI,45,48.3,1
+APP_SYN_0351,Uttar Pradesh,Manufacturing,10412892.73,13,4,16,0,0,1,0,Pre-Operation,MSME,Q3,UP Fire Service,30,25.4,0
+APP_SYN_0352,Tamil Nadu,Textiles,1238714.86,14,2,6,2,0,1,1,Pre-Operation,Individual,Q2,UP Fire Service,30,35.3,1
+APP_SYN_0353,Maharashtra,Food Processing,47021143.36,68,5,15,1,0,5,0,Pre-Establishment,Enterprise,Q1,Legal Metrology,20,23.8,1
+APP_SYN_0354,Uttar Pradesh,Food Processing,10360084.67,12,5,20,0,1,1,0,Pre-Operation,MSME,Q4,CEIG,20,19.2,0
+APP_SYN_0355,Maharashtra,Food Processing,2445930.8,12,2,8,3,0,1,0,Operation,Individual,Q3,UPPCB,30,33.4,1
+APP_SYN_0356,Maharashtra,Food Processing,4975439.05,63,3,12,0,1,1,1,Operation,MSME,Q1,UPPCB,15,11.7,0
+APP_SYN_0357,Maharashtra,Food Processing,13825645.29,22,2,8,1,1,1,0,Pre-Establishment,MSME,Q2,Boilers Directorate,30,28.8,0
+APP_SYN_0358,Uttar Pradesh,Manufacturing,9488932.86,17,2,10,1,0,2,0,Operation,MSME,Q3,FSSAI,20,25.1,1
+APP_SYN_0359,Uttar Pradesh,Food Processing,2005351.28,58,6,18,0,1,3,0,Pre-Operation,MSME,Q2,UPPCB,30,30.8,1
+APP_SYN_0360,Tamil Nadu,Textiles,27421716.36,200,11,33,0,1,3,1,Pre-Operation,Enterprise,Q4,UP Fire Service,45,56.9,1
+APP_SYN_0361,Gujarat,Food Processing,9928879.33,19,5,20,0,0,1,1,Pre-Establishment,MSME,Q3,Boilers Directorate,15,14.9,0
+APP_SYN_0362,Uttar Pradesh,Manufacturing,1010521.95,4,2,10,0,0,1,0,Pre-Establishment,Individual,Q4,CEIG,30,22.3,0
+APP_SYN_0363,Tamil Nadu,Food Processing,1079609.57,14,2,6,0,1,1,1,Pre-Operation,Individual,Q2,FSSAI,15,14.3,0
+APP_SYN_0364,Uttar Pradesh,Manufacturing,68062830.05,448,8,40,0,0,2,3,Pre-Establishment,Enterprise,Q1,Directorate of Factories,45,48.2,1
+APP_SYN_0365,Uttar Pradesh,Food Processing,11841704.58,47,4,20,1,0,2,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,19.2,0
+APP_SYN_0366,Uttar Pradesh,Food Processing,708230.28,17,2,10,0,1,1,2,Pre-Establishment,Individual,Q4,CEIG,15,14.4,0
+APP_SYN_0367,Maharashtra,Textiles,31999950.73,521,11,44,0,0,4,3,Pre-Operation,Enterprise,Q1,FSSAI,20,25.0,1
+APP_SYN_0368,Maharashtra,Pharmaceuticals,4854469.31,68,5,25,1,0,2,2,Pre-Operation,MSME,Q3,CEIG,20,25.8,1
+APP_SYN_0369,Uttar Pradesh,Manufacturing,48680159.5,256,10,30,0,1,5,2,Pre-Operation,Enterprise,Q3,UP Fire Service,30,45.5,1
+APP_SYN_0370,Gujarat,Food Processing,33378771.39,374,10,40,0,0,3,0,Pre-Operation,Enterprise,Q3,CEIG,20,17.7,0
+APP_SYN_0371,Uttar Pradesh,Textiles,14990078.55,53,2,6,0,0,1,0,Pre-Operation,MSME,Q1,Boilers Directorate,45,35.3,0
+APP_SYN_0372,Maharashtra,Food Processing,16415411.94,40,3,15,2,1,2,0,Pre-Operation,MSME,Q4,UPPCB,30,38.2,1
+APP_SYN_0373,Tamil Nadu,Information Technology,1443395.55,97,4,12,1,1,1,0,Pre-Operation,MSME,Q2,UPPCB,20,20.8,1
+APP_SYN_0374,Gujarat,Manufacturing,5047676.38,91,4,12,0,1,1,1,Pre-Establishment,MSME,Q4,CEIG,45,49.9,1
+APP_SYN_0375,Gujarat,Manufacturing,1225127.22,4,1,3,0,1,1,3,Pre-Operation,Individual,Q1,UPPCB,15,16.5,1
+APP_SYN_0376,Tamil Nadu,Food Processing,3562350.57,73,3,9,1,0,2,2,Pre-Establishment,MSME,Q2,FSSAI,30,32.7,1
+APP_SYN_0377,Uttar Pradesh,Pharmaceuticals,7162327.38,87,6,18,0,0,1,0,Pre-Establishment,MSME,Q4,FSSAI,15,14.5,0
+APP_SYN_0378,Gujarat,Manufacturing,2267548.32,2,1,4,0,0,1,0,Pre-Operation,Individual,Q3,FSSAI,30,24.0,0
+APP_SYN_0379,Uttar Pradesh,Manufacturing,3658700.16,32,5,25,0,0,2,0,Pre-Operation,MSME,Q2,FSSAI,15,13.1,0
+APP_SYN_0380,Uttar Pradesh,Chemicals,42751451.94,407,7,35,0,0,5,0,Pre-Establishment,Enterprise,Q3,FSSAI,60,65.2,1
+APP_SYN_0381,Uttar Pradesh,Textiles,26380352.71,535,8,40,0,1,3,0,Pre-Operation,Enterprise,Q3,Boilers Directorate,30,32.7,1
+APP_SYN_0382,Maharashtra,Food Processing,856057.99,7,1,4,0,0,1,0,Pre-Establishment,Individual,Q3,CEIG,15,10.0,0
+APP_SYN_0383,Uttar Pradesh,Textiles,3255902.35,44,4,12,2,1,3,2,Pre-Establishment,MSME,Q4,Legal Metrology,20,31.5,1
+APP_SYN_0384,Gujarat,Food Processing,8460693.97,220,6,24,0,1,3,0,Pre-Establishment,Enterprise,Q1,CEIG,20,18.4,0
+APP_SYN_0385,Gujarat,Textiles,9857928.75,61,6,30,0,0,3,1,Operation,MSME,Q1,CEIG,15,15.1,1
+APP_SYN_0386,Maharashtra,Textiles,7456340.91,67,5,20,0,0,1,0,Pre-Operation,MSME,Q1,Boilers Directorate,45,31.5,0
+APP_SYN_0387,Tamil Nadu,Textiles,16686806.57,418,8,24,1,0,5,1,Pre-Establishment,Enterprise,Q2,Legal Metrology,20,29.0,1
+APP_SYN_0388,Karnataka,Food Processing,3699682.21,48,3,9,0,1,3,0,Operation,MSME,Q4,UP Fire Service,20,17.2,0
+APP_SYN_0389,Gujarat,Food Processing,9987992.72,98,3,15,0,0,1,2,Operation,MSME,Q3,CEIG,15,16.7,1
+APP_SYN_0390,Uttar Pradesh,Chemicals,9555056.71,58,6,30,0,1,2,1,Operation,MSME,Q4,Boilers Directorate,30,33.7,1
+APP_SYN_0391,Gujarat,Information Technology,6702929.94,69,4,20,0,0,3,1,Pre-Establishment,MSME,Q3,Boilers Directorate,30,28.2,0
+APP_SYN_0392,Uttar Pradesh,Food Processing,4913242.33,65,3,12,3,0,2,2,Pre-Establishment,MSME,Q2,CEIG,60,90.8,1
+APP_SYN_0393,Gujarat,Chemicals,34283349.32,320,6,18,0,0,5,1,Pre-Operation,Enterprise,Q3,FSSAI,60,67.4,1
+APP_SYN_0394,Rajasthan,Manufacturing,15120492.46,266,6,18,1,0,5,0,Operation,Enterprise,Q2,UP Fire Service,45,52.7,1
+APP_SYN_0395,Karnataka,Chemicals,68140532.28,320,9,36,1,0,3,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,15,13.3,0
+APP_SYN_0396,Uttar Pradesh,Manufacturing,1297090.55,95,6,18,1,1,2,0,Pre-Operation,MSME,Q4,Legal Metrology,30,35.5,1
+APP_SYN_0397,Gujarat,Food Processing,10639281.02,5,3,9,0,1,2,0,Pre-Establishment,MSME,Q2,UP Fire Service,30,28.3,0
+APP_SYN_0398,Karnataka,Textiles,3726813.79,69,2,10,3,0,1,0,Pre-Operation,MSME,Q1,FSSAI,15,18.2,1
+APP_SYN_0399,Gujarat,Food Processing,3727819.84,39,5,15,0,1,3,0,Pre-Establishment,MSME,Q2,CEIG,20,18.5,0
+APP_SYN_0400,Karnataka,Manufacturing,1093392.6,12,1,3,2,0,1,1,Operation,Individual,Q1,UP Fire Service,45,55.1,1
+APP_SYN_0401,Uttar Pradesh,Information Technology,689172.73,16,2,8,0,0,1,0,Pre-Operation,Individual,Q4,CEIG,20,14.4,0
+APP_SYN_0402,Uttar Pradesh,Manufacturing,18455419.2,230,5,15,0,0,3,0,Pre-Operation,Enterprise,Q1,CEIG,15,12.7,0
+APP_SYN_0403,Uttar Pradesh,Food Processing,4492395.3,53,6,24,0,1,2,0,Pre-Establishment,MSME,Q4,Boilers Directorate,15,13.5,0
+APP_SYN_0404,Tamil Nadu,Food Processing,15616297.71,61,6,18,0,0,2,3,Pre-Establishment,Enterprise,Q2,FSSAI,60,79.5,1
+APP_SYN_0405,Uttar Pradesh,Manufacturing,11976454.01,206,10,40,0,0,2,2,Pre-Operation,Enterprise,Q2,UPPCB,45,41.4,0
+APP_SYN_0406,Rajasthan,Pharmaceuticals,4769217.03,96,5,20,2,0,1,3,Pre-Establishment,MSME,Q2,UP Fire Service,60,73.5,1
+APP_SYN_0407,Uttar Pradesh,Food Processing,2959449.56,30,3,15,1,0,2,0,Pre-Establishment,MSME,Q3,UP Fire Service,60,57.5,0
+APP_SYN_0408,Karnataka,Food Processing,9630278.45,86,6,18,0,1,2,1,Pre-Establishment,MSME,Q4,Boilers Directorate,15,16.9,1
+APP_SYN_0409,Uttar Pradesh,Manufacturing,5354829.59,28,6,30,0,1,2,1,Pre-Establishment,MSME,Q3,Directorate of Factories,30,33.8,1
+APP_SYN_0410,Uttar Pradesh,Pharmaceuticals,11939028.49,540,10,40,0,0,2,3,Pre-Establishment,Enterprise,Q4,Legal Metrology,45,57.4,1
+APP_SYN_0411,Tamil Nadu,Manufacturing,5636033.82,66,4,16,1,1,2,0,Pre-Operation,MSME,Q3,Directorate of Factories,45,48.1,1
+APP_SYN_0412,Uttar Pradesh,Information Technology,2980930.16,53,3,12,1,0,1,0,Pre-Establishment,MSME,Q4,CEIG,15,13.6,0
+APP_SYN_0413,Gujarat,Food Processing,15274868.59,418,9,36,0,1,3,0,Operation,Enterprise,Q1,UP Fire Service,20,19.9,0
+APP_SYN_0414,Uttar Pradesh,Manufacturing,1235935.0,3,2,8,2,1,1,0,Pre-Establishment,Individual,Q2,Legal Metrology,45,53.2,1
+APP_SYN_0415,Maharashtra,Food Processing,4160694.75,63,2,10,0,0,2,3,Pre-Establishment,MSME,Q4,UP Fire Service,60,67.9,1
+APP_SYN_0416,Uttar Pradesh,Manufacturing,5484045.65,41,6,24,1,1,3,0,Operation,MSME,Q1,UP Fire Service,15,15.8,1
+APP_SYN_0417,Uttar Pradesh,Manufacturing,5044595.25,6,3,15,2,0,2,0,Pre-Establishment,MSME,Q2,UPPCB,30,32.5,1
+APP_SYN_0418,Gujarat,Food Processing,9184388.86,25,4,20,0,1,2,0,Pre-Operation,MSME,Q1,Legal Metrology,45,43.1,0
+APP_SYN_0419,Tamil Nadu,Food Processing,66298371.01,207,8,24,3,0,2,0,Operation,Enterprise,Q4,UP Fire Service,20,25.1,1
+APP_SYN_0420,Maharashtra,Manufacturing,1855558.22,7,1,3,0,1,1,2,Pre-Establishment,Individual,Q3,Directorate of Factories,30,33.3,1
+APP_SYN_0421,Karnataka,Textiles,96436104.41,562,6,18,0,0,2,0,Pre-Establishment,Enterprise,Q2,Legal Metrology,30,23.3,0
+APP_SYN_0422,Karnataka,Manufacturing,8823953.97,73,2,8,0,0,2,0,Pre-Establishment,MSME,Q2,Directorate of Factories,60,47.8,0
+APP_SYN_0423,Tamil Nadu,Chemicals,5524171.05,64,4,20,0,1,2,0,Pre-Establishment,MSME,Q4,UP Fire Service,30,28.4,0
+APP_SYN_0424,Tamil Nadu,Food Processing,2091840.91,86,6,18,0,1,3,1,Operation,MSME,Q4,Boilers Directorate,45,51.5,1
+APP_SYN_0425,Maharashtra,Information Technology,392382.14,27,2,8,1,1,2,1,Pre-Operation,MSME,Q3,CEIG,45,50.3,1
+APP_SYN_0426,Tamil Nadu,Manufacturing,4110771.5,20,3,9,0,0,1,1,Pre-Operation,MSME,Q2,UP Fire Service,45,38.0,0
+APP_SYN_0427,Uttar Pradesh,Food Processing,18813783.44,183,11,33,0,1,4,0,Pre-Establishment,Enterprise,Q3,FSSAI,20,21.4,1
+APP_SYN_0428,Karnataka,Food Processing,6892031.82,50,3,15,3,0,3,0,Pre-Operation,MSME,Q2,Boilers Directorate,20,24.7,1
+APP_SYN_0429,Uttar Pradesh,Food Processing,1265152.32,18,1,4,0,1,1,0,Operation,Individual,Q1,Directorate of Factories,30,27.6,0
+APP_SYN_0430,Maharashtra,Food Processing,6767913.19,98,4,20,1,0,3,2,Pre-Establishment,MSME,Q3,Boilers Directorate,15,20.1,1
+APP_SYN_0431,Uttar Pradesh,Manufacturing,44021726.26,553,5,15,0,1,4,0,Pre-Operation,Enterprise,Q2,Boilers Directorate,15,17.1,1
+APP_SYN_0432,Uttar Pradesh,Information Technology,41380210.09,124,10,30,1,1,2,1,Pre-Establishment,Enterprise,Q3,CEIG,20,28.6,1
+APP_SYN_0433,Tamil Nadu,Food Processing,11176606.68,468,8,32,0,1,2,0,Pre-Operation,Enterprise,Q4,Legal Metrology,20,19.7,0
+APP_SYN_0434,Uttar Pradesh,Pharmaceuticals,119147196.34,529,10,40,0,1,3,1,Pre-Establishment,Enterprise,Q4,CEIG,20,21.6,1
+APP_SYN_0435,Uttar Pradesh,Food Processing,41790791.22,165,8,40,0,0,3,0,Pre-Operation,Enterprise,Q2,Boilers Directorate,20,19.7,0
+APP_SYN_0436,Uttar Pradesh,Manufacturing,27988685.89,331,4,16,0,0,2,1,Pre-Establishment,Enterprise,Q1,UP Fire Service,20,15.6,0
+APP_SYN_0437,Uttar Pradesh,Food Processing,10445609.9,71,5,25,0,1,3,1,Operation,MSME,Q4,UPPCB,30,34.1,1
+APP_SYN_0438,Tamil Nadu,Pharmaceuticals,10769148.25,86,2,8,0,0,1,0,Operation,MSME,Q2,Directorate of Factories,45,36.0,0
+APP_SYN_0439,Uttar Pradesh,Food Processing,6547025.43,82,2,10,2,0,2,3,Pre-Establishment,MSME,Q3,Boilers Directorate,30,44.4,1
+APP_SYN_0440,Maharashtra,Information Technology,8621847.36,6,6,24,1,0,1,0,Pre-Establishment,MSME,Q1,Directorate of Factories,20,17.8,0
+APP_SYN_0441,Karnataka,Food Processing,2587688.61,44,6,24,0,0,1,0,Pre-Operation,MSME,Q3,UPPCB,30,26.9,0
+APP_SYN_0442,Rajasthan,Textiles,118534337.3,351,9,45,0,0,4,0,Operation,Enterprise,Q3,FSSAI,20,22.3,1
+APP_SYN_0443,Uttar Pradesh,Manufacturing,250438320.26,58,4,12,1,1,4,1,Pre-Operation,Enterprise,Q1,UPPCB,15,19.3,1
+APP_SYN_0444,Gujarat,Manufacturing,2016266.4,15,5,15,0,1,2,0,Pre-Operation,MSME,Q2,UP Fire Service,20,20.2,1
+APP_SYN_0445,Uttar Pradesh,Food Processing,6791687.29,39,6,24,2,0,3,0,Pre-Establishment,MSME,Q2,FSSAI,20,24.8,1
+APP_SYN_0446,Rajasthan,Manufacturing,5730350.5,66,3,9,3,0,1,0,Pre-Operation,MSME,Q4,Boilers Directorate,30,34.5,1
+APP_SYN_0447,Tamil Nadu,Manufacturing,5660720.48,37,5,15,0,1,2,2,Pre-Operation,MSME,Q4,Directorate of Factories,15,20.9,1
+APP_SYN_0448,Uttar Pradesh,Textiles,1847678.5,19,1,5,0,0,1,0,Pre-Operation,Individual,Q3,Legal Metrology,30,30.6,1
+APP_SYN_0449,Uttar Pradesh,Manufacturing,5326744.75,12,5,15,1,1,2,0,Pre-Establishment,MSME,Q3,UPPCB,45,41.4,0
+APP_SYN_0450,Uttar Pradesh,Pharmaceuticals,11432659.14,21,2,8,2,0,2,1,Pre-Establishment,MSME,Q1,CEIG,30,33.6,1
+APP_SYN_0451,Uttar Pradesh,Pharmaceuticals,6816009.64,20,2,8,0,0,2,0,Pre-Establishment,MSME,Q4,Legal Metrology,20,15.8,0
+APP_SYN_0452,Uttar Pradesh,Manufacturing,7321436.9,26,4,16,1,1,3,3,Pre-Operation,MSME,Q2,Directorate of Factories,20,29.4,1
+APP_SYN_0453,Uttar Pradesh,Manufacturing,1751832.34,7,2,6,1,0,1,1,Pre-Operation,Individual,Q1,Legal Metrology,60,55.9,0
+APP_SYN_0454,Gujarat,Pharmaceuticals,3928813.91,66,4,20,1,1,1,1,Operation,MSME,Q4,UP Fire Service,60,74.2,1
+APP_SYN_0455,Gujarat,Pharmaceuticals,6565748.75,86,6,30,4,0,3,0,Pre-Operation,MSME,Q2,FSSAI,20,27.0,1
+APP_SYN_0456,Karnataka,Food Processing,3367885.17,25,6,18,0,1,3,3,Pre-Establishment,MSME,Q3,Legal Metrology,30,37.0,1
+APP_SYN_0457,Rajasthan,Chemicals,8559723.58,278,10,30,2,1,5,0,Pre-Establishment,Enterprise,Q4,FSSAI,15,22.7,1
+APP_SYN_0458,Karnataka,Textiles,8936877.0,20,6,18,1,0,1,0,Operation,MSME,Q3,FSSAI,20,18.2,0
+APP_SYN_0459,Tamil Nadu,Food Processing,3021113.59,70,4,16,2,1,2,0,Pre-Establishment,MSME,Q2,Boilers Directorate,20,23.6,1
+APP_SYN_0460,Uttar Pradesh,Manufacturing,6705298.37,88,2,8,0,0,2,0,Pre-Operation,MSME,Q4,Directorate of Factories,15,9.5,0
+APP_SYN_0461,Uttar Pradesh,Pharmaceuticals,16048933.1,55,7,21,1,0,2,1,Pre-Operation,Enterprise,Q2,Boilers Directorate,20,22.5,1
+APP_SYN_0462,Maharashtra,Food Processing,1794202.53,3,1,5,3,1,1,0,Pre-Operation,Individual,Q2,FSSAI,30,37.2,1
+APP_SYN_0463,Uttar Pradesh,Manufacturing,1230266.74,67,2,10,0,0,2,0,Pre-Establishment,MSME,Q3,UPPCB,45,35.9,0
+APP_SYN_0464,Maharashtra,Manufacturing,2372145.83,74,5,25,2,1,3,0,Pre-Operation,MSME,Q3,UPPCB,15,19.6,1
+APP_SYN_0465,Uttar Pradesh,Textiles,6542288.51,74,4,12,2,0,2,1,Pre-Establishment,MSME,Q2,Directorate of Factories,30,29.0,0
+APP_SYN_0466,Maharashtra,Textiles,31639361.17,28,2,10,0,0,2,1,Pre-Operation,MSME,Q1,CEIG,15,13.8,0
+APP_SYN_0467,Gujarat,Textiles,2759719.55,61,3,15,0,0,2,0,Pre-Establishment,MSME,Q1,FSSAI,20,16.8,0
+APP_SYN_0468,Maharashtra,Manufacturing,1085228.37,87,3,9,2,1,1,0,Pre-Establishment,MSME,Q1,Directorate of Factories,30,36.1,1
+APP_SYN_0469,Uttar Pradesh,Food Processing,55114457.74,487,5,20,1,0,3,2,Pre-Establishment,Enterprise,Q1,Directorate of Factories,20,25.5,1
+APP_SYN_0470,Gujarat,Food Processing,9265114.88,98,3,15,0,1,2,0,Pre-Establishment,MSME,Q3,Directorate of Factories,20,17.0,0
+APP_SYN_0471,Uttar Pradesh,Food Processing,3207176.78,87,5,15,0,1,1,2,Pre-Establishment,MSME,Q2,UPPCB,45,50.5,1
+APP_SYN_0472,Uttar Pradesh,Food Processing,16514625.02,76,6,18,2,1,1,0,Pre-Operation,MSME,Q1,UPPCB,15,18.1,1
+APP_SYN_0473,Uttar Pradesh,Food Processing,34944952.42,225,4,20,2,1,3,2,Pre-Operation,Enterprise,Q1,UP Fire Service,30,46.1,1
+APP_SYN_0474,Tamil Nadu,Manufacturing,1237884.83,7,2,10,3,0,1,0,Pre-Operation,Individual,Q1,UPPCB,45,46.7,1
+APP_SYN_0475,Maharashtra,Food Processing,41373680.01,491,9,27,2,0,5,0,Pre-Operation,Enterprise,Q1,Boilers Directorate,45,60.1,1
+APP_SYN_0476,Gujarat,Food Processing,6640239.13,43,3,15,1,1,1,0,Pre-Operation,MSME,Q2,CEIG,20,19.6,0
+APP_SYN_0477,Karnataka,Information Technology,2816900.93,81,2,10,0,1,1,0,Operation,MSME,Q3,CEIG,15,13.0,0
+APP_SYN_0478,Maharashtra,Food Processing,16039791.8,77,3,9,0,1,1,0,Pre-Establishment,MSME,Q3,CEIG,15,13.0,0
+APP_SYN_0479,Karnataka,Manufacturing,7612523.7,91,5,20,4,1,2,0,Pre-Establishment,MSME,Q2,UP Fire Service,30,46.0,1
+APP_SYN_0480,Uttar Pradesh,Food Processing,5497691.9,12,3,9,0,0,2,1,Pre-Operation,MSME,Q4,UP Fire Service,15,12.8,0
+APP_SYN_0481,Rajasthan,Pharmaceuticals,1858789.25,65,5,25,3,1,2,1,Pre-Establishment,MSME,Q2,Legal Metrology,15,18.0,1
+APP_SYN_0482,Uttar Pradesh,Manufacturing,386289.63,13,1,4,0,0,1,0,Pre-Establishment,Individual,Q4,Boilers Directorate,20,16.2,0
+APP_SYN_0483,Gujarat,Food Processing,5136607.65,32,6,18,0,0,1,0,Pre-Establishment,MSME,Q4,UP Fire Service,45,31.3,0
+APP_SYN_0484,Tamil Nadu,Food Processing,11305276.04,22,5,20,0,1,3,1,Pre-Establishment,MSME,Q2,Directorate of Factories,15,15.8,1
+APP_SYN_0485,Uttar Pradesh,Manufacturing,9959127.56,90,2,8,2,1,1,0,Pre-Establishment,MSME,Q4,Boilers Directorate,60,75.4,1
+APP_SYN_0486,Uttar Pradesh,Food Processing,6402355.88,51,5,15,2,1,3,0,Pre-Establishment,MSME,Q4,FSSAI,30,41.3,1
+APP_SYN_0487,Uttar Pradesh,Food Processing,13101483.27,137,6,18,0,1,2,0,Pre-Operation,Enterprise,Q2,CEIG,30,28.6,0
+APP_SYN_0488,Uttar Pradesh,Manufacturing,3521022.66,17,4,16,0,1,3,0,Pre-Operation,MSME,Q3,UPPCB,20,21.2,1
+APP_SYN_0489,Tamil Nadu,Manufacturing,1077228.9,34,4,16,0,0,3,2,Pre-Operation,MSME,Q2,Directorate of Factories,20,21.0,1
+APP_SYN_0490,Gujarat,Manufacturing,118117994.46,206,10,30,0,0,3,1,Pre-Establishment,Enterprise,Q2,Legal Metrology,20,15.3,0
+APP_SYN_0491,Gujarat,Manufacturing,11918422.39,65,2,10,0,1,2,0,Pre-Establishment,MSME,Q1,Boilers Directorate,30,25.9,0
+APP_SYN_0492,Tamil Nadu,Food Processing,8070011.39,61,6,30,2,0,3,1,Pre-Operation,MSME,Q3,Directorate of Factories,15,20.9,1
+APP_SYN_0493,Uttar Pradesh,Food Processing,78234892.48,451,10,30,1,0,4,0,Pre-Operation,Enterprise,Q3,CEIG,30,32.0,1
+APP_SYN_0494,Gujarat,Food Processing,20981158.59,451,9,27,2,0,5,0,Pre-Establishment,Enterprise,Q4,FSSAI,20,31.2,1
+APP_SYN_0495,Uttar Pradesh,Information Technology,27973569.23,492,11,33,0,0,2,0,Pre-Establishment,Enterprise,Q4,UPPCB,20,18.4,0
+APP_SYN_0496,Tamil Nadu,Manufacturing,27084222.11,18,6,30,0,0,3,0,Pre-Operation,MSME,Q1,Boilers Directorate,45,41.1,0
+APP_SYN_0497,Maharashtra,Food Processing,1082949.22,15,1,4,1,0,1,1,Pre-Establishment,Individual,Q1,UP Fire Service,30,28.9,0
+APP_SYN_0498,Uttar Pradesh,Food Processing,980769.72,5,2,6,0,0,1,2,Pre-Establishment,Individual,Q4,UPPCB,15,13.4,0
+APP_SYN_0499,Uttar Pradesh,Information Technology,4542099.31,34,6,30,0,0,3,0,Pre-Operation,MSME,Q3,Boilers Directorate,45,47.1,1
+APP_SYN_0500,Karnataka,Food Processing,5812992.88,28,4,16,0,0,2,0,Pre-Operation,MSME,Q3,CEIG,20,14.7,0
+APP_SYN_0501,Tamil Nadu,Food Processing,186569963.86,362,8,40,1,0,2,3,Pre-Operation,Enterprise,Q3,Boilers Directorate,15,19.8,1
+APP_SYN_0502,Karnataka,Food Processing,19065880.08,485,6,30,0,1,2,0,Operation,Enterprise,Q4,Legal Metrology,20,20.2,1
+APP_SYN_0503,Uttar Pradesh,Textiles,39776892.23,122,11,33,2,0,4,0,Pre-Establishment,Enterprise,Q2,UP Fire Service,15,20.1,1
+APP_SYN_0504,Maharashtra,Pharmaceuticals,43733125.46,131,7,28,0,1,5,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,20,24.4,1
+APP_SYN_0505,Maharashtra,Manufacturing,7034939.05,31,2,8,1,1,2,2,Pre-Operation,MSME,Q1,UPPCB,20,24.4,1
+APP_SYN_0506,Uttar Pradesh,Manufacturing,31950491.69,310,10,50,1,0,4,3,Pre-Establishment,Enterprise,Q3,UP Fire Service,45,67.5,1
+APP_SYN_0507,Tamil Nadu,Food Processing,40788676.13,62,6,18,3,0,5,2,Operation,Enterprise,Q3,Directorate of Factories,20,33.3,1
+APP_SYN_0508,Maharashtra,Food Processing,8752196.99,32,5,25,1,0,1,1,Pre-Operation,MSME,Q3,FSSAI,60,59.2,0
+APP_SYN_0509,Karnataka,Food Processing,38738736.72,256,5,15,0,1,2,2,Pre-Operation,Enterprise,Q1,Legal Metrology,30,30.9,1
+APP_SYN_0510,Uttar Pradesh,Food Processing,809372.2,1,2,8,0,1,1,0,Operation,Individual,Q1,CEIG,15,14.2,0
+APP_SYN_0511,Uttar Pradesh,Manufacturing,6372619.0,25,5,15,4,1,1,0,Pre-Establishment,MSME,Q4,UP Fire Service,15,21.1,1
+APP_SYN_0512,Tamil Nadu,Manufacturing,28190982.99,498,4,16,4,0,2,0,Pre-Operation,Enterprise,Q4,UPPCB,20,28.4,1
+APP_SYN_0513,Gujarat,Food Processing,3559272.13,72,2,6,3,1,2,0,Pre-Operation,MSME,Q1,UPPCB,20,28.1,1
+APP_SYN_0514,Uttar Pradesh,Information Technology,47897209.57,525,8,32,2,0,4,1,Pre-Establishment,Enterprise,Q1,UPPCB,15,17.5,1
+APP_SYN_0515,Uttar Pradesh,Manufacturing,5518124.11,58,2,10,0,1,1,0,Pre-Operation,MSME,Q3,CEIG,30,23.5,0
+APP_SYN_0516,Tamil Nadu,Food Processing,8105873.57,85,6,24,1,0,2,0,Pre-Establishment,MSME,Q4,CEIG,30,29.0,0
+APP_SYN_0517,Uttar Pradesh,Food Processing,2475455.12,6,3,12,1,0,3,0,Pre-Operation,MSME,Q1,CEIG,20,19.7,0
+APP_SYN_0518,Uttar Pradesh,Manufacturing,5537065.6,54,3,15,0,1,3,0,Pre-Establishment,MSME,Q4,Legal Metrology,20,20.9,1
+APP_SYN_0519,Gujarat,Food Processing,6926826.25,53,2,6,1,1,2,0,Pre-Operation,MSME,Q4,CEIG,20,23.3,1
+APP_SYN_0520,Uttar Pradesh,Textiles,1631796.6,80,2,10,0,0,1,0,Operation,MSME,Q1,Boilers Directorate,15,7.6,0
+APP_SYN_0521,Uttar Pradesh,Textiles,17700916.63,309,10,50,0,1,2,1,Pre-Establishment,Enterprise,Q2,FSSAI,15,12.1,0
+APP_SYN_0522,Uttar Pradesh,Manufacturing,31272058.13,466,9,45,2,1,5,0,Pre-Operation,Enterprise,Q3,CEIG,30,48.6,1
+APP_SYN_0523,Uttar Pradesh,Pharmaceuticals,31077906.4,500,4,12,0,1,4,2,Pre-Operation,Enterprise,Q3,UPPCB,30,36.8,1
+APP_SYN_0524,Uttar Pradesh,Pharmaceuticals,63383348.42,374,9,45,0,0,4,0,Pre-Operation,Enterprise,Q4,Boilers Directorate,30,32.9,1
+APP_SYN_0525,Uttar Pradesh,Pharmaceuticals,4681331.79,17,2,6,2,1,2,2,Pre-Operation,MSME,Q2,UPPCB,45,49.1,1
+APP_SYN_0526,Tamil Nadu,Textiles,9035866.08,56,5,15,0,0,2,0,Pre-Establishment,MSME,Q4,CEIG,45,32.9,0
+APP_SYN_0527,Uttar Pradesh,Food Processing,1687892.21,18,2,10,0,0,1,1,Pre-Operation,Individual,Q4,CEIG,15,13.2,0
+APP_SYN_0528,Uttar Pradesh,Manufacturing,135125593.9,457,4,16,0,0,2,0,Pre-Operation,Enterprise,Q2,CEIG,15,14.4,0
+APP_SYN_0529,Maharashtra,Chemicals,24749511.69,307,6,24,1,1,3,0,Pre-Operation,Enterprise,Q4,UP Fire Service,15,19.4,1
+APP_SYN_0530,Tamil Nadu,Manufacturing,5837981.15,41,6,18,0,0,1,0,Pre-Establishment,MSME,Q4,FSSAI,30,28.4,0
+APP_SYN_0531,Uttar Pradesh,Manufacturing,11999897.84,61,5,20,0,1,2,0,Pre-Establishment,MSME,Q1,FSSAI,30,25.6,0
+APP_SYN_0532,Uttar Pradesh,Food Processing,99145713.93,327,4,12,1,1,2,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,15,18.3,1
+APP_SYN_0533,Karnataka,Manufacturing,1285456.02,8,1,4,4,0,1,1,Pre-Operation,Individual,Q1,Directorate of Factories,15,20.9,1
+APP_SYN_0534,Maharashtra,Pharmaceuticals,10339353.63,486,10,30,2,0,5,0,Pre-Establishment,Enterprise,Q4,Boilers Directorate,30,43.9,1
+APP_SYN_0535,Uttar Pradesh,Pharmaceuticals,6597487.02,37,2,8,0,0,2,0,Operation,MSME,Q4,CEIG,15,11.9,0
+APP_SYN_0536,Maharashtra,Food Processing,93228678.46,278,8,24,0,0,3,0,Pre-Operation,Enterprise,Q1,Legal Metrology,30,27.1,0
+APP_SYN_0537,Uttar Pradesh,Food Processing,83883307.82,144,8,40,2,1,2,2,Pre-Establishment,Enterprise,Q3,UPPCB,20,31.7,1
+APP_SYN_0538,Uttar Pradesh,Textiles,115586350.9,96,9,45,4,0,5,2,Pre-Establishment,Enterprise,Q2,CEIG,20,34.0,1
+APP_SYN_0539,Uttar Pradesh,Food Processing,20031677.78,34,3,15,0,0,3,2,Operation,MSME,Q4,Directorate of Factories,15,17.1,1
+APP_SYN_0540,Tamil Nadu,Food Processing,3349755.4,4,1,3,3,1,1,1,Pre-Operation,Individual,Q1,Directorate of Factories,20,25.7,1
+APP_SYN_0541,Uttar Pradesh,Food Processing,12395567.88,214,10,40,3,0,4,3,Pre-Operation,Enterprise,Q3,Boilers Directorate,30,49.9,1
+APP_SYN_0542,Tamil Nadu,Food Processing,1090751.84,19,1,4,0,0,1,1,Pre-Operation,Individual,Q4,Legal Metrology,15,11.9,0
+APP_SYN_0543,Gujarat,Pharmaceuticals,63021041.81,228,11,33,0,0,3,0,Pre-Establishment,Enterprise,Q2,FSSAI,45,36.8,0
+APP_SYN_0544,Uttar Pradesh,Manufacturing,216037386.95,394,8,32,1,0,3,0,Pre-Operation,Enterprise,Q2,UPPCB,30,33.1,1
+APP_SYN_0545,Tamil Nadu,Pharmaceuticals,7634987.41,91,6,18,0,1,2,0,Operation,MSME,Q2,Boilers Directorate,30,31.5,1
+APP_SYN_0546,Gujarat,Textiles,1190708.37,19,2,8,0,0,1,0,Pre-Operation,Individual,Q2,FSSAI,20,15.8,0
+APP_SYN_0547,Rajasthan,Manufacturing,7603610.69,91,2,6,4,0,2,0,Operation,MSME,Q4,Legal Metrology,15,22.3,1
+APP_SYN_0548,Gujarat,Pharmaceuticals,1646345.74,63,5,15,1,0,2,1,Pre-Establishment,MSME,Q1,Boilers Directorate,60,58.9,0
+APP_SYN_0549,Maharashtra,Textiles,31512907.92,74,11,44,2,0,5,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,30,36.6,1
+APP_SYN_0550,Uttar Pradesh,Pharmaceuticals,10111582.71,47,3,9,1,1,3,0,Pre-Operation,MSME,Q1,Legal Metrology,15,15.1,1
+APP_SYN_0551,Uttar Pradesh,Food Processing,3466474.68,417,10,30,2,0,2,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,15,17.3,1
+APP_SYN_0552,Maharashtra,Manufacturing,16144820.74,11,2,6,0,1,2,1,Pre-Establishment,MSME,Q2,UP Fire Service,20,21.0,1
+APP_SYN_0553,Gujarat,Food Processing,4379475.76,39,4,20,0,1,2,2,Pre-Establishment,MSME,Q1,FSSAI,20,27.7,1
+APP_SYN_0554,Uttar Pradesh,Textiles,10472745.78,212,5,25,2,0,2,0,Pre-Operation,Enterprise,Q2,UPPCB,15,13.2,0
+APP_SYN_0555,Uttar Pradesh,Food Processing,14109281.25,19,2,6,1,1,2,0,Pre-Operation,MSME,Q4,Directorate of Factories,20,23.8,1
+APP_SYN_0556,Gujarat,Food Processing,605294.83,3,1,4,2,1,1,0,Pre-Operation,Individual,Q2,FSSAI,30,30.2,1
+APP_SYN_0557,Karnataka,Manufacturing,44469112.36,74,3,9,0,0,2,2,Pre-Establishment,MSME,Q3,Directorate of Factories,60,64.2,1
+APP_SYN_0558,Rajasthan,Chemicals,6481070.95,42,4,20,3,1,2,3,Pre-Operation,MSME,Q3,Boilers Directorate,15,24.4,1
+APP_SYN_0559,Karnataka,Manufacturing,2049558.01,19,2,6,4,1,1,0,Pre-Establishment,Individual,Q4,CEIG,45,72.9,1
+APP_SYN_0560,Maharashtra,Food Processing,17428493.19,270,6,30,0,0,4,1,Operation,Enterprise,Q2,CEIG,30,33.4,1
+APP_SYN_0561,Maharashtra,Chemicals,17257843.5,243,5,25,0,1,4,0,Pre-Operation,Enterprise,Q2,CEIG,30,27.2,0
+APP_SYN_0562,Gujarat,Food Processing,2818110.26,92,4,12,1,1,2,0,Operation,MSME,Q4,FSSAI,20,23.7,1
+APP_SYN_0563,Uttar Pradesh,Food Processing,3178796.31,36,5,15,0,1,2,0,Pre-Operation,MSME,Q4,CEIG,15,13.2,0
+APP_SYN_0564,Karnataka,Chemicals,54523209.46,582,9,36,0,1,4,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,15,17.4,1
+APP_SYN_0565,Maharashtra,Information Technology,3277075.58,69,5,20,0,0,3,3,Operation,MSME,Q1,Legal Metrology,30,36.7,1
+APP_SYN_0566,Karnataka,Manufacturing,28700466.12,56,5,25,0,1,2,0,Pre-Establishment,MSME,Q1,Legal Metrology,20,19.6,0
+APP_SYN_0567,Uttar Pradesh,Manufacturing,11058253.77,91,2,8,1,1,2,0,Pre-Operation,MSME,Q2,UPPCB,20,23.0,1
+APP_SYN_0568,Uttar Pradesh,Food Processing,7397024.41,99,3,12,0,0,2,0,Pre-Establishment,MSME,Q4,FSSAI,15,12.8,0
+APP_SYN_0569,Uttar Pradesh,Pharmaceuticals,77470783.36,381,9,45,2,0,2,0,Pre-Operation,Enterprise,Q3,UPPCB,20,22.2,1
+APP_SYN_0570,Gujarat,Chemicals,2479810.77,23,3,9,0,0,3,0,Pre-Operation,MSME,Q3,UP Fire Service,20,21.5,1
+APP_SYN_0571,Gujarat,Food Processing,4022677.7,13,5,20,4,0,2,1,Pre-Operation,MSME,Q4,Legal Metrology,15,23.3,1
+APP_SYN_0572,Uttar Pradesh,Information Technology,11673508.93,10,2,8,0,0,1,1,Pre-Operation,MSME,Q2,CEIG,20,19.1,0
+APP_SYN_0573,Uttar Pradesh,Textiles,66662071.71,220,9,45,3,0,5,0,Pre-Establishment,Enterprise,Q4,Directorate of Factories,20,28.1,1
+APP_SYN_0574,Uttar Pradesh,Manufacturing,63439900.39,331,11,55,1,1,4,3,Pre-Establishment,Enterprise,Q3,CEIG,15,22.8,1
+APP_SYN_0575,Uttar Pradesh,Food Processing,3151380.85,16,2,6,3,1,2,0,Operation,MSME,Q3,Directorate of Factories,45,56.9,1
+APP_SYN_0576,Uttar Pradesh,Food Processing,8829866.34,15,4,12,3,0,3,1,Pre-Establishment,MSME,Q4,CEIG,20,25.0,1
+APP_SYN_0577,Uttar Pradesh,Food Processing,1027928.42,88,3,12,4,1,3,2,Pre-Establishment,MSME,Q4,Boilers Directorate,30,56.4,1
+APP_SYN_0578,Uttar Pradesh,Food Processing,6743564.51,97,6,24,2,1,3,0,Pre-Establishment,MSME,Q1,UP Fire Service,30,32.8,1
+APP_SYN_0579,Gujarat,Food Processing,7654952.89,67,4,16,0,1,3,0,Pre-Operation,MSME,Q1,Directorate of Factories,45,37.0,0
+APP_SYN_0580,Uttar Pradesh,Information Technology,66410491.27,225,10,50,0,0,5,0,Pre-Operation,Enterprise,Q4,Legal Metrology,30,30.0,0
+APP_SYN_0581,Gujarat,Food Processing,20871126.57,87,2,6,0,0,1,3,Pre-Establishment,MSME,Q2,CEIG,45,46.5,1
+APP_SYN_0582,Uttar Pradesh,Manufacturing,5474873.31,78,5,15,0,1,2,2,Pre-Operation,MSME,Q2,UP Fire Service,60,61.2,1
+APP_SYN_0583,Gujarat,Food Processing,3530189.1,23,4,20,0,0,3,0,Pre-Establishment,MSME,Q2,Legal Metrology,30,23.7,0
+APP_SYN_0584,Uttar Pradesh,Food Processing,14774349.21,431,11,33,0,0,5,2,Operation,Enterprise,Q4,Boilers Directorate,15,19.0,1
+APP_SYN_0585,Tamil Nadu,Pharmaceuticals,30322582.22,560,7,35,0,0,5,0,Pre-Operation,Enterprise,Q2,CEIG,15,17.2,1
+APP_SYN_0586,Uttar Pradesh,Food Processing,69461223.15,467,7,28,3,1,2,0,Pre-Establishment,Enterprise,Q4,Boilers Directorate,30,44.1,1
+APP_SYN_0587,Karnataka,Food Processing,17302071.97,96,2,8,0,0,1,0,Operation,MSME,Q3,UPPCB,30,26.1,0
+APP_SYN_0588,Gujarat,Manufacturing,1990881.82,22,6,30,0,1,1,0,Pre-Operation,MSME,Q3,Directorate of Factories,30,28.5,0
+APP_SYN_0589,Gujarat,Food Processing,393175.5,16,1,3,0,1,1,0,Pre-Operation,Individual,Q1,Legal Metrology,20,18.8,0
+APP_SYN_0590,Maharashtra,Food Processing,2594658.12,48,4,20,0,0,3,1,Pre-Establishment,MSME,Q3,FSSAI,30,23.6,0
+APP_SYN_0591,Karnataka,Food Processing,3063587.31,9,6,18,0,1,1,0,Pre-Operation,MSME,Q4,UP Fire Service,45,41.2,0
+APP_SYN_0592,Rajasthan,Food Processing,1523160.54,49,2,8,0,1,1,0,Pre-Operation,MSME,Q3,FSSAI,45,37.8,0
+APP_SYN_0593,Uttar Pradesh,Chemicals,9078039.94,60,2,10,2,0,2,1,Pre-Operation,MSME,Q3,Directorate of Factories,30,36.3,1
+APP_SYN_0594,Karnataka,Manufacturing,2074975.31,19,2,10,0,0,1,0,Pre-Operation,Individual,Q1,Boilers Directorate,15,8.5,0
+APP_SYN_0595,Tamil Nadu,Textiles,45325855.03,64,7,35,1,0,2,0,Pre-Establishment,Enterprise,Q1,Boilers Directorate,15,14.4,0
+APP_SYN_0596,Uttar Pradesh,Chemicals,5459675.04,11,2,10,0,0,1,0,Pre-Establishment,MSME,Q1,Legal Metrology,60,44.1,0
+APP_SYN_0597,Uttar Pradesh,Textiles,13354955.29,43,6,18,0,0,1,0,Pre-Establishment,MSME,Q2,CEIG,15,11.3,0
+APP_SYN_0598,Maharashtra,Chemicals,818786.76,25,2,10,0,1,2,1,Pre-Operation,MSME,Q2,UPPCB,20,21.3,1
+APP_SYN_0599,Uttar Pradesh,Food Processing,21761808.68,34,4,16,2,1,3,2,Operation,MSME,Q4,UPPCB,15,23.8,1
+APP_SYN_0600,Rajasthan,Information Technology,5477449.93,67,5,25,2,0,3,2,Pre-Establishment,MSME,Q3,Legal Metrology,30,41.9,1
+APP_SYN_0601,Tamil Nadu,Manufacturing,430902.87,16,1,4,0,0,1,0,Pre-Operation,Individual,Q1,CEIG,60,40.8,0
+APP_SYN_0602,Uttar Pradesh,Food Processing,3667810.88,99,2,10,0,1,1,1,Pre-Operation,MSME,Q4,UP Fire Service,20,18.2,0
+APP_SYN_0603,Uttar Pradesh,Food Processing,33776574.4,114,6,24,0,1,4,2,Pre-Operation,Enterprise,Q1,Directorate of Factories,45,54.5,1
+APP_SYN_0604,Maharashtra,Manufacturing,1674616.41,57,2,8,3,0,2,3,Pre-Establishment,MSME,Q2,FSSAI,30,41.7,1
+APP_SYN_0605,Maharashtra,Manufacturing,59102827.94,138,7,35,0,1,3,0,Pre-Establishment,Enterprise,Q4,UPPCB,45,50.4,1
+APP_SYN_0606,Maharashtra,Information Technology,12105959.3,94,4,12,0,0,1,0,Pre-Operation,MSME,Q3,UP Fire Service,20,15.6,0
+APP_SYN_0607,Tamil Nadu,Manufacturing,39804727.33,275,5,15,0,1,2,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,60,61.0,1
+APP_SYN_0608,Maharashtra,Information Technology,195215742.02,136,10,40,0,0,3,0,Pre-Establishment,Enterprise,Q3,Legal Metrology,20,20.0,0
+APP_SYN_0609,Uttar Pradesh,Food Processing,10447933.32,17,6,30,2,0,3,1,Pre-Operation,MSME,Q1,FSSAI,20,25.0,1
+APP_SYN_0610,Gujarat,Food Processing,37995465.36,71,5,15,3,1,3,0,Pre-Operation,MSME,Q2,UPPCB,15,21.4,1
+APP_SYN_0611,Uttar Pradesh,Manufacturing,10640193.66,64,3,9,1,1,2,0,Pre-Operation,MSME,Q2,Directorate of Factories,15,16.5,1
+APP_SYN_0612,Uttar Pradesh,Pharmaceuticals,44837847.18,573,6,18,0,0,2,0,Pre-Operation,Enterprise,Q2,Boilers Directorate,15,12.6,0
+APP_SYN_0613,Gujarat,Food Processing,3008140.28,12,6,30,1,0,1,0,Pre-Operation,MSME,Q3,Legal Metrology,15,14.3,0
+APP_SYN_0614,Maharashtra,Manufacturing,6482117.92,68,2,10,0,0,2,0,Pre-Establishment,MSME,Q3,UPPCB,30,22.7,0
+APP_SYN_0615,Uttar Pradesh,Textiles,64560883.81,454,4,12,0,0,2,2,Pre-Establishment,Enterprise,Q3,UPPCB,30,26.7,0
+APP_SYN_0616,Maharashtra,Food Processing,29607617.7,319,7,28,2,0,4,0,Pre-Operation,Enterprise,Q4,UP Fire Service,20,24.6,1
+APP_SYN_0617,Maharashtra,Food Processing,7616916.38,56,5,25,0,0,2,1,Pre-Establishment,MSME,Q3,UP Fire Service,20,17.4,0
+APP_SYN_0618,Uttar Pradesh,Food Processing,44274240.34,83,7,21,1,0,5,0,Pre-Operation,Enterprise,Q4,Legal Metrology,30,31.8,1
+APP_SYN_0619,Uttar Pradesh,Food Processing,8978998.45,74,3,9,0,1,3,0,Pre-Operation,MSME,Q4,Directorate of Factories,15,13.3,0
+APP_SYN_0620,Gujarat,Food Processing,91759324.75,294,4,12,2,0,2,2,Pre-Operation,Enterprise,Q4,Boilers Directorate,15,18.8,1
+APP_SYN_0621,Gujarat,Information Technology,5143559.49,59,2,8,0,0,1,0,Pre-Operation,MSME,Q1,UP Fire Service,30,24.1,0
+APP_SYN_0622,Gujarat,Manufacturing,162182041.71,430,8,32,3,0,4,1,Pre-Operation,Enterprise,Q2,FSSAI,15,19.1,1
+APP_SYN_0623,Tamil Nadu,Food Processing,7485955.17,93,2,8,0,0,1,0,Pre-Establishment,MSME,Q3,Boilers Directorate,15,9.6,0
+APP_SYN_0624,Uttar Pradesh,Manufacturing,3714690.9,13,2,6,0,1,2,0,Pre-Establishment,MSME,Q3,Boilers Directorate,45,46.8,1
+APP_SYN_0625,Karnataka,Chemicals,87172916.74,331,5,25,2,1,3,0,Pre-Operation,Enterprise,Q2,CEIG,15,21.7,1
+APP_SYN_0626,Maharashtra,Manufacturing,3452388.89,41,2,8,1,0,1,0,Pre-Operation,MSME,Q3,FSSAI,30,27.7,0
+APP_SYN_0627,Uttar Pradesh,Food Processing,26571872.19,229,11,33,1,0,5,1,Pre-Operation,Enterprise,Q2,Boilers Directorate,60,72.8,1
+APP_SYN_0628,Uttar Pradesh,Food Processing,1370726.46,66,6,24,1,0,3,0,Pre-Operation,MSME,Q3,Legal Metrology,30,34.0,1
+APP_SYN_0629,Tamil Nadu,Manufacturing,4341396.56,29,2,6,1,1,1,0,Operation,MSME,Q3,Directorate of Factories,15,15.6,1
+APP_SYN_0630,Uttar Pradesh,Manufacturing,1152051.53,90,6,18,1,1,3,1,Pre-Establishment,MSME,Q4,UPPCB,30,41.1,1
+APP_SYN_0631,Uttar Pradesh,Textiles,485496.67,19,2,6,1,0,1,0,Pre-Establishment,Individual,Q2,CEIG,60,54.8,0
+APP_SYN_0632,Karnataka,Manufacturing,10457648.5,83,3,9,0,0,2,0,Pre-Operation,MSME,Q2,Boilers Directorate,15,10.1,0
+APP_SYN_0633,Karnataka,Pharmaceuticals,45487924.49,567,4,16,0,0,3,1,Pre-Operation,Enterprise,Q1,CEIG,15,13.8,0
+APP_SYN_0634,Maharashtra,Food Processing,2615316.47,75,3,12,0,1,2,0,Operation,MSME,Q4,Legal Metrology,30,27.8,0
+APP_SYN_0635,Uttar Pradesh,Chemicals,4246032.33,71,3,12,0,1,1,2,Pre-Operation,MSME,Q4,Legal Metrology,20,18.7,0
+APP_SYN_0636,Uttar Pradesh,Chemicals,5959575.38,50,4,20,2,1,3,0,Operation,MSME,Q1,UP Fire Service,20,25.3,1
+APP_SYN_0637,Maharashtra,Food Processing,6905173.17,41,4,20,0,1,2,1,Pre-Operation,MSME,Q1,Boilers Directorate,30,31.4,1
+APP_SYN_0638,Gujarat,Food Processing,2893488.72,9,2,8,4,0,1,1,Pre-Establishment,MSME,Q2,Directorate of Factories,20,29.9,1
+APP_SYN_0639,Uttar Pradesh,Manufacturing,3660363.77,27,5,20,2,0,2,1,Pre-Operation,MSME,Q1,FSSAI,15,17.0,1
+APP_SYN_0640,Uttar Pradesh,Food Processing,5578468.19,51,4,20,0,1,1,3,Pre-Operation,MSME,Q1,FSSAI,45,54.4,1
+APP_SYN_0641,Tamil Nadu,Pharmaceuticals,52937290.46,417,6,30,3,0,3,1,Pre-Operation,Enterprise,Q1,UPPCB,20,29.3,1
+APP_SYN_0642,Uttar Pradesh,Chemicals,65091804.31,251,5,15,0,0,3,1,Pre-Operation,Enterprise,Q2,CEIG,20,18.5,0
+APP_SYN_0643,Maharashtra,Food Processing,109150326.09,117,8,40,1,0,5,0,Pre-Operation,Enterprise,Q2,FSSAI,15,18.0,1
+APP_SYN_0644,Maharashtra,Food Processing,1280252.54,76,2,6,0,0,1,0,Operation,MSME,Q1,FSSAI,30,21.5,0
+APP_SYN_0645,Gujarat,Manufacturing,5342837.6,35,2,8,1,1,2,1,Pre-Operation,MSME,Q4,CEIG,30,35.8,1
+APP_SYN_0646,Uttar Pradesh,Information Technology,1851489.85,15,1,4,2,0,1,0,Pre-Operation,Individual,Q4,Boilers Directorate,15,18.6,1
+APP_SYN_0647,Gujarat,Pharmaceuticals,14692388.57,28,4,16,2,0,3,0,Pre-Establishment,MSME,Q2,UPPCB,30,38.7,1
+APP_SYN_0648,Maharashtra,Food Processing,1029956.17,9,1,4,0,1,1,0,Operation,Individual,Q4,Directorate of Factories,15,14.8,0
+APP_SYN_0649,Karnataka,Food Processing,4450439.23,90,4,16,0,0,3,0,Pre-Operation,MSME,Q3,CEIG,15,13.4,0
+APP_SYN_0650,Uttar Pradesh,Manufacturing,4269872.35,34,4,16,0,1,2,0,Pre-Operation,MSME,Q3,Boilers Directorate,20,20.0,0
+APP_SYN_0651,Maharashtra,Textiles,15476481.64,369,5,20,0,0,3,1,Pre-Operation,Enterprise,Q4,Directorate of Factories,20,18.1,0
+APP_SYN_0652,Gujarat,Food Processing,4776653.27,42,6,18,3,1,2,1,Pre-Establishment,MSME,Q3,FSSAI,30,43.6,1
+APP_SYN_0653,Maharashtra,Manufacturing,471573.62,5,1,4,2,1,1,0,Pre-Operation,Individual,Q3,UP Fire Service,20,27.8,1
+APP_SYN_0654,Maharashtra,Chemicals,101905053.28,312,6,18,0,1,5,0,Pre-Operation,Enterprise,Q4,UP Fire Service,30,35.6,1
+APP_SYN_0655,Uttar Pradesh,Chemicals,52457878.84,54,5,25,0,1,4,2,Pre-Establishment,Enterprise,Q3,FSSAI,15,18.9,1
+APP_SYN_0656,Tamil Nadu,Food Processing,976397.99,6,2,8,0,1,1,0,Pre-Establishment,Individual,Q3,CEIG,30,24.1,0
+APP_SYN_0657,Karnataka,Food Processing,92110487.93,417,6,30,2,0,3,1,Operation,Enterprise,Q1,UPPCB,20,26.2,1
+APP_SYN_0658,Maharashtra,Food Processing,22676839.23,28,5,20,0,1,3,1,Pre-Operation,MSME,Q3,Directorate of Factories,30,34.8,1
+APP_SYN_0659,Karnataka,Food Processing,83020629.69,159,6,18,0,0,3,0,Pre-Establishment,Enterprise,Q4,Boilers Directorate,30,25.3,0
+APP_SYN_0660,Uttar Pradesh,Manufacturing,4748191.64,5,1,5,0,1,1,0,Operation,Individual,Q3,CEIG,30,21.7,0
+APP_SYN_0661,Maharashtra,Food Processing,4291196.63,57,5,20,1,1,1,0,Pre-Operation,MSME,Q3,Directorate of Factories,20,19.7,0
+APP_SYN_0662,Uttar Pradesh,Manufacturing,5797483.59,36,2,8,0,1,1,1,Pre-Establishment,MSME,Q1,Boilers Directorate,30,30.6,1
+APP_SYN_0663,Uttar Pradesh,Food Processing,21577201.86,58,3,12,0,1,3,0,Operation,MSME,Q1,Directorate of Factories,30,30.8,1
+APP_SYN_0664,Maharashtra,Food Processing,29777447.45,302,7,21,2,0,3,3,Pre-Establishment,Enterprise,Q4,Legal Metrology,15,22.4,1
+APP_SYN_0665,Gujarat,Manufacturing,11937980.93,73,6,30,0,1,1,0,Pre-Operation,MSME,Q1,UPPCB,15,14.8,0
+APP_SYN_0666,Uttar Pradesh,Manufacturing,17557318.66,71,5,15,2,1,2,1,Pre-Operation,MSME,Q1,UPPCB,15,17.7,1
+APP_SYN_0667,Uttar Pradesh,Food Processing,2309705.61,73,2,8,0,1,2,0,Pre-Establishment,MSME,Q4,Boilers Directorate,20,18.2,0
+APP_SYN_0668,Gujarat,Manufacturing,6352535.29,71,6,30,0,0,3,1,Operation,MSME,Q2,Boilers Directorate,30,27.4,0
+APP_SYN_0669,Uttar Pradesh,Manufacturing,11855705.29,68,4,12,0,1,2,3,Pre-Operation,MSME,Q2,FSSAI,15,15.6,1
+APP_SYN_0670,Uttar Pradesh,Textiles,19929931.24,13,4,20,0,0,1,1,Operation,MSME,Q1,Directorate of Factories,15,13.8,0
+APP_SYN_0671,Uttar Pradesh,Manufacturing,10180029.75,70,6,18,0,1,1,1,Pre-Operation,MSME,Q4,Directorate of Factories,30,35.5,1
+APP_SYN_0672,Karnataka,Food Processing,13569144.54,94,5,25,0,1,1,0,Pre-Operation,MSME,Q2,Directorate of Factories,15,10.3,0
+APP_SYN_0673,Gujarat,Manufacturing,1373426.17,47,6,24,0,0,1,0,Pre-Operation,MSME,Q2,UP Fire Service,20,13.4,0
+APP_SYN_0674,Karnataka,Textiles,2862679.84,34,3,12,0,0,1,2,Pre-Operation,MSME,Q2,UPPCB,20,19.3,0
+APP_SYN_0675,Karnataka,Food Processing,5538048.73,49,6,30,4,1,3,1,Pre-Operation,MSME,Q3,UP Fire Service,20,34.5,1
+APP_SYN_0676,Uttar Pradesh,Pharmaceuticals,3143548.76,39,4,16,0,1,2,3,Pre-Operation,MSME,Q3,UPPCB,30,42.1,1
+APP_SYN_0677,Gujarat,Food Processing,6247670.66,44,3,9,1,0,3,0,Operation,MSME,Q1,Directorate of Factories,15,15.8,1
+APP_SYN_0678,Uttar Pradesh,Chemicals,8831407.45,52,3,9,3,0,3,2,Operation,MSME,Q1,Boilers Directorate,45,65.8,1
+APP_SYN_0679,Tamil Nadu,Food Processing,17093051.6,475,8,40,1,0,5,0,Pre-Operation,Enterprise,Q3,UPPCB,20,24.7,1
+APP_SYN_0680,Gujarat,Manufacturing,43304617.75,24,3,15,1,0,3,2,Pre-Operation,MSME,Q2,Boilers Directorate,15,18.3,1
+APP_SYN_0681,Rajasthan,Manufacturing,3451241.04,71,6,24,1,0,3,2,Pre-Operation,MSME,Q1,UP Fire Service,20,24.0,1
+APP_SYN_0682,Uttar Pradesh,Manufacturing,8875465.23,18,5,20,0,1,1,0,Pre-Establishment,MSME,Q4,FSSAI,45,41.7,0
+APP_SYN_0683,Uttar Pradesh,Food Processing,2908337.08,15,5,15,0,1,2,1,Pre-Operation,MSME,Q1,Directorate of Factories,15,14.2,0
+APP_SYN_0684,Rajasthan,Chemicals,7480036.84,68,6,30,1,1,2,0,Pre-Establishment,MSME,Q4,FSSAI,20,21.8,1
+APP_SYN_0685,Gujarat,Food Processing,88869247.65,231,9,45,0,1,4,0,Pre-Establishment,Enterprise,Q1,CEIG,15,14.4,0
+APP_SYN_0686,Maharashtra,Chemicals,9847297.09,13,5,15,1,0,3,2,Pre-Establishment,MSME,Q2,Legal Metrology,15,17.9,1
+APP_SYN_0687,Karnataka,Food Processing,66172070.48,376,10,40,4,0,3,1,Pre-Operation,Enterprise,Q2,UPPCB,20,29.0,1
+APP_SYN_0688,Uttar Pradesh,Textiles,3900730.0,13,5,20,0,0,1,1,Operation,MSME,Q4,UPPCB,45,39.6,0
+APP_SYN_0689,Tamil Nadu,Food Processing,5246307.87,93,5,20,0,0,1,0,Pre-Establishment,MSME,Q1,Legal Metrology,15,11.5,0
+APP_SYN_0690,Uttar Pradesh,Textiles,6992236.71,29,4,16,0,0,2,1,Pre-Establishment,MSME,Q4,UP Fire Service,30,29.6,0
+APP_SYN_0691,Uttar Pradesh,Manufacturing,9389088.39,60,5,15,4,0,1,0,Pre-Operation,MSME,Q4,UPPCB,45,65.5,1
+APP_SYN_0692,Uttar Pradesh,Textiles,101549010.47,125,7,21,2,0,2,0,Pre-Operation,Enterprise,Q2,Legal Metrology,20,20.2,1
+APP_SYN_0693,Gujarat,Information Technology,2788967.2,76,6,24,0,0,3,0,Pre-Establishment,MSME,Q3,Boilers Directorate,30,28.4,0
+APP_SYN_0694,Rajasthan,Textiles,11687697.94,62,3,15,1,0,1,0,Pre-Operation,MSME,Q3,CEIG,20,16.9,0
+APP_SYN_0695,Uttar Pradesh,Chemicals,8071298.2,52,4,16,0,0,1,0,Pre-Operation,MSME,Q4,UP Fire Service,15,11.8,0
+APP_SYN_0696,Uttar Pradesh,Information Technology,94702630.29,589,4,12,0,0,2,0,Pre-Operation,Enterprise,Q4,CEIG,30,28.7,0
+APP_SYN_0697,Tamil Nadu,Manufacturing,2421950.5,82,5,25,3,0,1,0,Pre-Operation,MSME,Q4,Legal Metrology,15,21.3,1
+APP_SYN_0698,Maharashtra,Manufacturing,12522019.4,40,5,15,4,1,1,3,Pre-Establishment,MSME,Q2,Boilers Directorate,20,35.4,1
+APP_SYN_0699,Karnataka,Manufacturing,34765717.97,117,9,36,0,1,3,1,Pre-Establishment,Enterprise,Q2,UPPCB,20,20.5,1
+APP_SYN_0700,Uttar Pradesh,Food Processing,14077571.08,542,5,25,0,1,2,0,Pre-Establishment,Enterprise,Q1,Boilers Directorate,30,29.2,0
+APP_SYN_0701,Gujarat,Food Processing,5019645.78,24,3,12,2,1,3,1,Pre-Operation,MSME,Q3,UP Fire Service,20,26.6,1
+APP_SYN_0702,Gujarat,Food Processing,13595263.44,305,11,55,0,0,3,0,Operation,Enterprise,Q4,Directorate of Factories,30,25.5,0
+APP_SYN_0703,Uttar Pradesh,Pharmaceuticals,857149.08,4,2,6,3,0,1,2,Operation,Individual,Q1,CEIG,20,24.3,1
+APP_SYN_0704,Tamil Nadu,Manufacturing,31465174.21,316,10,40,1,0,4,3,Pre-Establishment,Enterprise,Q2,FSSAI,30,49.3,1
+APP_SYN_0705,Gujarat,Information Technology,2316421.63,80,4,16,0,0,3,3,Pre-Operation,MSME,Q3,Boilers Directorate,30,38.9,1
+APP_SYN_0706,Tamil Nadu,Information Technology,5646376.8,85,5,25,0,0,1,0,Pre-Establishment,MSME,Q4,Legal Metrology,15,13.4,0
+APP_SYN_0707,Uttar Pradesh,Food Processing,29818467.44,325,11,44,0,0,5,2,Pre-Operation,Enterprise,Q1,FSSAI,45,62.9,1
+APP_SYN_0708,Maharashtra,Textiles,9557152.44,517,8,32,2,1,5,3,Pre-Establishment,Enterprise,Q3,Boilers Directorate,15,26.1,1
+APP_SYN_0709,Uttar Pradesh,Food Processing,1536113.97,6,3,15,1,1,1,0,Pre-Establishment,MSME,Q2,Directorate of Factories,15,15.5,1
+APP_SYN_0710,Gujarat,Food Processing,33611467.69,332,9,27,0,0,5,0,Pre-Establishment,Enterprise,Q3,FSSAI,20,17.1,0
+APP_SYN_0711,Maharashtra,Manufacturing,986270.32,27,2,10,1,1,2,0,Pre-Operation,MSME,Q2,Legal Metrology,20,20.3,1
+APP_SYN_0712,Uttar Pradesh,Manufacturing,105239083.61,412,10,30,0,1,4,0,Pre-Establishment,Enterprise,Q4,Legal Metrology,30,38.0,1
+APP_SYN_0713,Uttar Pradesh,Food Processing,34893240.46,92,5,25,1,0,2,0,Pre-Establishment,MSME,Q1,FSSAI,45,40.3,0
+APP_SYN_0714,Uttar Pradesh,Manufacturing,37412641.82,344,10,40,0,1,2,0,Pre-Operation,Enterprise,Q3,UPPCB,20,22.6,1
+APP_SYN_0715,Uttar Pradesh,Manufacturing,4160518.04,26,4,12,0,0,3,0,Pre-Establishment,MSME,Q1,Boilers Directorate,20,19.2,0
+APP_SYN_0716,Maharashtra,Food Processing,25153331.27,44,3,15,0,0,3,2,Pre-Operation,MSME,Q3,Directorate of Factories,20,19.8,0
+APP_SYN_0717,Uttar Pradesh,Food Processing,5465332.22,12,5,25,1,1,1,1,Pre-Establishment,MSME,Q1,UP Fire Service,15,15.6,1
+APP_SYN_0718,Gujarat,Manufacturing,131285009.66,302,8,40,2,1,5,2,Pre-Establishment,Enterprise,Q4,CEIG,45,78.9,1
+APP_SYN_0719,Rajasthan,Textiles,2368160.99,97,6,18,0,0,2,1,Pre-Operation,MSME,Q1,UP Fire Service,15,12.5,0
+APP_SYN_0720,Uttar Pradesh,Manufacturing,55016823.82,132,8,24,0,0,3,0,Pre-Establishment,Enterprise,Q3,Directorate of Factories,20,21.7,1
+APP_SYN_0721,Uttar Pradesh,Textiles,4591493.91,28,6,24,3,0,2,0,Pre-Operation,MSME,Q2,CEIG,20,26.0,1
+APP_SYN_0722,Tamil Nadu,Food Processing,38524306.67,154,5,20,2,1,3,1,Pre-Operation,Enterprise,Q1,CEIG,30,38.4,1
+APP_SYN_0723,Maharashtra,Food Processing,7267459.54,62,2,6,0,0,2,0,Pre-Operation,MSME,Q1,UPPCB,15,13.7,0
+APP_SYN_0724,Gujarat,Food Processing,4657933.3,40,2,8,2,1,2,2,Pre-Operation,MSME,Q1,Boilers Directorate,15,23.7,1
+APP_SYN_0725,Rajasthan,Food Processing,1020900.82,12,2,6,3,0,1,0,Pre-Operation,Individual,Q4,Boilers Directorate,45,56.6,1
+APP_SYN_0726,Uttar Pradesh,Manufacturing,22453815.48,385,4,16,4,0,3,1,Pre-Establishment,Enterprise,Q1,Legal Metrology,20,31.6,1
+APP_SYN_0727,Maharashtra,Food Processing,3039610.76,34,3,9,0,1,2,2,Pre-Operation,MSME,Q2,UP Fire Service,20,23.9,1
+APP_SYN_0728,Maharashtra,Pharmaceuticals,3165265.8,44,2,10,1,0,1,1,Pre-Operation,MSME,Q4,UPPCB,15,15.8,1
+APP_SYN_0729,Gujarat,Manufacturing,23292451.39,589,9,36,2,0,5,3,Pre-Establishment,Enterprise,Q1,UPPCB,30,41.9,1
+APP_SYN_0730,Uttar Pradesh,Food Processing,77935167.02,571,11,33,0,0,3,2,Pre-Operation,Enterprise,Q2,CEIG,15,15.4,1
+APP_SYN_0731,Uttar Pradesh,Manufacturing,9052446.73,78,4,12,1,1,1,0,Pre-Establishment,MSME,Q1,UP Fire Service,15,14.6,0
+APP_SYN_0732,Uttar Pradesh,Food Processing,1736464.81,18,2,10,2,1,1,3,Pre-Establishment,Individual,Q3,UP Fire Service,15,19.9,1
+APP_SYN_0733,Uttar Pradesh,Food Processing,8334383.01,42,4,16,0,0,2,0,Pre-Operation,MSME,Q3,Boilers Directorate,30,31.6,1
+APP_SYN_0734,Karnataka,Manufacturing,122081957.4,492,10,50,0,1,3,2,Pre-Establishment,Enterprise,Q4,UPPCB,30,40.7,1
+APP_SYN_0735,Uttar Pradesh,Food Processing,6390093.89,22,5,25,2,1,3,1,Pre-Establishment,MSME,Q1,Legal Metrology,20,26.8,1
+APP_SYN_0736,Uttar Pradesh,Manufacturing,7756586.59,43,4,20,0,0,3,0,Pre-Establishment,MSME,Q1,CEIG,20,16.8,0
+APP_SYN_0737,Gujarat,Chemicals,4361886.01,23,4,20,1,0,1,0,Pre-Operation,MSME,Q2,Directorate of Factories,15,13.8,0
+APP_SYN_0738,Gujarat,Food Processing,59041008.18,52,9,45,0,1,4,0,Pre-Operation,Enterprise,Q1,UP Fire Service,30,36.0,1
+APP_SYN_0739,Karnataka,Food Processing,10006892.53,59,6,30,0,1,3,0,Pre-Establishment,MSME,Q3,FSSAI,20,23.3,1
+APP_SYN_0740,Gujarat,Manufacturing,6885339.17,10,4,20,0,1,2,2,Pre-Operation,MSME,Q4,CEIG,20,26.9,1
+APP_SYN_0741,Gujarat,Pharmaceuticals,1497922.37,64,6,18,0,0,1,0,Pre-Establishment,MSME,Q4,Boilers Directorate,15,11.2,0
+APP_SYN_0742,Gujarat,Textiles,732944.18,14,2,10,1,0,1,1,Pre-Operation,Individual,Q3,Boilers Directorate,20,19.4,0
+APP_SYN_0743,Uttar Pradesh,Pharmaceuticals,1305137.8,9,1,5,0,0,1,0,Pre-Establishment,Individual,Q4,Directorate of Factories,20,15.6,0
+APP_SYN_0744,Maharashtra,Food Processing,4111895.55,75,2,6,1,1,2,0,Pre-Establishment,MSME,Q3,FSSAI,20,24.4,1
+APP_SYN_0745,Uttar Pradesh,Pharmaceuticals,5088608.69,17,4,16,1,0,2,0,Pre-Operation,MSME,Q1,Directorate of Factories,15,17.2,1
+APP_SYN_0746,Uttar Pradesh,Textiles,10875662.39,51,6,30,0,1,3,0,Operation,MSME,Q2,Directorate of Factories,30,31.4,1
+APP_SYN_0747,Uttar Pradesh,Food Processing,956978.09,7,2,6,2,1,1,0,Operation,Individual,Q3,FSSAI,20,23.7,1
+APP_SYN_0748,Maharashtra,Textiles,5107167.3,31,2,10,1,1,2,0,Pre-Establishment,MSME,Q4,FSSAI,45,52.0,1
+APP_SYN_0749,Uttar Pradesh,Food Processing,59349949.84,298,10,30,1,0,5,0,Operation,Enterprise,Q2,Directorate of Factories,20,23.4,1
+APP_SYN_0750,Gujarat,Chemicals,22985341.29,251,11,33,0,1,3,0,Pre-Operation,Enterprise,Q2,UP Fire Service,30,35.3,1
+APP_SYN_0751,Uttar Pradesh,Food Processing,8725455.08,74,2,10,0,0,1,2,Pre-Operation,MSME,Q3,FSSAI,15,14.8,0
+APP_SYN_0752,Uttar Pradesh,Food Processing,9025979.36,60,5,20,0,0,3,0,Pre-Operation,MSME,Q4,Legal Metrology,15,12.6,0
+APP_SYN_0753,Rajasthan,Food Processing,19620492.58,480,10,30,3,1,4,3,Pre-Operation,Enterprise,Q2,Directorate of Factories,15,27.3,1
+APP_SYN_0754,Uttar Pradesh,Food Processing,5621707.29,78,3,12,0,1,3,0,Pre-Establishment,MSME,Q2,UP Fire Service,60,48.2,0
+APP_SYN_0755,Maharashtra,Food Processing,5144435.48,28,4,12,0,0,3,1,Pre-Operation,MSME,Q2,UPPCB,15,15.8,1
+APP_SYN_0756,Maharashtra,Manufacturing,8510593.15,91,11,44,1,0,3,1,Pre-Operation,Enterprise,Q3,UPPCB,15,18.0,1
+APP_SYN_0757,Uttar Pradesh,Manufacturing,2735045.52,85,2,6,3,0,1,3,Pre-Establishment,MSME,Q1,CEIG,20,27.0,1
+APP_SYN_0758,Karnataka,Food Processing,3742411.65,48,3,15,0,1,2,0,Operation,MSME,Q3,Boilers Directorate,20,20.0,0
+APP_SYN_0759,Gujarat,Manufacturing,3187771.76,252,4,16,0,0,2,0,Pre-Establishment,Enterprise,Q2,Legal Metrology,30,24.5,0
+APP_SYN_0760,Uttar Pradesh,Manufacturing,2661582.39,42,4,12,0,0,2,0,Pre-Operation,MSME,Q2,Boilers Directorate,20,12.7,0
+APP_SYN_0761,Tamil Nadu,Manufacturing,18484859.39,356,7,28,2,1,5,0,Pre-Establishment,Enterprise,Q4,FSSAI,20,30.2,1
+APP_SYN_0762,Uttar Pradesh,Food Processing,5643117.67,20,2,10,2,1,2,0,Operation,MSME,Q3,Directorate of Factories,45,58.2,1
+APP_SYN_0763,Maharashtra,Pharmaceuticals,13791457.63,51,3,9,2,0,1,0,Pre-Establishment,MSME,Q4,Boilers Directorate,20,23.6,1
+APP_SYN_0764,Uttar Pradesh,Chemicals,2398848.09,60,2,10,3,0,2,1,Pre-Operation,MSME,Q2,UP Fire Service,20,25.8,1
+APP_SYN_0765,Uttar Pradesh,Food Processing,4356867.7,87,6,24,3,0,3,0,Pre-Operation,MSME,Q4,UP Fire Service,30,42.8,1
+APP_SYN_0766,Uttar Pradesh,Food Processing,80189304.38,555,8,32,1,1,2,0,Pre-Operation,Enterprise,Q4,FSSAI,20,21.2,1
+APP_SYN_0767,Uttar Pradesh,Manufacturing,2707791.56,4,2,6,0,1,1,2,Pre-Establishment,Individual,Q3,Boilers Directorate,15,17.1,1
+APP_SYN_0768,Uttar Pradesh,Manufacturing,9211109.87,14,5,20,0,1,2,1,Pre-Operation,MSME,Q2,UP Fire Service,15,18.4,1
+APP_SYN_0769,Maharashtra,Manufacturing,763994.31,3,2,10,0,1,1,0,Pre-Establishment,Individual,Q1,Legal Metrology,30,22.7,0
+APP_SYN_0770,Tamil Nadu,Manufacturing,9567966.85,79,5,15,0,0,2,3,Pre-Establishment,MSME,Q1,Directorate of Factories,45,47.4,1
+APP_SYN_0771,Uttar Pradesh,Manufacturing,59778388.66,527,11,44,3,0,5,1,Pre-Operation,Enterprise,Q1,Directorate of Factories,15,23.4,1
+APP_SYN_0772,Uttar Pradesh,Manufacturing,1252927.38,14,2,8,1,1,1,0,Pre-Establishment,Individual,Q2,UP Fire Service,20,19.9,0
+APP_SYN_0773,Gujarat,Pharmaceuticals,2575258.93,11,4,12,0,0,3,0,Pre-Establishment,MSME,Q1,CEIG,15,13.4,0
+APP_SYN_0774,Maharashtra,Food Processing,1495216.51,11,2,8,1,1,1,0,Pre-Establishment,Individual,Q3,Boilers Directorate,45,50.3,1
+APP_SYN_0775,Tamil Nadu,Textiles,5242707.43,89,6,18,0,0,2,1,Operation,MSME,Q3,Boilers Directorate,20,21.6,1
+APP_SYN_0776,Uttar Pradesh,Food Processing,10021656.92,48,5,20,1,1,3,2,Pre-Operation,MSME,Q1,FSSAI,30,34.9,1
+APP_SYN_0777,Uttar Pradesh,Textiles,13074533.35,78,5,25,0,0,1,0,Pre-Establishment,MSME,Q3,UPPCB,20,16.7,0
+APP_SYN_0778,Uttar Pradesh,Textiles,32147260.78,499,6,18,3,0,2,0,Pre-Establishment,Enterprise,Q2,UPPCB,20,24.0,1
+APP_SYN_0779,Maharashtra,Manufacturing,17583947.69,91,5,25,1,1,1,1,Pre-Establishment,MSME,Q3,Boilers Directorate,60,59.5,0
+APP_SYN_0780,Karnataka,Food Processing,4760582.43,55,5,20,0,1,2,0,Pre-Establishment,MSME,Q3,FSSAI,20,19.3,0
+APP_SYN_0781,Gujarat,Food Processing,2021119.42,28,5,15,0,1,1,0,Operation,MSME,Q3,UP Fire Service,20,17.4,0
+APP_SYN_0782,Gujarat,Food Processing,112844361.22,391,5,25,0,1,5,0,Pre-Operation,Enterprise,Q1,FSSAI,15,15.9,1
+APP_SYN_0783,Uttar Pradesh,Pharmaceuticals,966489.72,12,1,4,2,1,1,0,Pre-Operation,Individual,Q2,Legal Metrology,30,39.7,1
+APP_SYN_0784,Uttar Pradesh,Food Processing,6007697.61,48,4,16,0,0,2,0,Pre-Operation,MSME,Q3,CEIG,20,15.3,0
+APP_SYN_0785,Uttar Pradesh,Chemicals,1265425.86,11,2,6,0,0,1,0,Pre-Operation,Individual,Q2,Legal Metrology,30,23.7,0
+APP_SYN_0786,Maharashtra,Manufacturing,6527572.05,66,5,15,1,0,3,0,Pre-Establishment,MSME,Q4,Legal Metrology,30,32.8,1
+APP_SYN_0787,Karnataka,Food Processing,39010347.44,489,4,20,3,1,2,0,Pre-Operation,Enterprise,Q1,Legal Metrology,15,19.5,1
+APP_SYN_0788,Uttar Pradesh,Chemicals,9575281.06,7,2,8,0,1,1,1,Pre-Establishment,MSME,Q4,CEIG,20,19.8,0
+APP_SYN_0789,Uttar Pradesh,Chemicals,98662959.55,590,6,30,0,1,2,0,Pre-Establishment,Enterprise,Q4,UP Fire Service,20,17.6,0
+APP_SYN_0790,Gujarat,Food Processing,2170545.31,42,4,12,0,0,1,0,Pre-Operation,MSME,Q4,Directorate of Factories,60,51.0,0
+APP_SYN_0791,Rajasthan,Manufacturing,2302052.29,8,1,4,0,0,1,1,Pre-Establishment,Individual,Q1,UPPCB,20,15.5,0
+APP_SYN_0792,Gujarat,Pharmaceuticals,19366959.64,20,5,25,0,0,3,0,Pre-Operation,MSME,Q2,Legal Metrology,30,25.8,0
+APP_SYN_0793,Karnataka,Chemicals,1977522.0,62,5,20,0,1,2,0,Pre-Establishment,MSME,Q4,Legal Metrology,20,20.4,1
+APP_SYN_0794,Maharashtra,Textiles,7294051.64,69,3,12,1,0,2,0,Pre-Establishment,MSME,Q1,UPPCB,20,16.7,0
+APP_SYN_0795,Tamil Nadu,Information Technology,30152611.8,332,11,44,1,0,2,0,Pre-Operation,Enterprise,Q4,Boilers Directorate,30,30.5,1
+APP_SYN_0796,Karnataka,Pharmaceuticals,91137774.64,108,6,24,0,1,2,0,Pre-Establishment,Enterprise,Q1,UPPCB,30,32.7,1
+APP_SYN_0797,Tamil Nadu,Food Processing,18174077.77,20,3,12,1,1,2,0,Pre-Operation,MSME,Q2,Directorate of Factories,15,16.4,1
+APP_SYN_0798,Uttar Pradesh,Chemicals,36619342.49,140,11,55,0,1,5,1,Pre-Operation,Enterprise,Q2,UPPCB,30,38.3,1
+APP_SYN_0799,Karnataka,Manufacturing,3435807.22,52,2,6,3,1,1,0,Pre-Operation,MSME,Q3,Directorate of Factories,30,44.4,1
+APP_SYN_0800,Uttar Pradesh,Pharmaceuticals,21627989.27,322,5,20,1,0,3,0,Pre-Operation,Enterprise,Q1,FSSAI,15,13.8,0
+APP_SYN_0801,Karnataka,Information Technology,13711893.96,26,5,25,1,0,3,0,Pre-Operation,MSME,Q4,UP Fire Service,45,53.9,1
+APP_SYN_0802,Rajasthan,Manufacturing,4586710.55,77,2,8,2,0,2,2,Pre-Operation,MSME,Q3,CEIG,30,46.5,1
+APP_SYN_0803,Uttar Pradesh,Textiles,10964084.56,37,4,16,0,0,2,0,Pre-Operation,MSME,Q4,CEIG,30,22.8,0
+APP_SYN_0804,Uttar Pradesh,Manufacturing,43831325.18,497,10,40,0,1,4,0,Pre-Establishment,Enterprise,Q1,UP Fire Service,15,16.6,1
+APP_SYN_0805,Uttar Pradesh,Information Technology,17767488.43,83,6,18,0,0,2,0,Pre-Operation,MSME,Q3,CEIG,20,16.8,0
+APP_SYN_0806,Gujarat,Manufacturing,6215736.72,68,2,8,3,1,1,0,Pre-Establishment,MSME,Q1,Boilers Directorate,30,34.4,1
+APP_SYN_0807,Karnataka,Manufacturing,1613850.51,85,5,15,2,1,2,0,Pre-Operation,MSME,Q1,Boilers Directorate,30,36.1,1
+APP_SYN_0808,Maharashtra,Food Processing,4946036.49,57,6,18,0,1,3,0,Pre-Operation,MSME,Q2,Legal Metrology,20,23.4,1
+APP_SYN_0809,Uttar Pradesh,Manufacturing,1475531.76,4,1,4,0,0,1,3,Pre-Establishment,Individual,Q1,UPPCB,20,21.9,1
+APP_SYN_0810,Maharashtra,Manufacturing,593831.42,3,1,5,0,1,1,2,Pre-Establishment,Individual,Q3,Directorate of Factories,30,31.9,1
+APP_SYN_0811,Uttar Pradesh,Food Processing,23640863.65,48,3,9,0,0,2,2,Pre-Establishment,MSME,Q2,Legal Metrology,45,46.5,1
+APP_SYN_0812,Maharashtra,Manufacturing,36952557.02,483,4,12,3,1,4,3,Pre-Operation,Enterprise,Q4,Boilers Directorate,15,29.1,1
+APP_SYN_0813,Gujarat,Chemicals,49609286.36,121,11,33,0,0,4,2,Pre-Operation,Enterprise,Q3,CEIG,20,24.7,1
+APP_SYN_0814,Karnataka,Food Processing,2787604.58,75,2,10,0,1,2,0,Pre-Establishment,MSME,Q3,Boilers Directorate,45,47.4,1
+APP_SYN_0815,Maharashtra,Food Processing,15299967.35,56,6,18,3,0,3,0,Pre-Operation,MSME,Q2,Boilers Directorate,30,36.9,1
+APP_SYN_0816,Karnataka,Food Processing,28651614.37,332,8,40,1,1,5,0,Pre-Establishment,Enterprise,Q2,Boilers Directorate,15,18.8,1
+APP_SYN_0817,Karnataka,Pharmaceuticals,18556368.64,464,10,30,0,0,5,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,15,13.6,0
+APP_SYN_0818,Uttar Pradesh,Chemicals,3920318.39,79,2,6,2,1,2,1,Pre-Operation,MSME,Q4,UP Fire Service,30,39.6,1
+APP_SYN_0819,Uttar Pradesh,Chemicals,31044247.15,469,4,16,2,0,4,0,Pre-Operation,Enterprise,Q2,UP Fire Service,15,16.6,1
+APP_SYN_0820,Uttar Pradesh,Pharmaceuticals,503462.35,12,1,3,2,1,1,0,Pre-Operation,Individual,Q2,Directorate of Factories,15,15.4,1
+APP_SYN_0821,Uttar Pradesh,Textiles,6985260.03,61,2,8,0,0,2,1,Operation,MSME,Q2,UPPCB,20,18.6,0
+APP_SYN_0822,Uttar Pradesh,Food Processing,5166964.38,48,2,10,0,1,1,0,Pre-Establishment,MSME,Q4,CEIG,20,19.3,0
+APP_SYN_0823,Tamil Nadu,Pharmaceuticals,1590514.02,75,3,15,0,0,3,3,Pre-Establishment,MSME,Q3,FSSAI,60,86.8,1
+APP_SYN_0824,Uttar Pradesh,Manufacturing,1858193.1,59,3,9,0,0,2,0,Operation,MSME,Q2,UP Fire Service,45,33.2,0
+APP_SYN_0825,Maharashtra,Manufacturing,3434187.22,10,4,20,0,0,2,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,16.3,0
+APP_SYN_0826,Gujarat,Manufacturing,22157834.75,306,11,33,0,0,2,0,Pre-Operation,Enterprise,Q2,Boilers Directorate,15,9.6,0
+APP_SYN_0827,Maharashtra,Pharmaceuticals,16268499.52,51,3,9,0,1,1,2,Pre-Operation,MSME,Q3,UPPCB,30,33.1,1
+APP_SYN_0828,Uttar Pradesh,Textiles,144659270.64,347,9,45,4,0,3,0,Pre-Operation,Enterprise,Q4,UPPCB,20,30.3,1
+APP_SYN_0829,Tamil Nadu,Textiles,3532497.25,37,5,15,2,0,2,3,Pre-Establishment,MSME,Q4,FSSAI,15,21.7,1
+APP_SYN_0830,Maharashtra,Pharmaceuticals,2091029.12,98,6,30,0,0,2,1,Pre-Establishment,MSME,Q2,CEIG,30,26.7,0
+APP_SYN_0831,Rajasthan,Food Processing,47607191.52,89,5,20,1,1,1,0,Pre-Operation,MSME,Q4,Boilers Directorate,30,33.0,1
+APP_SYN_0832,Uttar Pradesh,Food Processing,33412629.6,451,9,45,1,1,3,1,Pre-Establishment,Enterprise,Q3,UP Fire Service,30,43.7,1
+APP_SYN_0833,Uttar Pradesh,Food Processing,921087.94,88,4,16,3,1,2,0,Pre-Operation,MSME,Q3,Boilers Directorate,20,28.5,1
+APP_SYN_0834,Rajasthan,Pharmaceuticals,3152112.07,93,6,18,1,0,1,0,Pre-Operation,MSME,Q2,FSSAI,60,59.8,0
+APP_SYN_0835,Gujarat,Chemicals,10501131.14,328,7,21,2,0,4,0,Pre-Operation,Enterprise,Q2,FSSAI,15,14.5,0
+APP_SYN_0836,Gujarat,Food Processing,26790878.98,95,6,30,0,1,3,0,Pre-Operation,MSME,Q1,Boilers Directorate,20,18.6,0
+APP_SYN_0837,Uttar Pradesh,Pharmaceuticals,20776250.36,55,4,20,0,0,2,2,Pre-Operation,MSME,Q4,Directorate of Factories,30,29.1,0
+APP_SYN_0838,Uttar Pradesh,Pharmaceuticals,1472828.93,4,2,8,1,0,1,0,Operation,Individual,Q3,CEIG,45,43.0,0
+APP_SYN_0839,Maharashtra,Manufacturing,6290156.18,374,7,28,1,1,3,2,Pre-Operation,Enterprise,Q4,Boilers Directorate,20,26.2,1
+APP_SYN_0840,Uttar Pradesh,Food Processing,7241753.48,90,3,15,0,1,1,2,Pre-Operation,MSME,Q1,Directorate of Factories,30,26.1,0
+APP_SYN_0841,Gujarat,Information Technology,910106.44,4,1,3,0,1,1,0,Pre-Operation,Individual,Q3,CEIG,20,19.7,0
+APP_SYN_0842,Karnataka,Food Processing,5906599.52,74,2,6,2,1,1,0,Pre-Establishment,MSME,Q4,Directorate of Factories,15,17.5,1
+APP_SYN_0843,Maharashtra,Manufacturing,1007865.76,7,1,5,0,1,1,0,Pre-Operation,Individual,Q3,CEIG,60,53.7,0
+APP_SYN_0844,Uttar Pradesh,Pharmaceuticals,826153.75,5,1,5,0,0,1,0,Pre-Establishment,Individual,Q1,FSSAI,45,33.4,0
+APP_SYN_0845,Maharashtra,Chemicals,1563287.67,1,1,3,0,1,1,0,Pre-Establishment,Individual,Q2,Boilers Directorate,15,12.1,0
+APP_SYN_0846,Uttar Pradesh,Manufacturing,441215.02,3,2,10,3,0,1,3,Operation,Individual,Q3,Legal Metrology,15,25.6,1
+APP_SYN_0847,Uttar Pradesh,Food Processing,64657750.05,88,11,55,0,1,4,1,Pre-Operation,Enterprise,Q3,UP Fire Service,60,66.9,1
+APP_SYN_0848,Gujarat,Food Processing,51649415.83,493,4,16,0,1,4,0,Pre-Establishment,Enterprise,Q3,Boilers Directorate,15,17.0,1
+APP_SYN_0849,Uttar Pradesh,Food Processing,241146736.92,484,4,20,2,0,4,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,15,19.9,1
+APP_SYN_0850,Karnataka,Manufacturing,4964674.35,57,6,24,0,0,1,2,Pre-Operation,MSME,Q2,UP Fire Service,30,26.9,0
+APP_SYN_0851,Uttar Pradesh,Food Processing,34130445.64,493,5,20,0,0,5,0,Operation,Enterprise,Q3,CEIG,15,13.9,0
+APP_SYN_0852,Gujarat,Food Processing,2800116.82,14,2,10,2,0,1,2,Pre-Operation,Individual,Q1,UP Fire Service,15,17.8,1
+APP_SYN_0853,Uttar Pradesh,Manufacturing,8765404.0,26,5,20,0,1,1,2,Pre-Establishment,MSME,Q3,CEIG,15,15.6,1
+APP_SYN_0854,Uttar Pradesh,Chemicals,17986528.5,25,2,6,0,1,2,1,Pre-Operation,MSME,Q2,UP Fire Service,30,29.2,0
+APP_SYN_0855,Gujarat,Manufacturing,3163657.03,70,3,12,1,0,2,3,Operation,MSME,Q2,Directorate of Factories,15,16.7,1
+APP_SYN_0856,Karnataka,Manufacturing,3501273.15,60,2,10,1,0,2,1,Pre-Establishment,MSME,Q4,UPPCB,20,21.0,1
+APP_SYN_0857,Uttar Pradesh,Food Processing,6275593.23,33,2,6,0,1,2,0,Operation,MSME,Q2,CEIG,45,38.8,0
+APP_SYN_0858,Maharashtra,Food Processing,99319560.73,54,7,21,0,1,2,0,Pre-Operation,Enterprise,Q3,CEIG,20,17.9,0
+APP_SYN_0859,Uttar Pradesh,Manufacturing,626963.06,15,2,6,0,0,1,0,Pre-Operation,Individual,Q3,UPPCB,20,15.6,0
+APP_SYN_0860,Uttar Pradesh,Food Processing,9112096.3,45,5,15,0,0,1,0,Pre-Establishment,MSME,Q4,UPPCB,15,11.0,0
+APP_SYN_0861,Gujarat,Manufacturing,18945945.23,176,11,33,0,0,3,3,Pre-Operation,Enterprise,Q4,UP Fire Service,30,38.7,1
+APP_SYN_0862,Karnataka,Chemicals,68767949.74,264,10,30,4,0,5,1,Pre-Operation,Enterprise,Q4,Legal Metrology,15,23.2,1
+APP_SYN_0863,Karnataka,Manufacturing,2416820.75,18,2,6,1,0,2,0,Pre-Establishment,MSME,Q2,UPPCB,60,62.5,1
+APP_SYN_0864,Uttar Pradesh,Manufacturing,26171869.99,148,4,16,0,1,4,0,Pre-Establishment,Enterprise,Q2,Legal Metrology,20,19.9,0
+APP_SYN_0865,Tamil Nadu,Manufacturing,5951331.02,19,4,20,4,1,2,0,Pre-Operation,MSME,Q4,CEIG,20,31.6,1
+APP_SYN_0866,Gujarat,Food Processing,21706939.52,438,6,18,0,1,4,2,Pre-Operation,Enterprise,Q2,Legal Metrology,60,62.9,1
+APP_SYN_0867,Tamil Nadu,Food Processing,21166428.96,57,6,18,4,1,3,3,Pre-Operation,MSME,Q4,Legal Metrology,20,39.9,1
+APP_SYN_0868,Uttar Pradesh,Food Processing,12613863.65,260,4,20,0,1,2,0,Pre-Operation,Enterprise,Q3,CEIG,30,32.3,1
+APP_SYN_0869,Uttar Pradesh,Food Processing,58556032.41,51,6,24,0,1,3,1,Pre-Operation,Enterprise,Q2,UPPCB,20,18.2,0
+APP_SYN_0870,Gujarat,Food Processing,1843452.75,95,6,18,3,1,1,0,Pre-Operation,MSME,Q4,UPPCB,45,57.7,1
+APP_SYN_0871,Tamil Nadu,Pharmaceuticals,28710426.6,448,9,27,0,1,3,2,Pre-Operation,Enterprise,Q3,Boilers Directorate,30,38.8,1
+APP_SYN_0872,Maharashtra,Information Technology,128465747.12,502,10,40,0,0,3,1,Pre-Establishment,Enterprise,Q1,Boilers Directorate,20,16.2,0
+APP_SYN_0873,Maharashtra,Food Processing,1436411.64,67,5,15,0,0,2,0,Pre-Establishment,MSME,Q3,Directorate of Factories,30,26.6,0
+APP_SYN_0874,Uttar Pradesh,Information Technology,1438116.17,91,3,15,1,0,2,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,22.4,1
+APP_SYN_0875,Uttar Pradesh,Food Processing,2278940.11,80,3,9,0,0,3,0,Pre-Establishment,MSME,Q4,UP Fire Service,20,16.2,0
+APP_SYN_0876,Rajasthan,Textiles,19271566.59,431,4,16,0,0,4,0,Pre-Establishment,Enterprise,Q3,Legal Metrology,30,27.4,0
+APP_SYN_0877,Rajasthan,Chemicals,6104418.17,88,2,10,0,1,2,1,Pre-Establishment,MSME,Q2,UPPCB,20,17.8,0
+APP_SYN_0878,Uttar Pradesh,Manufacturing,1582479.67,6,5,20,0,0,3,0,Pre-Establishment,MSME,Q3,UP Fire Service,30,22.6,0
+APP_SYN_0879,Karnataka,Food Processing,18715891.8,47,4,20,0,1,2,1,Pre-Establishment,MSME,Q3,FSSAI,45,48.8,1
+APP_SYN_0880,Uttar Pradesh,Manufacturing,17309155.91,82,6,18,0,1,2,0,Pre-Establishment,MSME,Q2,Directorate of Factories,30,28.7,0
+APP_SYN_0881,Gujarat,Manufacturing,3574916.92,45,6,30,0,0,2,0,Pre-Establishment,MSME,Q3,Boilers Directorate,30,25.1,0
+APP_SYN_0882,Gujarat,Food Processing,3780082.77,97,6,18,1,1,1,0,Pre-Establishment,MSME,Q1,Legal Metrology,15,15.0,0
+APP_SYN_0883,Uttar Pradesh,Textiles,10742176.89,98,4,16,0,0,2,2,Pre-Operation,MSME,Q3,CEIG,20,21.4,1
+APP_SYN_0884,Karnataka,Textiles,1362532.52,49,6,30,0,0,3,0,Pre-Establishment,MSME,Q2,Legal Metrology,20,19.9,0
+APP_SYN_0885,Karnataka,Pharmaceuticals,42031033.52,219,10,50,0,0,2,0,Pre-Establishment,Enterprise,Q2,Directorate of Factories,30,25.3,0
+APP_SYN_0886,Uttar Pradesh,Manufacturing,827007.23,46,2,6,1,1,2,1,Pre-Operation,MSME,Q4,Directorate of Factories,15,17.1,1
+APP_SYN_0887,Uttar Pradesh,Food Processing,128269961.12,70,10,30,1,1,5,0,Pre-Operation,Enterprise,Q1,CEIG,30,38.4,1
+APP_SYN_0888,Uttar Pradesh,Food Processing,4531519.56,17,5,15,0,1,3,1,Pre-Establishment,MSME,Q1,UPPCB,20,20.3,1
+APP_SYN_0889,Gujarat,Manufacturing,16007741.28,515,8,32,0,0,5,0,Pre-Operation,Enterprise,Q1,Legal Metrology,20,16.7,0
+APP_SYN_0890,Uttar Pradesh,Food Processing,3161955.28,43,6,18,3,0,3,2,Pre-Operation,MSME,Q2,Boilers Directorate,15,23.9,1
+APP_SYN_0891,Maharashtra,Food Processing,7345430.95,39,6,24,0,0,1,0,Pre-Operation,MSME,Q1,CEIG,45,38.6,0
+APP_SYN_0892,Uttar Pradesh,Manufacturing,74483465.34,298,4,12,0,0,3,0,Pre-Operation,Enterprise,Q3,Legal Metrology,20,16.2,0
+APP_SYN_0893,Gujarat,Food Processing,9217709.85,7,4,16,0,0,3,1,Pre-Operation,MSME,Q2,UP Fire Service,20,20.4,1
+APP_SYN_0894,Uttar Pradesh,Pharmaceuticals,2156630.49,61,4,20,0,0,1,0,Pre-Operation,MSME,Q4,Boilers Directorate,15,12.3,0
+APP_SYN_0895,Uttar Pradesh,Manufacturing,3180364.29,3,1,5,0,0,1,0,Pre-Operation,Individual,Q2,FSSAI,30,23.1,0
+APP_SYN_0896,Uttar Pradesh,Manufacturing,7744810.14,39,6,18,1,1,1,1,Pre-Operation,MSME,Q3,Legal Metrology,20,24.7,1
+APP_SYN_0897,Uttar Pradesh,Textiles,2698590.69,47,2,10,0,0,2,0,Pre-Establishment,MSME,Q4,FSSAI,20,14.6,0
+APP_SYN_0898,Uttar Pradesh,Pharmaceuticals,6732791.44,19,2,10,4,0,2,0,Pre-Operation,MSME,Q2,Legal Metrology,20,23.5,1
+APP_SYN_0899,Uttar Pradesh,Chemicals,5068257.73,75,5,20,1,0,3,1,Operation,MSME,Q3,Legal Metrology,15,19.1,1
+APP_SYN_0900,Karnataka,Chemicals,1512545.58,91,5,15,0,0,1,1,Pre-Establishment,MSME,Q2,Directorate of Factories,60,53.5,0
+APP_SYN_0901,Uttar Pradesh,Manufacturing,9040105.74,48,3,12,2,1,2,0,Pre-Establishment,MSME,Q1,Legal Metrology,45,53.8,1
+APP_SYN_0902,Uttar Pradesh,Manufacturing,6078031.69,64,3,15,2,1,1,1,Pre-Operation,MSME,Q4,Directorate of Factories,20,25.7,1
+APP_SYN_0903,Rajasthan,Food Processing,8662220.68,7,4,16,0,1,3,1,Pre-Operation,MSME,Q2,UPPCB,20,23.3,1
+APP_SYN_0904,Uttar Pradesh,Food Processing,18173391.57,25,6,18,1,1,3,1,Operation,MSME,Q3,Directorate of Factories,45,59.5,1
+APP_SYN_0905,Uttar Pradesh,Food Processing,8405164.92,84,5,20,1,1,2,0,Operation,MSME,Q1,FSSAI,15,18.6,1
+APP_SYN_0906,Uttar Pradesh,Food Processing,12666263.78,547,7,21,2,1,3,0,Operation,Enterprise,Q3,UPPCB,45,61.1,1
+APP_SYN_0907,Uttar Pradesh,Food Processing,127333730.9,369,11,33,1,0,3,0,Pre-Operation,Enterprise,Q1,UPPCB,30,31.8,1
+APP_SYN_0908,Uttar Pradesh,Chemicals,12952988.96,9,6,24,0,0,2,0,Pre-Establishment,MSME,Q2,Boilers Directorate,20,19.3,0
+APP_SYN_0909,Gujarat,Chemicals,122267899.68,391,11,33,0,0,4,0,Pre-Operation,Enterprise,Q3,FSSAI,20,17.7,0
+APP_SYN_0910,Gujarat,Food Processing,1636060.84,81,4,16,2,1,1,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,22.7,1
+APP_SYN_0911,Gujarat,Information Technology,3675341.41,50,3,15,0,0,3,1,Operation,MSME,Q1,Boilers Directorate,15,14.9,0
+APP_SYN_0912,Maharashtra,Pharmaceuticals,7483077.5,8,4,16,3,0,1,0,Pre-Operation,MSME,Q1,Legal Metrology,20,20.7,1
+APP_SYN_0913,Tamil Nadu,Food Processing,101542077.05,63,6,24,0,1,3,2,Pre-Establishment,Enterprise,Q1,Boilers Directorate,15,17.1,1
+APP_SYN_0914,Uttar Pradesh,Information Technology,8625175.38,66,3,15,3,0,2,0,Pre-Operation,MSME,Q4,UP Fire Service,30,39.4,1
+APP_SYN_0915,Gujarat,Textiles,1305902.32,5,2,10,2,1,1,1,Pre-Establishment,Individual,Q1,Legal Metrology,20,26.8,1
+APP_SYN_0916,Uttar Pradesh,Food Processing,2424518.95,42,2,10,0,1,1,0,Pre-Establishment,MSME,Q1,Boilers Directorate,30,21.0,0
+APP_SYN_0917,Maharashtra,Manufacturing,1028108.32,14,1,4,3,1,1,0,Pre-Operation,Individual,Q2,CEIG,15,19.3,1
+APP_SYN_0918,Uttar Pradesh,Textiles,2085274.11,81,5,20,0,0,1,0,Pre-Establishment,MSME,Q1,UPPCB,20,13.8,0
+APP_SYN_0919,Maharashtra,Food Processing,30775865.92,352,5,20,1,0,3,0,Pre-Operation,Enterprise,Q2,FSSAI,15,13.9,0
+APP_SYN_0920,Tamil Nadu,Pharmaceuticals,49233843.9,456,7,28,4,1,3,1,Pre-Establishment,Enterprise,Q2,Directorate of Factories,15,24.5,1
+APP_SYN_0921,Karnataka,Food Processing,14651475.24,57,2,8,2,0,1,1,Operation,MSME,Q1,FSSAI,45,48.3,1
+APP_SYN_0922,Uttar Pradesh,Food Processing,1039750.14,14,4,20,0,1,3,2,Pre-Establishment,MSME,Q1,UP Fire Service,20,23.7,1
+APP_SYN_0923,Uttar Pradesh,Food Processing,4013400.46,76,3,9,1,1,2,2,Operation,MSME,Q4,Boilers Directorate,15,21.1,1
+APP_SYN_0924,Tamil Nadu,Food Processing,7267370.94,91,2,10,0,0,2,0,Operation,MSME,Q3,Legal Metrology,15,15.4,1
+APP_SYN_0925,Uttar Pradesh,Food Processing,4923179.57,7,1,4,0,1,1,0,Pre-Establishment,Individual,Q4,UPPCB,45,44.8,0
+APP_SYN_0926,Uttar Pradesh,Manufacturing,87508882.82,206,11,33,1,1,3,3,Pre-Operation,Enterprise,Q1,Directorate of Factories,15,22.8,1
+APP_SYN_0927,Uttar Pradesh,Manufacturing,1114048.83,6,2,10,0,0,1,0,Operation,Individual,Q1,CEIG,20,13.0,0
+APP_SYN_0928,Karnataka,Food Processing,757133.46,17,2,8,0,1,1,0,Pre-Establishment,Individual,Q1,Directorate of Factories,20,19.4,0
+APP_SYN_0929,Uttar Pradesh,Textiles,7386073.29,14,3,15,0,0,2,2,Operation,MSME,Q3,UPPCB,20,22.9,1
+APP_SYN_0930,Uttar Pradesh,Information Technology,63988410.94,445,5,20,1,0,4,1,Pre-Operation,Enterprise,Q4,Directorate of Factories,15,15.5,1
+APP_SYN_0931,Uttar Pradesh,Manufacturing,5601220.38,50,2,6,1,0,2,0,Pre-Establishment,MSME,Q4,Boilers Directorate,30,31.6,1
+APP_SYN_0932,Maharashtra,Textiles,3111813.94,96,3,9,1,0,3,1,Pre-Operation,MSME,Q3,UP Fire Service,30,31.7,1
+APP_SYN_0933,Maharashtra,Information Technology,33949310.63,593,4,20,1,0,4,0,Pre-Establishment,Enterprise,Q4,Legal Metrology,30,33.6,1
+APP_SYN_0934,Uttar Pradesh,Pharmaceuticals,7032362.54,18,6,30,1,0,3,3,Pre-Operation,MSME,Q2,FSSAI,30,35.3,1
+APP_SYN_0935,Gujarat,Food Processing,895593.55,10,1,3,0,1,1,2,Pre-Operation,Individual,Q3,Boilers Directorate,30,35.7,1
+APP_SYN_0936,Gujarat,Manufacturing,950741.64,16,1,3,0,0,1,0,Operation,Individual,Q4,CEIG,20,11.8,0
+APP_SYN_0937,Tamil Nadu,Manufacturing,26381412.68,39,4,12,1,1,3,0,Pre-Operation,MSME,Q1,UP Fire Service,30,31.0,1
+APP_SYN_0938,Gujarat,Food Processing,32392951.99,147,6,24,0,1,2,3,Pre-Establishment,Enterprise,Q1,CEIG,30,39.0,1
+APP_SYN_0939,Maharashtra,Food Processing,9640485.22,57,5,25,0,1,1,0,Pre-Establishment,MSME,Q2,Legal Metrology,30,24.9,0
+APP_SYN_0940,Maharashtra,Food Processing,14940265.43,52,6,18,0,1,3,0,Pre-Operation,MSME,Q2,UP Fire Service,45,49.1,1
+APP_SYN_0941,Uttar Pradesh,Chemicals,55802261.07,113,5,20,0,0,3,2,Pre-Establishment,Enterprise,Q3,CEIG,45,40.2,0
+APP_SYN_0942,Gujarat,Textiles,9446712.67,80,4,16,2,0,1,1,Pre-Operation,MSME,Q3,Legal Metrology,20,23.4,1
+APP_SYN_0943,Uttar Pradesh,Manufacturing,12398147.0,42,5,15,3,1,3,1,Pre-Operation,MSME,Q4,UPPCB,30,48.5,1
+APP_SYN_0944,Uttar Pradesh,Food Processing,1126389.81,17,5,20,0,1,1,0,Pre-Operation,MSME,Q1,UP Fire Service,30,24.5,0
+APP_SYN_0945,Uttar Pradesh,Food Processing,4317584.65,89,2,10,0,0,1,1,Pre-Operation,MSME,Q4,UPPCB,20,18.6,0
+APP_SYN_0946,Gujarat,Food Processing,15023207.33,30,6,30,0,1,3,0,Pre-Establishment,MSME,Q4,Boilers Directorate,30,26.4,0
+APP_SYN_0947,Maharashtra,Manufacturing,5851291.72,25,2,8,0,0,2,0,Pre-Establishment,MSME,Q3,CEIG,20,16.4,0
+APP_SYN_0948,Maharashtra,Information Technology,6567910.78,86,3,12,1,0,3,1,Pre-Establishment,MSME,Q1,CEIG,15,15.9,1
+APP_SYN_0949,Karnataka,Information Technology,36973666.35,112,4,20,1,0,2,2,Pre-Operation,Enterprise,Q2,Directorate of Factories,15,17.8,1
+APP_SYN_0950,Uttar Pradesh,Textiles,43207538.1,332,7,35,1,0,3,3,Pre-Establishment,Enterprise,Q4,Directorate of Factories,30,44.0,1
+APP_SYN_0951,Gujarat,Food Processing,2681192.02,99,4,16,3,1,2,1,Pre-Operation,MSME,Q3,UPPCB,15,20.8,1
+APP_SYN_0952,Tamil Nadu,Food Processing,1004441.26,7,2,8,0,1,1,0,Pre-Establishment,Individual,Q1,FSSAI,45,42.3,0
+APP_SYN_0953,Uttar Pradesh,Textiles,4290041.34,21,5,15,0,1,2,0,Pre-Operation,MSME,Q3,Legal Metrology,15,13.3,0
+APP_SYN_0954,Karnataka,Food Processing,13794898.95,79,2,10,0,1,2,2,Pre-Operation,MSME,Q1,Legal Metrology,15,19.7,1
+APP_SYN_0955,Uttar Pradesh,Information Technology,4618016.4,52,5,25,0,0,1,3,Pre-Operation,MSME,Q3,FSSAI,20,17.6,0
+APP_SYN_0956,Uttar Pradesh,Pharmaceuticals,6928573.8,8,6,24,3,0,3,0,Pre-Establishment,MSME,Q2,FSSAI,20,24.8,1
+APP_SYN_0957,Maharashtra,Food Processing,3875029.93,20,6,30,4,1,3,0,Pre-Establishment,MSME,Q3,Legal Metrology,30,44.5,1
+APP_SYN_0958,Rajasthan,Manufacturing,6708781.57,30,3,12,1,0,3,2,Pre-Establishment,MSME,Q1,Directorate of Factories,45,58.0,1
+APP_SYN_0959,Maharashtra,Manufacturing,3081030.24,74,4,16,1,1,2,0,Pre-Operation,MSME,Q1,CEIG,30,32.1,1
+APP_SYN_0960,Uttar Pradesh,Food Processing,21089765.1,62,4,20,0,0,3,0,Pre-Establishment,MSME,Q1,FSSAI,15,13.3,0
+APP_SYN_0961,Maharashtra,Manufacturing,4381880.25,48,3,9,0,1,2,0,Pre-Establishment,MSME,Q1,CEIG,30,25.5,0
+APP_SYN_0962,Uttar Pradesh,Manufacturing,2042662.38,83,2,6,1,0,1,1,Pre-Establishment,MSME,Q2,CEIG,15,9.9,0
+APP_SYN_0963,Tamil Nadu,Food Processing,11991454.57,47,3,15,0,1,3,1,Pre-Establishment,MSME,Q4,Directorate of Factories,20,24.2,1
+APP_SYN_0964,Uttar Pradesh,Chemicals,3154043.25,86,3,9,0,0,1,3,Pre-Establishment,MSME,Q2,Directorate of Factories,60,67.4,1
+APP_SYN_0965,Rajasthan,Chemicals,6553818.19,39,2,8,0,1,2,2,Pre-Establishment,MSME,Q4,UPPCB,15,17.3,1
+APP_SYN_0966,Tamil Nadu,Food Processing,30894463.5,477,11,55,0,0,2,0,Pre-Establishment,Enterprise,Q1,Boilers Directorate,15,11.5,0
+APP_SYN_0967,Uttar Pradesh,Manufacturing,29973307.47,136,8,32,4,1,2,0,Pre-Establishment,Enterprise,Q4,UP Fire Service,15,23.5,1
+APP_SYN_0968,Maharashtra,Chemicals,9350778.83,31,4,12,0,1,2,1,Pre-Establishment,MSME,Q4,UP Fire Service,30,33.6,1
+APP_SYN_0969,Rajasthan,Food Processing,9635761.57,31,2,10,0,1,1,2,Pre-Establishment,MSME,Q4,Boilers Directorate,60,60.2,1
+APP_SYN_0970,Uttar Pradesh,Manufacturing,5669391.84,29,5,15,0,0,2,0,Pre-Establishment,MSME,Q2,Legal Metrology,20,16.2,0
+APP_SYN_0971,Uttar Pradesh,Chemicals,1604734.29,32,5,25,1,0,2,0,Pre-Establishment,MSME,Q2,UPPCB,15,14.6,0
+APP_SYN_0972,Rajasthan,Manufacturing,803030.98,37,5,15,1,0,1,0,Pre-Operation,MSME,Q4,Directorate of Factories,15,12.7,0
+APP_SYN_0973,Karnataka,Food Processing,1018411.9,7,2,6,1,1,1,0,Pre-Establishment,Individual,Q3,UPPCB,15,15.5,1
+APP_SYN_0974,Uttar Pradesh,Manufacturing,5693880.5,95,4,12,0,0,3,2,Operation,MSME,Q3,UPPCB,30,36.2,1
+APP_SYN_0975,Gujarat,Chemicals,21345226.64,87,10,30,0,1,4,0,Pre-Establishment,Enterprise,Q3,CEIG,30,37.0,1
+APP_SYN_0976,Rajasthan,Manufacturing,20103967.11,322,9,36,0,0,2,0,Pre-Operation,Enterprise,Q3,CEIG,30,28.1,0
+APP_SYN_0977,Gujarat,Pharmaceuticals,9840201.06,73,6,24,0,1,1,0,Pre-Operation,MSME,Q3,UP Fire Service,45,40.1,0
+APP_SYN_0978,Uttar Pradesh,Chemicals,20423602.74,8,2,6,3,0,2,0,Pre-Establishment,MSME,Q4,UPPCB,15,18.6,1
+APP_SYN_0979,Uttar Pradesh,Food Processing,1327217.58,20,2,8,4,1,2,0,Pre-Operation,MSME,Q4,Boilers Directorate,30,49.0,1
+APP_SYN_0980,Karnataka,Manufacturing,5153995.65,73,3,9,0,0,2,0,Operation,MSME,Q3,UP Fire Service,45,37.4,0
+APP_SYN_0981,Rajasthan,Chemicals,47319280.68,346,8,32,0,0,2,1,Operation,Enterprise,Q1,UPPCB,60,57.8,0
+APP_SYN_0982,Maharashtra,Manufacturing,30666354.83,496,7,21,1,0,3,1,Pre-Establishment,Enterprise,Q2,Directorate of Factories,15,18.0,1
+APP_SYN_0983,Karnataka,Food Processing,4920595.82,87,2,6,0,1,1,0,Pre-Establishment,MSME,Q4,Boilers Directorate,20,18.9,0
+APP_SYN_0984,Tamil Nadu,Manufacturing,5416046.81,71,4,20,0,0,2,0,Operation,MSME,Q2,FSSAI,60,52.1,0
+APP_SYN_0985,Gujarat,Chemicals,636269.82,15,1,5,3,0,1,3,Operation,Individual,Q2,UPPCB,15,23.5,1
+APP_SYN_0986,Karnataka,Food Processing,15352353.39,34,4,16,0,1,1,2,Pre-Establishment,MSME,Q4,UP Fire Service,15,14.6,0
+APP_SYN_0987,Maharashtra,Chemicals,7288320.32,77,4,12,0,1,3,1,Pre-Establishment,MSME,Q2,UP Fire Service,30,28.7,0
+APP_SYN_0988,Uttar Pradesh,Food Processing,1812861.94,93,2,10,2,1,2,0,Pre-Operation,MSME,Q2,CEIG,20,28.5,1
+APP_SYN_0989,Karnataka,Pharmaceuticals,6465760.28,48,3,9,0,1,3,0,Operation,MSME,Q4,UPPCB,20,17.5,0
+APP_SYN_0990,Uttar Pradesh,Manufacturing,85072803.15,450,9,27,3,0,2,0,Pre-Operation,Enterprise,Q4,Boilers Directorate,60,73.0,1
+APP_SYN_0991,Gujarat,Textiles,1452784.36,16,2,8,2,0,1,0,Pre-Operation,Individual,Q1,UPPCB,15,15.9,1
+APP_SYN_0992,Karnataka,Food Processing,34664159.42,110,9,27,1,0,3,1,Pre-Operation,Enterprise,Q4,Legal Metrology,20,24.0,1
+APP_SYN_0993,Gujarat,Textiles,1593807.59,76,3,9,0,0,2,0,Pre-Operation,MSME,Q1,CEIG,30,17.5,0
+APP_SYN_0994,Maharashtra,Food Processing,33104947.13,87,4,20,0,0,1,1,Pre-Operation,MSME,Q3,UPPCB,45,40.4,0
+APP_SYN_0995,Uttar Pradesh,Food Processing,99980377.63,68,4,12,1,0,4,0,Pre-Operation,Enterprise,Q3,Boilers Directorate,20,22.6,1
+APP_SYN_0996,Uttar Pradesh,Pharmaceuticals,4016005.85,98,6,18,4,0,3,3,Pre-Establishment,MSME,Q3,FSSAI,20,37.7,1
+APP_SYN_0997,Maharashtra,Chemicals,5340529.11,40,4,20,0,1,2,1,Pre-Operation,MSME,Q4,CEIG,15,14.3,0
+APP_SYN_0998,Maharashtra,Food Processing,3107600.67,72,4,20,3,0,2,0,Pre-Establishment,MSME,Q2,Boilers Directorate,60,64.5,1
+APP_SYN_0999,Uttar Pradesh,Pharmaceuticals,3685999.58,60,2,10,0,0,1,0,Pre-Establishment,MSME,Q2,Directorate of Factories,20,13.1,0
+APP_SYN_1000,Maharashtra,Food Processing,2531540.64,70,2,8,3,0,2,0,Pre-Establishment,MSME,Q3,CEIG,15,19.9,1
+APP_SYN_1001,Karnataka,Pharmaceuticals,24337886.62,66,3,12,2,0,1,0,Operation,MSME,Q3,Boilers Directorate,60,59.8,0
+APP_SYN_1002,Uttar Pradesh,Food Processing,5809503.93,53,4,20,3,0,3,2,Pre-Operation,MSME,Q4,CEIG,20,32.2,1
+APP_SYN_1003,Maharashtra,Manufacturing,3441976.21,68,4,12,0,1,2,0,Pre-Establishment,MSME,Q1,FSSAI,15,12.7,0
+APP_SYN_1004,Maharashtra,Textiles,10665816.36,27,3,12,0,0,1,0,Pre-Operation,MSME,Q1,Boilers Directorate,30,23.2,0
+APP_SYN_1005,Karnataka,Food Processing,29747537.08,76,4,16,2,1,2,1,Pre-Operation,MSME,Q2,UP Fire Service,30,37.4,1
+APP_SYN_1006,Maharashtra,Textiles,115912253.69,213,10,40,2,0,4,0,Pre-Establishment,Enterprise,Q3,FSSAI,20,24.9,1
+APP_SYN_1007,Uttar Pradesh,Food Processing,6423329.34,12,3,12,0,1,3,1,Pre-Establishment,MSME,Q1,UPPCB,30,31.9,1
+APP_SYN_1008,Gujarat,Manufacturing,12245138.22,51,4,12,0,1,3,0,Pre-Operation,MSME,Q1,FSSAI,15,15.5,1
+APP_SYN_1009,Uttar Pradesh,Chemicals,3496945.21,99,5,25,3,1,1,0,Pre-Operation,MSME,Q2,Legal Metrology,15,17.8,1
+APP_SYN_1010,Karnataka,Food Processing,11657647.46,312,8,32,2,1,4,1,Pre-Establishment,Enterprise,Q3,FSSAI,30,45.2,1
+APP_SYN_1011,Uttar Pradesh,Food Processing,42496158.79,340,7,21,4,0,5,1,Pre-Establishment,Enterprise,Q3,FSSAI,20,39.2,1
+APP_SYN_1012,Tamil Nadu,Manufacturing,2684722.8,16,2,10,0,0,1,0,Pre-Establishment,MSME,Q3,UP Fire Service,15,14.2,0
+APP_SYN_1013,Karnataka,Manufacturing,33805313.01,91,6,30,0,0,1,0,Pre-Operation,MSME,Q3,CEIG,20,16.4,0
+APP_SYN_1014,Maharashtra,Food Processing,26050728.86,29,5,25,0,0,2,2,Pre-Operation,MSME,Q3,Directorate of Factories,20,19.3,0
+APP_SYN_1015,Uttar Pradesh,Pharmaceuticals,7905569.42,99,5,20,1,0,1,0,Pre-Operation,MSME,Q2,Boilers Directorate,60,51.4,0
+APP_SYN_1016,Uttar Pradesh,Food Processing,1495758.57,5,1,4,0,1,1,3,Operation,Individual,Q4,CEIG,15,19.5,1
+APP_SYN_1017,Tamil Nadu,Manufacturing,728976.73,17,2,8,0,1,1,3,Pre-Operation,Individual,Q3,CEIG,45,50.9,1
+APP_SYN_1018,Gujarat,Food Processing,2909540.26,30,4,20,0,0,2,0,Pre-Establishment,MSME,Q4,Legal Metrology,20,19.8,0
+APP_SYN_1019,Gujarat,Pharmaceuticals,11097438.29,45,3,12,0,0,2,2,Operation,MSME,Q1,Directorate of Factories,45,42.0,0
+APP_SYN_1020,Uttar Pradesh,Textiles,8385661.61,71,6,30,0,0,2,3,Pre-Establishment,MSME,Q1,CEIG,15,12.9,0
+APP_SYN_1021,Maharashtra,Chemicals,68240152.08,184,9,45,0,0,3,0,Pre-Establishment,Enterprise,Q1,CEIG,30,26.0,0
+APP_SYN_1022,Maharashtra,Textiles,3750133.75,54,5,20,0,0,2,0,Pre-Establishment,MSME,Q1,UPPCB,30,25.4,0
+APP_SYN_1023,Uttar Pradesh,Manufacturing,3717190.04,84,5,20,0,0,1,0,Pre-Operation,MSME,Q2,UP Fire Service,15,12.9,0
+APP_SYN_1024,Uttar Pradesh,Food Processing,12842694.67,10,3,15,4,1,1,0,Pre-Establishment,MSME,Q2,Directorate of Factories,20,27.5,1
+APP_SYN_1025,Karnataka,Information Technology,10025315.72,77,2,10,2,0,2,1,Operation,MSME,Q2,Directorate of Factories,20,22.3,1
+APP_SYN_1026,Gujarat,Manufacturing,98697914.35,460,5,15,2,1,5,2,Pre-Operation,Enterprise,Q4,FSSAI,20,32.6,1
+APP_SYN_1027,Uttar Pradesh,Pharmaceuticals,11005456.0,53,2,10,0,0,2,1,Pre-Operation,MSME,Q2,UPPCB,15,11.3,0
+APP_SYN_1028,Uttar Pradesh,Manufacturing,78408102.19,161,9,36,0,1,3,1,Pre-Operation,Enterprise,Q4,CEIG,30,37.4,1
+APP_SYN_1029,Maharashtra,Food Processing,14686607.3,20,4,20,4,1,3,1,Pre-Operation,MSME,Q3,FSSAI,20,33.4,1
+APP_SYN_1030,Maharashtra,Food Processing,2088670.81,22,3,9,0,1,1,0,Pre-Operation,MSME,Q4,FSSAI,30,31.8,1
+APP_SYN_1031,Karnataka,Food Processing,8449340.27,82,4,20,2,1,2,0,Pre-Operation,MSME,Q2,UPPCB,20,20.0,0
+APP_SYN_1032,Karnataka,Chemicals,6717076.65,18,2,8,3,1,2,0,Pre-Operation,MSME,Q4,Boilers Directorate,20,25.1,1
+APP_SYN_1033,Uttar Pradesh,Food Processing,3030042.42,79,3,9,1,0,3,0,Pre-Operation,MSME,Q3,CEIG,20,20.6,1
+APP_SYN_1034,Tamil Nadu,Pharmaceuticals,7784197.02,73,3,12,0,0,2,1,Pre-Operation,MSME,Q2,Directorate of Factories,45,48.4,1
+APP_SYN_1035,Uttar Pradesh,Pharmaceuticals,1447550.59,9,2,6,2,0,1,0,Operation,Individual,Q3,Boilers Directorate,15,17.6,1
+APP_SYN_1036,Karnataka,Chemicals,5731771.49,26,6,30,0,1,3,1,Pre-Operation,MSME,Q1,UPPCB,20,21.2,1
+APP_SYN_1037,Uttar Pradesh,Manufacturing,14593663.97,56,5,20,3,1,1,0,Operation,MSME,Q4,Legal Metrology,15,21.1,1
+APP_SYN_1038,Uttar Pradesh,Information Technology,3767042.85,64,5,20,0,1,3,0,Operation,MSME,Q3,CEIG,15,12.5,0
+APP_SYN_1039,Uttar Pradesh,Textiles,8174952.47,342,11,44,4,0,2,0,Operation,Enterprise,Q1,Directorate of Factories,20,28.8,1
+APP_SYN_1040,Uttar Pradesh,Manufacturing,5462191.79,96,2,8,2,0,1,0,Pre-Operation,MSME,Q4,UP Fire Service,20,20.5,1
+APP_SYN_1041,Tamil Nadu,Food Processing,3318792.16,24,4,16,1,1,3,2,Operation,MSME,Q1,Boilers Directorate,30,34.3,1
+APP_SYN_1042,Gujarat,Food Processing,15536859.78,492,10,50,1,1,5,0,Pre-Establishment,Enterprise,Q1,CEIG,45,54.1,1
+APP_SYN_1043,Maharashtra,Manufacturing,3620982.34,52,6,24,1,0,1,1,Pre-Establishment,MSME,Q4,Boilers Directorate,20,18.8,0
+APP_SYN_1044,Uttar Pradesh,Manufacturing,10662513.32,87,6,24,1,0,3,1,Pre-Establishment,MSME,Q1,FSSAI,15,18.1,1
+APP_SYN_1045,Maharashtra,Manufacturing,49176367.06,574,11,33,2,0,5,0,Pre-Operation,Enterprise,Q4,Boilers Directorate,20,28.1,1
+APP_SYN_1046,Maharashtra,Pharmaceuticals,8273153.0,68,3,9,0,0,2,0,Pre-Establishment,MSME,Q2,FSSAI,20,13.4,0
+APP_SYN_1047,Maharashtra,Textiles,3336775.35,65,2,8,3,1,1,0,Pre-Operation,MSME,Q3,UPPCB,20,28.9,1
+APP_SYN_1048,Uttar Pradesh,Information Technology,5421486.19,18,3,9,1,1,2,2,Pre-Operation,MSME,Q4,Directorate of Factories,30,35.8,1
+APP_SYN_1049,Uttar Pradesh,Food Processing,1713650.26,1,1,3,0,1,1,0,Pre-Establishment,Individual,Q4,Boilers Directorate,30,28.0,0
+APP_SYN_1050,Uttar Pradesh,Chemicals,1558413.78,16,4,12,2,0,1,0,Pre-Establishment,MSME,Q4,Boilers Directorate,20,24.2,1
+APP_SYN_1051,Gujarat,Information Technology,5710398.15,17,5,15,1,0,1,0,Pre-Operation,MSME,Q4,Legal Metrology,20,17.3,0
+APP_SYN_1052,Rajasthan,Manufacturing,9544037.59,93,2,10,0,1,2,3,Pre-Operation,MSME,Q4,Directorate of Factories,30,41.2,1
+APP_SYN_1053,Uttar Pradesh,Chemicals,19709656.8,36,4,20,1,1,3,1,Pre-Establishment,MSME,Q2,CEIG,30,34.8,1
+APP_SYN_1054,Rajasthan,Food Processing,7663074.22,37,2,10,0,0,2,2,Pre-Establishment,MSME,Q4,Directorate of Factories,15,17.2,1
+APP_SYN_1055,Maharashtra,Food Processing,34017972.08,188,6,24,1,1,4,0,Pre-Establishment,Enterprise,Q2,Directorate of Factories,20,25.8,1
+APP_SYN_1056,Tamil Nadu,Manufacturing,15967573.5,89,2,8,0,0,2,0,Pre-Operation,MSME,Q1,UP Fire Service,45,39.1,0
+APP_SYN_1057,Karnataka,Food Processing,7472859.42,68,3,12,0,0,1,0,Operation,MSME,Q2,FSSAI,15,9.5,0
+APP_SYN_1058,Uttar Pradesh,Textiles,65607310.46,543,10,40,0,0,3,2,Pre-Establishment,Enterprise,Q1,UPPCB,15,14.4,0
+APP_SYN_1059,Tamil Nadu,Manufacturing,6698556.49,74,4,20,0,0,2,1,Operation,MSME,Q2,FSSAI,20,14.7,0
+APP_SYN_1060,Uttar Pradesh,Manufacturing,3104227.95,39,3,9,0,1,3,0,Pre-Operation,MSME,Q4,CEIG,20,20.3,1
+APP_SYN_1061,Maharashtra,Manufacturing,6910510.28,58,6,24,0,0,1,0,Pre-Establishment,MSME,Q4,Legal Metrology,20,16.2,0
+APP_SYN_1062,Uttar Pradesh,Manufacturing,11990254.07,12,3,12,1,1,3,0,Pre-Establishment,MSME,Q4,UP Fire Service,20,24.9,1
+APP_SYN_1063,Tamil Nadu,Chemicals,6530504.81,21,6,30,3,0,2,1,Pre-Establishment,MSME,Q2,UPPCB,45,58.4,1
+APP_SYN_1064,Rajasthan,Food Processing,10478966.79,167,8,32,0,0,4,0,Pre-Operation,Enterprise,Q1,UPPCB,20,20.2,1
+APP_SYN_1065,Uttar Pradesh,Food Processing,2767588.11,11,3,12,0,0,3,0,Pre-Establishment,MSME,Q2,Directorate of Factories,15,14.2,0
+APP_SYN_1066,Uttar Pradesh,Food Processing,2858026.75,22,2,10,4,0,2,0,Pre-Operation,MSME,Q1,UPPCB,15,22.8,1
+APP_SYN_1067,Uttar Pradesh,Manufacturing,4322356.94,4,2,10,0,0,1,0,Pre-Operation,Individual,Q4,Boilers Directorate,30,25.4,0
+APP_SYN_1068,Rajasthan,Food Processing,41319439.15,14,5,20,2,1,2,0,Pre-Operation,MSME,Q3,FSSAI,60,84.7,1
+APP_SYN_1069,Maharashtra,Information Technology,309511.9,11,2,10,3,0,1,0,Pre-Establishment,Individual,Q4,CEIG,20,26.7,1
+APP_SYN_1070,Uttar Pradesh,Manufacturing,1539819.11,83,6,24,3,0,1,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,29.0,1
+APP_SYN_1071,Maharashtra,Food Processing,1695841.67,3,2,10,0,1,1,2,Pre-Operation,Individual,Q2,Directorate of Factories,45,46.0,1
+APP_SYN_1072,Uttar Pradesh,Food Processing,8536028.44,263,10,40,0,1,4,1,Pre-Establishment,Enterprise,Q2,Directorate of Factories,15,15.3,1
+APP_SYN_1073,Uttar Pradesh,Food Processing,85937213.55,495,4,16,0,1,2,0,Pre-Establishment,Enterprise,Q1,Directorate of Factories,30,20.1,0
+APP_SYN_1074,Uttar Pradesh,Pharmaceuticals,12218237.85,84,5,15,0,0,1,0,Pre-Operation,MSME,Q4,CEIG,30,22.0,0
+APP_SYN_1075,Tamil Nadu,Pharmaceuticals,1480713.18,19,1,3,0,0,1,0,Pre-Establishment,Individual,Q4,Directorate of Factories,30,22.4,0
+APP_SYN_1076,Uttar Pradesh,Food Processing,357739.17,18,1,5,0,1,1,0,Operation,Individual,Q4,Boilers Directorate,30,28.8,0
+APP_SYN_1077,Maharashtra,Chemicals,6398811.68,42,4,20,0,1,3,0,Pre-Establishment,MSME,Q3,CEIG,15,14.6,0
+APP_SYN_1078,Rajasthan,Manufacturing,7436070.8,34,2,10,0,0,2,2,Pre-Operation,MSME,Q2,CEIG,15,13.4,0
+APP_SYN_1079,Uttar Pradesh,Food Processing,4919984.06,33,4,16,0,0,2,1,Pre-Operation,MSME,Q2,Boilers Directorate,30,26.4,0
+APP_SYN_1080,Gujarat,Chemicals,71520146.24,428,4,12,0,1,4,2,Pre-Establishment,Enterprise,Q4,UPPCB,15,21.7,1
+APP_SYN_1081,Karnataka,Food Processing,2430920.67,13,1,4,0,0,1,0,Pre-Operation,Individual,Q1,Directorate of Factories,30,20.0,0
+APP_SYN_1082,Gujarat,Food Processing,106110987.78,251,8,32,0,0,4,0,Pre-Operation,Enterprise,Q3,Legal Metrology,15,13.9,0
+APP_SYN_1083,Uttar Pradesh,Food Processing,18147624.52,275,6,24,0,1,5,3,Pre-Establishment,Enterprise,Q1,UP Fire Service,30,42.5,1
+APP_SYN_1084,Gujarat,Manufacturing,37195230.31,542,11,33,0,1,4,3,Pre-Establishment,Enterprise,Q4,Directorate of Factories,15,21.6,1
+APP_SYN_1085,Uttar Pradesh,Information Technology,4436333.5,76,2,8,3,0,2,1,Pre-Operation,MSME,Q1,Legal Metrology,20,26.7,1
+APP_SYN_1086,Tamil Nadu,Chemicals,1920351.57,5,2,6,2,1,1,0,Pre-Operation,Individual,Q3,UP Fire Service,20,24.0,1
+APP_SYN_1087,Uttar Pradesh,Textiles,548071.38,2,2,8,0,0,1,0,Pre-Operation,Individual,Q1,FSSAI,45,34.6,0
+APP_SYN_1088,Maharashtra,Textiles,11539871.01,304,8,24,2,1,2,1,Pre-Establishment,Enterprise,Q2,Boilers Directorate,20,26.2,1
+APP_SYN_1089,Tamil Nadu,Textiles,11728926.66,104,4,12,0,0,4,0,Pre-Operation,Enterprise,Q1,Boilers Directorate,20,17.8,0
+APP_SYN_1090,Karnataka,Food Processing,22067793.6,163,10,50,4,1,4,2,Operation,Enterprise,Q4,Directorate of Factories,30,58.8,1
+APP_SYN_1091,Maharashtra,Food Processing,35843314.92,50,6,24,0,1,2,0,Pre-Establishment,MSME,Q1,Boilers Directorate,45,46.6,1
+APP_SYN_1092,Gujarat,Chemicals,17270809.51,47,6,18,3,1,1,0,Pre-Establishment,MSME,Q3,CEIG,15,20.0,1
+APP_SYN_1093,Karnataka,Food Processing,2643249.74,65,6,30,1,1,3,0,Pre-Establishment,MSME,Q4,Directorate of Factories,20,23.3,1
+APP_SYN_1094,Uttar Pradesh,Manufacturing,2141275.76,4,1,3,0,0,1,0,Pre-Establishment,Individual,Q1,CEIG,30,22.7,0
+APP_SYN_1095,Uttar Pradesh,Manufacturing,19762003.92,187,6,18,0,1,3,1,Pre-Establishment,Enterprise,Q3,Directorate of Factories,15,18.5,1
+APP_SYN_1096,Gujarat,Manufacturing,40926188.39,396,8,32,0,1,4,0,Operation,Enterprise,Q1,UP Fire Service,45,49.9,1
+APP_SYN_1097,Maharashtra,Chemicals,38738069.95,365,7,28,4,1,2,0,Pre-Operation,Enterprise,Q2,CEIG,15,26.2,1
+APP_SYN_1098,Maharashtra,Food Processing,90435475.44,67,10,30,3,1,2,2,Pre-Operation,Enterprise,Q4,FSSAI,15,24.2,1
+APP_SYN_1099,Uttar Pradesh,Food Processing,17392681.83,565,7,21,0,0,2,0,Pre-Establishment,Enterprise,Q3,Directorate of Factories,20,19.5,0
+APP_SYN_1100,Uttar Pradesh,Textiles,3454085.68,55,5,15,0,1,3,2,Pre-Operation,MSME,Q2,UPPCB,30,35.2,1
+APP_SYN_1101,Uttar Pradesh,Manufacturing,2137179.26,74,6,30,0,0,3,2,Operation,MSME,Q4,Directorate of Factories,15,17.7,1
+APP_SYN_1102,Gujarat,Manufacturing,10775836.8,25,4,16,0,1,3,0,Pre-Establishment,MSME,Q3,UP Fire Service,45,52.5,1
+APP_SYN_1103,Uttar Pradesh,Information Technology,7616334.9,92,5,15,1,0,1,1,Pre-Establishment,MSME,Q4,CEIG,20,23.0,1
+APP_SYN_1104,Uttar Pradesh,Chemicals,3508626.94,15,2,8,0,0,1,0,Pre-Establishment,Individual,Q1,Boilers Directorate,20,14.1,0
+APP_SYN_1105,Gujarat,Manufacturing,15316423.18,160,11,44,1,0,4,2,Pre-Establishment,Enterprise,Q2,CEIG,20,24.8,1
+APP_SYN_1106,Uttar Pradesh,Food Processing,96686849.33,232,9,36,2,1,2,1,Pre-Operation,Enterprise,Q4,Directorate of Factories,45,62.0,1
+APP_SYN_1107,Uttar Pradesh,Textiles,7883608.96,91,2,8,0,0,2,3,Pre-Operation,MSME,Q2,Boilers Directorate,20,22.1,1
+APP_SYN_1108,Uttar Pradesh,Manufacturing,12688210.58,84,3,9,2,1,3,0,Pre-Operation,MSME,Q4,FSSAI,45,55.6,1
+APP_SYN_1109,Gujarat,Food Processing,76873242.27,311,9,36,0,1,4,3,Pre-Operation,Enterprise,Q2,Directorate of Factories,15,18.7,1
+APP_SYN_1110,Uttar Pradesh,Manufacturing,6788464.01,67,3,9,0,0,2,0,Pre-Operation,MSME,Q4,FSSAI,45,40.1,0
+APP_SYN_1111,Karnataka,Manufacturing,3118779.72,8,3,9,0,1,1,0,Pre-Establishment,MSME,Q2,FSSAI,45,40.3,0
+APP_SYN_1112,Maharashtra,Information Technology,2254388.4,7,4,12,0,0,2,0,Operation,MSME,Q1,CEIG,30,19.1,0
+APP_SYN_1113,Uttar Pradesh,Pharmaceuticals,3837810.37,87,2,10,4,0,2,0,Pre-Establishment,MSME,Q1,UPPCB,30,40.1,1
+APP_SYN_1114,Uttar Pradesh,Chemicals,34569669.35,189,9,36,0,1,4,0,Operation,Enterprise,Q2,Directorate of Factories,15,16.0,1
+APP_SYN_1115,Uttar Pradesh,Food Processing,8458635.53,21,6,24,0,1,1,2,Pre-Establishment,MSME,Q4,UPPCB,15,16.2,1
+APP_SYN_1116,Maharashtra,Pharmaceuticals,9459921.13,77,4,16,0,0,2,0,Pre-Operation,MSME,Q4,UP Fire Service,15,13.1,0
+APP_SYN_1117,Uttar Pradesh,Manufacturing,3678581.66,40,2,8,0,0,2,0,Pre-Establishment,MSME,Q2,FSSAI,15,11.6,0
+APP_SYN_1118,Gujarat,Manufacturing,1268343.47,29,3,15,4,0,3,0,Pre-Establishment,MSME,Q4,Legal Metrology,20,30.1,1
+APP_SYN_1119,Uttar Pradesh,Food Processing,3436423.44,16,1,3,1,0,1,0,Pre-Establishment,Individual,Q1,FSSAI,20,18.3,0
+APP_SYN_1120,Uttar Pradesh,Textiles,29484689.87,170,6,24,1,0,3,0,Pre-Operation,Enterprise,Q3,CEIG,15,15.2,1
+APP_SYN_1121,Maharashtra,Chemicals,9320492.54,6,4,16,2,0,3,2,Pre-Operation,MSME,Q1,FSSAI,20,22.2,1
+APP_SYN_1122,Gujarat,Pharmaceuticals,59654403.73,342,10,30,1,0,2,0,Pre-Operation,Enterprise,Q2,Legal Metrology,60,52.4,0
+APP_SYN_1123,Uttar Pradesh,Textiles,42621450.44,475,5,25,1,0,5,1,Pre-Operation,Enterprise,Q3,CEIG,45,58.9,1
+APP_SYN_1124,Uttar Pradesh,Food Processing,4782550.93,51,4,16,0,0,2,0,Pre-Operation,MSME,Q4,Boilers Directorate,20,13.8,0
+APP_SYN_1125,Rajasthan,Food Processing,3826886.09,8,2,8,2,1,1,1,Pre-Operation,Individual,Q1,Legal Metrology,30,36.3,1
+APP_SYN_1126,Uttar Pradesh,Pharmaceuticals,6903315.45,84,5,20,1,0,3,0,Pre-Operation,MSME,Q3,FSSAI,45,54.1,1
+APP_SYN_1127,Uttar Pradesh,Pharmaceuticals,48599326.64,491,9,36,1,1,2,1,Pre-Establishment,Enterprise,Q3,Directorate of Factories,20,22.7,1
+APP_SYN_1128,Rajasthan,Manufacturing,5102739.91,45,2,10,3,0,2,1,Pre-Establishment,MSME,Q1,UP Fire Service,20,27.0,1
+APP_SYN_1129,Uttar Pradesh,Food Processing,251746265.98,582,5,15,0,0,5,2,Pre-Operation,Enterprise,Q1,Directorate of Factories,60,74.2,1
+APP_SYN_1130,Uttar Pradesh,Food Processing,73942302.24,572,5,25,4,1,5,0,Pre-Operation,Enterprise,Q2,FSSAI,20,29.6,1
+APP_SYN_1131,Tamil Nadu,Manufacturing,3119849.03,36,3,15,0,0,3,0,Pre-Establishment,MSME,Q1,UPPCB,20,19.0,0
+APP_SYN_1132,Rajasthan,Chemicals,656837.59,17,1,4,3,0,1,1,Operation,Individual,Q1,UPPCB,30,34.9,1
+APP_SYN_1133,Maharashtra,Textiles,2456896.53,47,3,15,0,0,3,3,Pre-Establishment,MSME,Q3,Directorate of Factories,20,23.8,1
+APP_SYN_1134,Uttar Pradesh,Manufacturing,2416783.59,90,3,12,1,1,1,0,Pre-Establishment,MSME,Q2,Legal Metrology,30,33.5,1
+APP_SYN_1135,Uttar Pradesh,Food Processing,33240343.28,48,3,15,2,1,2,3,Pre-Establishment,MSME,Q4,UPPCB,20,32.7,1
+APP_SYN_1136,Gujarat,Food Processing,10965490.1,66,4,16,0,0,4,1,Pre-Operation,Enterprise,Q2,CEIG,45,54.9,1
+APP_SYN_1137,Gujarat,Food Processing,3370609.65,95,2,10,2,1,2,0,Pre-Establishment,MSME,Q1,UP Fire Service,20,23.8,1
+APP_SYN_1138,Maharashtra,Pharmaceuticals,7411995.73,46,4,16,0,1,3,0,Pre-Establishment,MSME,Q4,UPPCB,20,18.1,0
+APP_SYN_1139,Uttar Pradesh,Food Processing,4012629.77,85,2,6,3,0,2,2,Pre-Operation,MSME,Q4,Legal Metrology,15,23.3,1
+APP_SYN_1140,Karnataka,Food Processing,59652609.14,336,9,36,2,1,3,2,Pre-Establishment,Enterprise,Q3,FSSAI,15,25.9,1
+APP_SYN_1141,Gujarat,Chemicals,3789108.49,32,4,12,0,0,2,0,Operation,MSME,Q3,UPPCB,60,55.5,0
+APP_SYN_1142,Gujarat,Food Processing,13086607.8,596,9,27,0,1,5,2,Pre-Establishment,Enterprise,Q1,Boilers Directorate,20,27.4,1
+APP_SYN_1143,Maharashtra,Information Technology,12291986.08,414,9,45,2,1,5,0,Pre-Establishment,Enterprise,Q2,CEIG,15,21.3,1
+APP_SYN_1144,Gujarat,Information Technology,2393020.04,41,5,15,0,0,1,1,Pre-Operation,MSME,Q1,Legal Metrology,30,22.8,0
+APP_SYN_1145,Uttar Pradesh,Textiles,4311729.82,62,3,9,1,1,1,0,Pre-Establishment,MSME,Q1,FSSAI,15,15.3,1
+APP_SYN_1146,Uttar Pradesh,Manufacturing,92909499.22,338,6,18,4,0,5,1,Pre-Operation,Enterprise,Q2,Boilers Directorate,20,33.9,1
+APP_SYN_1147,Tamil Nadu,Textiles,1494135.5,70,6,30,1,0,2,1,Pre-Establishment,MSME,Q2,UPPCB,20,23.0,1
+APP_SYN_1148,Maharashtra,Manufacturing,6006870.18,33,4,16,4,0,1,0,Pre-Establishment,MSME,Q3,UPPCB,20,26.4,1
+APP_SYN_1149,Karnataka,Manufacturing,38338255.79,402,6,24,0,0,3,0,Pre-Establishment,Enterprise,Q3,UP Fire Service,20,18.6,0
+APP_SYN_1150,Tamil Nadu,Food Processing,4803477.4,67,3,9,0,0,2,0,Pre-Establishment,MSME,Q3,CEIG,30,25.9,0
+APP_SYN_1151,Maharashtra,Food Processing,12980741.45,293,9,45,3,1,2,1,Pre-Establishment,Enterprise,Q2,Boilers Directorate,20,29.2,1
+APP_SYN_1152,Maharashtra,Pharmaceuticals,11461766.03,36,6,24,1,0,2,0,Operation,MSME,Q2,Legal Metrology,30,29.1,0
+APP_SYN_1153,Rajasthan,Chemicals,3757126.84,199,10,30,0,0,5,0,Pre-Operation,Enterprise,Q3,Legal Metrology,30,32.0,1
+APP_SYN_1154,Uttar Pradesh,Chemicals,14915634.29,64,6,24,0,1,3,0,Pre-Operation,MSME,Q1,CEIG,45,50.2,1
+APP_SYN_1155,Karnataka,Pharmaceuticals,2807335.05,71,4,20,1,0,1,0,Operation,MSME,Q2,UPPCB,45,42.4,0
+APP_SYN_1156,Tamil Nadu,Manufacturing,20072513.02,131,11,44,0,1,3,0,Pre-Operation,Enterprise,Q2,FSSAI,45,44.6,0
+APP_SYN_1157,Maharashtra,Pharmaceuticals,21672669.54,236,7,35,0,0,5,3,Pre-Establishment,Enterprise,Q4,CEIG,20,28.3,1
+APP_SYN_1158,Maharashtra,Information Technology,5038089.86,272,6,18,0,0,3,0,Pre-Operation,Enterprise,Q4,Legal Metrology,30,28.1,0
+APP_SYN_1159,Uttar Pradesh,Food Processing,33882972.14,276,10,50,0,1,3,1,Pre-Establishment,Enterprise,Q4,FSSAI,15,21.1,1
+APP_SYN_1160,Uttar Pradesh,Chemicals,2557962.2,10,4,16,1,1,3,0,Pre-Operation,MSME,Q4,Directorate of Factories,15,20.4,1
+APP_SYN_1161,Uttar Pradesh,Textiles,18978822.99,58,5,20,0,1,2,0,Pre-Operation,MSME,Q3,Boilers Directorate,20,18.6,0
+APP_SYN_1162,Maharashtra,Food Processing,29256926.99,572,9,36,0,1,5,0,Pre-Establishment,Enterprise,Q3,CEIG,15,18.1,1
+APP_SYN_1163,Maharashtra,Food Processing,906643.65,2,1,4,1,0,1,0,Pre-Operation,Individual,Q2,Directorate of Factories,20,16.1,0
+APP_SYN_1164,Karnataka,Food Processing,4348435.23,156,7,21,1,1,2,1,Pre-Establishment,Enterprise,Q2,Directorate of Factories,20,21.2,1
+APP_SYN_1165,Rajasthan,Textiles,3227350.94,84,3,9,1,1,3,0,Pre-Establishment,MSME,Q3,Boilers Directorate,20,21.8,1
+APP_SYN_1166,Uttar Pradesh,Manufacturing,2368855.5,30,4,20,2,0,1,0,Pre-Establishment,MSME,Q2,UP Fire Service,20,18.9,0
+APP_SYN_1167,Maharashtra,Food Processing,10181656.81,591,10,50,3,0,3,1,Pre-Operation,Enterprise,Q4,Directorate of Factories,15,21.6,1
+APP_SYN_1168,Karnataka,Pharmaceuticals,4862546.52,12,2,6,0,1,1,3,Pre-Operation,Individual,Q4,CEIG,30,34.6,1
+APP_SYN_1169,Maharashtra,Manufacturing,12353531.4,67,4,16,2,1,3,1,Pre-Operation,MSME,Q1,FSSAI,20,21.1,1
+APP_SYN_1170,Gujarat,Manufacturing,9051693.35,36,3,12,0,1,2,0,Pre-Operation,MSME,Q4,Directorate of Factories,60,66.1,1
+APP_SYN_1171,Gujarat,Food Processing,2861958.36,85,3,12,0,0,2,0,Pre-Establishment,MSME,Q3,FSSAI,15,14.7,0
+APP_SYN_1172,Uttar Pradesh,Pharmaceuticals,20943226.67,69,4,16,3,1,1,1,Pre-Establishment,MSME,Q1,FSSAI,20,21.3,1
+APP_SYN_1173,Gujarat,Food Processing,1101045.96,6,1,3,1,1,1,0,Pre-Operation,Individual,Q3,UPPCB,15,16.0,1
+APP_SYN_1174,Gujarat,Pharmaceuticals,40785236.39,442,7,21,3,0,5,0,Pre-Establishment,Enterprise,Q2,UPPCB,15,23.6,1
+APP_SYN_1175,Uttar Pradesh,Chemicals,32507982.41,539,7,21,2,1,2,0,Pre-Establishment,Enterprise,Q2,UP Fire Service,20,27.0,1
+APP_SYN_1176,Gujarat,Manufacturing,12428575.33,36,6,24,2,0,1,0,Pre-Establishment,MSME,Q2,Boilers Directorate,15,20.9,1
+APP_SYN_1177,Karnataka,Manufacturing,55825566.54,300,9,36,0,1,4,0,Operation,Enterprise,Q3,UPPCB,20,26.0,1
+APP_SYN_1178,Gujarat,Food Processing,6209625.15,85,5,15,0,0,3,0,Pre-Establishment,MSME,Q2,Boilers Directorate,20,14.3,0
+APP_SYN_1179,Uttar Pradesh,Food Processing,6289147.33,50,5,15,2,0,1,0,Pre-Establishment,MSME,Q1,Directorate of Factories,30,28.3,0
+APP_SYN_1180,Tamil Nadu,Manufacturing,14843792.79,103,11,55,2,0,5,0,Pre-Operation,Enterprise,Q4,UPPCB,15,22.9,1
+APP_SYN_1181,Uttar Pradesh,Manufacturing,5939897.34,83,5,25,2,1,2,0,Pre-Establishment,MSME,Q4,UP Fire Service,30,34.3,1
+APP_SYN_1182,Gujarat,Food Processing,1075706.23,14,1,3,2,1,1,0,Operation,Individual,Q4,CEIG,20,22.3,1
+APP_SYN_1183,Tamil Nadu,Food Processing,924775.8,6,1,4,0,0,1,1,Pre-Operation,Individual,Q2,UPPCB,30,19.4,0
+APP_SYN_1184,Uttar Pradesh,Food Processing,325128811.84,192,11,55,3,1,2,1,Pre-Operation,Enterprise,Q4,FSSAI,30,47.1,1
+APP_SYN_1185,Karnataka,Food Processing,37791792.52,96,7,28,1,0,5,1,Pre-Establishment,Enterprise,Q2,UP Fire Service,30,38.0,1
+APP_SYN_1186,Gujarat,Manufacturing,1043169.31,93,2,6,0,0,2,2,Pre-Operation,MSME,Q1,Directorate of Factories,15,13.6,0
+APP_SYN_1187,Rajasthan,Textiles,512112.37,9,4,20,1,0,2,1,Operation,MSME,Q4,UP Fire Service,30,30.3,1
+APP_SYN_1188,Uttar Pradesh,Pharmaceuticals,2443514.98,77,5,25,0,0,2,0,Pre-Establishment,MSME,Q4,Directorate of Factories,15,11.9,0
+APP_SYN_1189,Uttar Pradesh,Manufacturing,1714504.73,15,2,8,0,0,1,3,Pre-Establishment,Individual,Q2,UP Fire Service,15,17.3,1
+APP_SYN_1190,Gujarat,Information Technology,6430002.84,63,6,30,1,0,2,0,Operation,MSME,Q4,Directorate of Factories,20,20.3,1
+APP_SYN_1191,Gujarat,Food Processing,76596840.92,95,2,10,3,0,1,1,Pre-Operation,MSME,Q3,CEIG,30,41.2,1
+APP_SYN_1192,Uttar Pradesh,Information Technology,2323910.66,49,2,8,0,0,2,2,Operation,MSME,Q4,UP Fire Service,30,28.3,0
+APP_SYN_1193,Rajasthan,Food Processing,1332018.81,59,5,20,0,1,3,1,Pre-Establishment,MSME,Q3,UP Fire Service,45,55.1,1
+APP_SYN_1194,Karnataka,Manufacturing,3272051.78,31,2,8,0,0,1,0,Pre-Establishment,MSME,Q2,Boilers Directorate,30,20.8,0
+APP_SYN_1195,Karnataka,Manufacturing,10825757.7,81,2,8,0,0,2,3,Pre-Establishment,MSME,Q3,FSSAI,30,32.6,1
+APP_SYN_1196,Maharashtra,Manufacturing,18596354.41,346,11,44,0,0,5,0,Pre-Establishment,Enterprise,Q4,Directorate of Factories,15,14.6,0
+APP_SYN_1197,Maharashtra,Information Technology,9467755.98,52,3,9,1,0,3,3,Pre-Operation,MSME,Q4,FSSAI,30,41.1,1
+APP_SYN_1198,Tamil Nadu,Manufacturing,10275250.95,182,7,35,1,1,2,0,Pre-Operation,Enterprise,Q1,Directorate of Factories,30,33.9,1
+APP_SYN_1199,Uttar Pradesh,Pharmaceuticals,47712627.74,126,4,12,1,1,4,0,Pre-Operation,Enterprise,Q1,FSSAI,45,44.7,0
+APP_SYN_1200,Tamil Nadu,Textiles,6741933.27,35,5,25,1,0,3,2,Pre-Establishment,MSME,Q2,FSSAI,30,36.2,1
+APP_SYN_1201,Karnataka,Textiles,2194970.3,98,3,15,0,0,3,0,Pre-Operation,MSME,Q4,Directorate of Factories,15,16.0,1
+APP_SYN_1202,Karnataka,Manufacturing,14981118.76,67,6,24,0,0,2,2,Pre-Operation,MSME,Q3,Directorate of Factories,30,31.6,1
+APP_SYN_1203,Uttar Pradesh,Food Processing,34797433.72,385,7,35,1,0,5,0,Pre-Establishment,Enterprise,Q2,Directorate of Factories,15,15.8,1
+APP_SYN_1204,Maharashtra,Manufacturing,96027165.89,384,7,28,0,1,4,1,Operation,Enterprise,Q3,Directorate of Factories,30,35.4,1
+APP_SYN_1205,Tamil Nadu,Pharmaceuticals,24835834.25,204,5,25,0,0,2,0,Operation,Enterprise,Q4,Directorate of Factories,30,27.5,0
+APP_SYN_1206,Uttar Pradesh,Food Processing,23663671.7,359,10,50,0,0,3,0,Pre-Operation,Enterprise,Q2,Directorate of Factories,20,22.1,1
+APP_SYN_1207,Maharashtra,Food Processing,4462954.78,82,3,9,2,1,2,1,Pre-Establishment,MSME,Q1,UP Fire Service,20,23.7,1
+APP_SYN_1208,Uttar Pradesh,Food Processing,9589499.1,17,2,10,1,0,2,0,Pre-Operation,MSME,Q1,UPPCB,45,43.7,0
+APP_SYN_1209,Uttar Pradesh,Food Processing,4178509.18,66,4,20,3,0,3,1,Pre-Establishment,MSME,Q2,Boilers Directorate,45,62.7,1
+APP_SYN_1210,Gujarat,Food Processing,7601955.14,78,2,6,0,0,2,0,Pre-Establishment,MSME,Q2,Boilers Directorate,30,28.5,0
+APP_SYN_1211,Uttar Pradesh,Textiles,17648044.54,241,10,40,1,0,3,0,Pre-Operation,Enterprise,Q3,Boilers Directorate,30,32.4,1
+APP_SYN_1212,Uttar Pradesh,Manufacturing,12956996.92,7,2,10,0,1,2,2,Pre-Operation,MSME,Q2,Directorate of Factories,20,23.1,1
+APP_SYN_1213,Uttar Pradesh,Food Processing,4262024.66,10,2,10,0,1,2,0,Pre-Operation,MSME,Q3,Boilers Directorate,20,18.4,0
+APP_SYN_1214,Maharashtra,Information Technology,11172066.63,389,10,40,1,0,5,0,Pre-Establishment,Enterprise,Q2,UP Fire Service,20,22.7,1
+APP_SYN_1215,Uttar Pradesh,Food Processing,8915874.4,11,5,20,0,1,3,0,Pre-Operation,MSME,Q3,Legal Metrology,30,25.7,0
+APP_SYN_1216,Tamil Nadu,Manufacturing,5408574.93,59,2,10,0,1,1,1,Pre-Establishment,MSME,Q3,CEIG,15,14.3,0
+APP_SYN_1217,Tamil Nadu,Food Processing,11139699.76,73,2,6,1,0,2,1,Operation,MSME,Q1,Directorate of Factories,30,33.9,1
+APP_SYN_1218,Uttar Pradesh,Chemicals,21487907.34,406,11,55,1,1,5,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,45,53.1,1
+APP_SYN_1219,Uttar Pradesh,Chemicals,13810940.6,523,4,16,0,1,4,1,Operation,Enterprise,Q1,FSSAI,20,23.7,1
+APP_SYN_1220,Uttar Pradesh,Food Processing,5954795.16,70,6,30,1,1,1,1,Pre-Establishment,MSME,Q3,Legal Metrology,15,17.0,1
+APP_SYN_1221,Karnataka,Pharmaceuticals,33426606.99,409,11,44,1,1,5,0,Operation,Enterprise,Q1,Legal Metrology,30,34.8,1
+APP_SYN_1222,Maharashtra,Manufacturing,21816506.77,12,6,24,0,1,3,0,Pre-Establishment,MSME,Q1,FSSAI,20,17.5,0
+APP_SYN_1223,Uttar Pradesh,Information Technology,17659139.3,599,9,27,1,0,3,1,Pre-Establishment,Enterprise,Q2,UP Fire Service,20,24.9,1
+APP_SYN_1224,Uttar Pradesh,Pharmaceuticals,27673136.61,22,5,25,0,0,1,0,Operation,MSME,Q2,Directorate of Factories,20,14.1,0
+APP_SYN_1225,Uttar Pradesh,Manufacturing,4259925.15,78,2,6,0,0,1,0,Operation,MSME,Q1,Boilers Directorate,15,9.8,0
+APP_SYN_1226,Uttar Pradesh,Manufacturing,4178596.13,23,6,24,2,1,2,0,Pre-Establishment,MSME,Q4,Boilers Directorate,15,19.3,1
+APP_SYN_1227,Uttar Pradesh,Manufacturing,39924372.89,338,4,16,0,1,4,2,Pre-Establishment,Enterprise,Q3,UPPCB,45,62.5,1
+APP_SYN_1228,Tamil Nadu,Food Processing,586383.33,86,4,16,2,1,3,2,Operation,MSME,Q3,Boilers Directorate,30,51.2,1
+APP_SYN_1229,Uttar Pradesh,Manufacturing,1797248.29,34,6,24,1,1,2,2,Pre-Operation,MSME,Q4,UPPCB,20,28.5,1
+APP_SYN_1230,Maharashtra,Manufacturing,186645685.75,140,8,32,2,1,4,0,Pre-Operation,Enterprise,Q3,FSSAI,30,43.6,1
+APP_SYN_1231,Gujarat,Manufacturing,15929658.65,109,8,32,4,1,5,1,Pre-Operation,Enterprise,Q3,UPPCB,30,53.0,1
+APP_SYN_1232,Maharashtra,Pharmaceuticals,17672975.64,46,6,24,0,1,3,0,Pre-Operation,MSME,Q2,Boilers Directorate,20,18.8,0
+APP_SYN_1233,Gujarat,Pharmaceuticals,8956088.21,28,5,15,1,0,1,0,Operation,MSME,Q4,Boilers Directorate,20,19.0,0
+APP_SYN_1234,Uttar Pradesh,Textiles,6211126.98,19,6,24,1,0,1,0,Operation,MSME,Q2,Directorate of Factories,30,27.8,0
+APP_SYN_1235,Uttar Pradesh,Chemicals,2667911.17,20,6,24,2,0,2,1,Pre-Establishment,MSME,Q3,UPPCB,15,19.9,1
+APP_SYN_1236,Karnataka,Food Processing,23769758.55,93,4,12,0,1,1,0,Pre-Operation,MSME,Q3,FSSAI,20,20.2,1
+APP_SYN_1237,Maharashtra,Information Technology,524686.83,98,5,15,0,0,2,1,Pre-Establishment,MSME,Q2,Legal Metrology,20,14.7,0
+APP_SYN_1238,Maharashtra,Food Processing,4067517.27,41,4,16,0,1,3,2,Pre-Operation,MSME,Q2,FSSAI,15,18.0,1
+APP_SYN_1239,Gujarat,Food Processing,14170297.82,37,3,12,0,0,1,0,Operation,MSME,Q4,UPPCB,15,12.1,0
+APP_SYN_1240,Tamil Nadu,Food Processing,74669253.9,81,2,8,1,1,1,0,Operation,MSME,Q1,CEIG,30,31.5,1
+APP_SYN_1241,Maharashtra,Textiles,161177891.5,547,11,44,3,1,4,1,Pre-Establishment,Enterprise,Q1,Directorate of Factories,20,31.9,1
+APP_SYN_1242,Uttar Pradesh,Food Processing,6796661.18,63,2,10,0,1,1,0,Pre-Establishment,MSME,Q2,Boilers Directorate,20,19.4,0
+APP_SYN_1243,Tamil Nadu,Food Processing,3492845.45,11,2,8,0,0,2,0,Pre-Establishment,MSME,Q1,UPPCB,30,21.8,0
+APP_SYN_1244,Tamil Nadu,Food Processing,2301898.57,65,6,18,0,1,2,0,Pre-Establishment,MSME,Q4,UP Fire Service,30,29.7,0
+APP_SYN_1245,Uttar Pradesh,Manufacturing,1993316.1,10,2,8,0,0,2,2,Pre-Operation,MSME,Q2,Legal Metrology,45,39.4,0
+APP_SYN_1246,Gujarat,Textiles,3794924.89,11,6,30,1,0,1,0,Pre-Establishment,MSME,Q4,FSSAI,15,15.7,1
+APP_SYN_1247,Gujarat,Chemicals,8979795.37,99,4,12,0,0,1,1,Pre-Establishment,MSME,Q4,Directorate of Factories,15,13.2,0
+APP_SYN_1248,Maharashtra,Chemicals,27730262.6,53,3,12,1,1,3,1,Pre-Establishment,MSME,Q1,CEIG,45,55.6,1
+APP_SYN_1249,Uttar Pradesh,Food Processing,28162890.11,158,8,32,0,1,4,0,Pre-Operation,Enterprise,Q2,CEIG,30,31.0,1
+APP_SYN_1250,Uttar Pradesh,Manufacturing,7876294.34,16,2,6,0,0,2,0,Pre-Operation,MSME,Q2,UP Fire Service,20,13.7,0
+APP_SYN_1251,Gujarat,Chemicals,2473585.69,55,5,25,0,1,1,0,Pre-Establishment,MSME,Q4,FSSAI,15,13.2,0
+APP_SYN_1252,Uttar Pradesh,Manufacturing,16557071.13,81,5,15,0,1,2,0,Pre-Operation,MSME,Q3,UPPCB,60,55.5,0
+APP_SYN_1253,Uttar Pradesh,Manufacturing,4673936.53,75,3,12,0,1,1,0,Pre-Establishment,MSME,Q4,UPPCB,45,33.6,0
+APP_SYN_1254,Gujarat,Pharmaceuticals,6262504.21,89,4,12,1,0,2,0,Operation,MSME,Q3,FSSAI,15,16.1,1
+APP_SYN_1255,Uttar Pradesh,Food Processing,7628865.12,58,2,8,0,0,2,0,Pre-Establishment,MSME,Q4,CEIG,30,23.6,0
+APP_SYN_1256,Karnataka,Manufacturing,1568090.17,2,2,10,0,0,1,0,Pre-Operation,Individual,Q3,UP Fire Service,45,31.2,0
+APP_SYN_1257,Uttar Pradesh,Manufacturing,2184351.15,90,6,30,0,0,1,1,Operation,MSME,Q2,UP Fire Service,20,22.2,1
+APP_SYN_1258,Maharashtra,Pharmaceuticals,2982895.4,35,2,8,0,0,2,2,Pre-Establishment,MSME,Q3,UPPCB,30,33.8,1
+APP_SYN_1259,Maharashtra,Manufacturing,79616441.65,271,8,24,0,1,4,0,Pre-Establishment,Enterprise,Q1,UPPCB,20,23.4,1
+APP_SYN_1260,Uttar Pradesh,Manufacturing,6284488.62,70,5,15,1,0,1,2,Pre-Operation,MSME,Q2,UP Fire Service,15,18.3,1
+APP_SYN_1261,Rajasthan,Food Processing,2812022.04,94,5,15,0,0,3,0,Pre-Establishment,MSME,Q1,FSSAI,30,25.0,0
+APP_SYN_1262,Uttar Pradesh,Manufacturing,49147839.81,586,7,35,0,1,4,2,Pre-Establishment,Enterprise,Q3,UPPCB,30,38.0,1
+APP_SYN_1263,Uttar Pradesh,Food Processing,9950812.54,29,6,30,1,1,1,0,Operation,MSME,Q2,UP Fire Service,15,17.6,1
+APP_SYN_1264,Maharashtra,Information Technology,1009136.92,11,2,8,2,0,1,0,Pre-Establishment,Individual,Q1,Legal Metrology,45,40.3,0
+APP_SYN_1265,Maharashtra,Pharmaceuticals,2769423.87,15,4,12,2,1,3,1,Pre-Establishment,MSME,Q3,UP Fire Service,20,26.2,1
+APP_SYN_1266,Gujarat,Textiles,38962034.69,159,5,15,2,0,5,3,Pre-Establishment,Enterprise,Q2,Legal Metrology,60,99.3,1
+APP_SYN_1267,Tamil Nadu,Food Processing,1313919.8,16,1,5,1,0,1,0,Pre-Establishment,Individual,Q4,Legal Metrology,30,30.1,1
+APP_SYN_1268,Gujarat,Food Processing,18010514.43,82,6,30,1,1,3,1,Pre-Establishment,MSME,Q2,Legal Metrology,20,26.0,1
+APP_SYN_1269,Gujarat,Pharmaceuticals,5287644.18,54,6,30,3,0,3,0,Pre-Establishment,MSME,Q3,CEIG,45,64.7,1
+APP_SYN_1270,Uttar Pradesh,Chemicals,72113384.46,417,4,12,3,0,2,0,Pre-Establishment,Enterprise,Q1,FSSAI,15,14.9,0
+APP_SYN_1271,Maharashtra,Food Processing,4123369.97,23,3,9,2,0,1,2,Pre-Establishment,MSME,Q4,CEIG,45,53.6,1
+APP_SYN_1272,Maharashtra,Chemicals,45579080.07,218,7,35,0,0,3,1,Pre-Establishment,Enterprise,Q3,UPPCB,60,58.4,0
+APP_SYN_1273,Maharashtra,Textiles,856707.07,75,2,8,2,0,2,0,Pre-Operation,MSME,Q3,Legal Metrology,30,33.8,1
+APP_SYN_1274,Uttar Pradesh,Food Processing,148750527.0,521,8,40,0,0,2,2,Pre-Establishment,Enterprise,Q4,FSSAI,15,18.1,1
+APP_SYN_1275,Uttar Pradesh,Pharmaceuticals,13139244.43,43,5,15,0,0,1,1,Pre-Operation,MSME,Q1,CEIG,45,43.2,0
+APP_SYN_1276,Uttar Pradesh,Food Processing,2979957.15,6,1,4,3,0,1,0,Operation,Individual,Q4,UPPCB,60,65.0,1
+APP_SYN_1277,Maharashtra,Manufacturing,4965054.9,62,2,10,1,1,1,1,Pre-Establishment,MSME,Q4,Boilers Directorate,30,31.0,1
+APP_SYN_1278,Gujarat,Manufacturing,76487976.77,276,7,21,0,1,2,1,Operation,Enterprise,Q2,Legal Metrology,30,26.1,0
+APP_SYN_1279,Uttar Pradesh,Food Processing,2561146.11,55,5,15,0,0,1,1,Pre-Establishment,MSME,Q3,FSSAI,20,16.8,0
+APP_SYN_1280,Uttar Pradesh,Food Processing,33319660.27,445,8,40,1,0,3,0,Pre-Establishment,Enterprise,Q4,Legal Metrology,15,16.2,1
+APP_SYN_1281,Uttar Pradesh,Textiles,3463104.67,72,2,10,0,0,2,2,Pre-Establishment,MSME,Q3,Directorate of Factories,20,19.8,0
+APP_SYN_1282,Uttar Pradesh,Textiles,1123668.08,13,1,4,0,0,1,0,Pre-Operation,Individual,Q4,UPPCB,20,13.0,0
+APP_SYN_1283,Gujarat,Chemicals,28805017.41,59,5,15,0,0,5,0,Pre-Operation,Enterprise,Q1,Directorate of Factories,15,14.2,0
+APP_SYN_1284,Uttar Pradesh,Chemicals,2270086.25,92,6,24,0,1,2,0,Pre-Operation,MSME,Q2,UPPCB,30,29.0,0
+APP_SYN_1285,Gujarat,Food Processing,41922679.54,263,7,28,0,1,4,0,Pre-Establishment,Enterprise,Q1,Boilers Directorate,15,19.3,1
+APP_SYN_1286,Tamil Nadu,Chemicals,903302.13,5,2,6,0,0,1,0,Pre-Establishment,Individual,Q4,Directorate of Factories,30,21.6,0
+APP_SYN_1287,Uttar Pradesh,Food Processing,16574001.63,588,4,20,1,0,4,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,20,18.1,0
+APP_SYN_1288,Gujarat,Manufacturing,69273991.16,210,6,24,0,0,5,0,Pre-Operation,Enterprise,Q3,UPPCB,30,35.3,1
+APP_SYN_1289,Gujarat,Information Technology,5156794.24,21,2,6,0,1,1,0,Pre-Establishment,MSME,Q1,CEIG,20,20.9,1
+APP_SYN_1290,Karnataka,Manufacturing,53074585.6,188,8,24,0,1,4,0,Pre-Operation,Enterprise,Q4,FSSAI,15,18.7,1
+APP_SYN_1291,Uttar Pradesh,Chemicals,5703094.76,20,5,25,0,0,2,1,Pre-Establishment,MSME,Q2,UP Fire Service,30,28.8,0
+APP_SYN_1292,Uttar Pradesh,Textiles,25650413.94,17,4,20,0,1,3,3,Pre-Establishment,MSME,Q3,Directorate of Factories,60,84.2,1
+APP_SYN_1293,Tamil Nadu,Pharmaceuticals,80327759.9,273,11,55,3,1,5,0,Pre-Establishment,Enterprise,Q2,Legal Metrology,15,24.7,1
+APP_SYN_1294,Gujarat,Food Processing,2529062.54,84,2,6,0,1,1,0,Pre-Operation,MSME,Q4,UPPCB,15,13.5,0
+APP_SYN_1295,Rajasthan,Food Processing,1838654.41,17,3,12,1,1,2,0,Pre-Operation,MSME,Q3,Boilers Directorate,45,48.4,1
+APP_SYN_1296,Uttar Pradesh,Food Processing,6568963.67,96,6,18,0,1,3,3,Pre-Operation,MSME,Q2,UP Fire Service,20,25.6,1
+APP_SYN_1297,Uttar Pradesh,Chemicals,46079426.26,599,6,30,1,1,5,0,Operation,Enterprise,Q1,FSSAI,60,81.4,1
+APP_SYN_1298,Tamil Nadu,Textiles,12278403.6,50,5,15,0,0,1,1,Pre-Operation,MSME,Q2,CEIG,20,14.9,0
+APP_SYN_1299,Tamil Nadu,Information Technology,8272466.78,65,5,25,1,0,1,0,Pre-Establishment,MSME,Q4,Boilers Directorate,15,13.0,0
+APP_SYN_1300,Uttar Pradesh,Manufacturing,923744.5,13,2,6,0,0,1,0,Pre-Operation,Individual,Q3,FSSAI,20,17.9,0
+APP_SYN_1301,Rajasthan,Food Processing,27672537.09,37,3,9,0,0,2,1,Operation,MSME,Q2,UPPCB,20,18.1,0
+APP_SYN_1302,Uttar Pradesh,Pharmaceuticals,39760928.45,413,4,12,3,0,3,0,Pre-Establishment,Enterprise,Q4,Boilers Directorate,15,20.6,1
+APP_SYN_1303,Uttar Pradesh,Food Processing,5921401.48,66,3,15,0,1,1,1,Pre-Operation,MSME,Q2,Directorate of Factories,30,30.8,1
+APP_SYN_1304,Karnataka,Manufacturing,43604121.22,258,11,44,0,1,2,0,Pre-Operation,Enterprise,Q4,CEIG,30,36.8,1
+APP_SYN_1305,Gujarat,Manufacturing,3174354.62,89,5,25,0,1,2,1,Pre-Establishment,MSME,Q1,Directorate of Factories,30,31.0,1
+APP_SYN_1306,Uttar Pradesh,Food Processing,6733217.54,93,6,30,0,0,2,0,Pre-Establishment,MSME,Q3,Boilers Directorate,30,27.2,0
+APP_SYN_1307,Gujarat,Manufacturing,17381997.49,15,4,16,1,0,3,0,Pre-Operation,MSME,Q3,Boilers Directorate,20,17.3,0
+APP_SYN_1308,Gujarat,Food Processing,4625996.02,63,2,10,2,1,1,0,Operation,MSME,Q2,Boilers Directorate,20,22.6,1
+APP_SYN_1309,Uttar Pradesh,Chemicals,12888027.76,40,3,12,1,1,1,0,Pre-Establishment,MSME,Q4,UP Fire Service,15,14.3,0
+APP_SYN_1310,Uttar Pradesh,Textiles,8935307.97,99,6,30,2,0,1,1,Operation,MSME,Q4,Directorate of Factories,30,34.6,1
+APP_SYN_1311,Karnataka,Manufacturing,9412456.3,15,2,8,4,1,1,3,Operation,MSME,Q2,UP Fire Service,20,29.2,1
+APP_SYN_1312,Rajasthan,Manufacturing,12157595.92,89,2,10,1,0,2,0,Operation,MSME,Q2,Directorate of Factories,15,14.7,0
+APP_SYN_1313,Gujarat,Food Processing,12233934.35,26,2,6,0,1,2,0,Pre-Operation,MSME,Q4,Directorate of Factories,30,32.2,1
+APP_SYN_1314,Uttar Pradesh,Textiles,2932074.63,65,2,8,2,0,2,0,Operation,MSME,Q3,Boilers Directorate,20,24.1,1
+APP_SYN_1315,Rajasthan,Information Technology,13910257.99,66,6,30,0,0,2,0,Pre-Establishment,MSME,Q2,UP Fire Service,15,11.3,0
+APP_SYN_1316,Uttar Pradesh,Manufacturing,39828893.71,493,9,36,0,1,4,0,Pre-Operation,Enterprise,Q2,UP Fire Service,20,23.0,1
+APP_SYN_1317,Uttar Pradesh,Textiles,8128932.53,28,5,20,0,0,1,1,Operation,MSME,Q3,Boilers Directorate,15,12.2,0
+APP_SYN_1318,Uttar Pradesh,Food Processing,27560681.69,327,6,24,2,1,2,0,Pre-Operation,Enterprise,Q4,CEIG,30,34.1,1
+APP_SYN_1319,Karnataka,Manufacturing,107295538.03,204,11,55,0,1,2,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,20,18.5,0
+APP_SYN_1320,Uttar Pradesh,Food Processing,23587119.3,341,5,25,0,1,5,0,Pre-Operation,Enterprise,Q4,UPPCB,20,21.9,1
+APP_SYN_1321,Uttar Pradesh,Food Processing,4349430.11,51,3,15,0,0,3,1,Pre-Establishment,MSME,Q2,Directorate of Factories,30,31.9,1
+APP_SYN_1322,Rajasthan,Food Processing,3376685.8,77,3,9,0,1,1,1,Pre-Establishment,MSME,Q1,FSSAI,30,27.1,0
+APP_SYN_1323,Gujarat,Chemicals,8151422.69,330,8,32,3,0,5,0,Operation,Enterprise,Q4,FSSAI,45,68.3,1
+APP_SYN_1324,Uttar Pradesh,Information Technology,88635765.24,292,8,24,4,0,5,3,Operation,Enterprise,Q1,Directorate of Factories,15,28.6,1
+APP_SYN_1325,Uttar Pradesh,Manufacturing,9006750.06,189,9,36,0,1,5,0,Pre-Establishment,Enterprise,Q1,Directorate of Factories,15,16.2,1
+APP_SYN_1326,Karnataka,Food Processing,3475616.98,81,2,8,4,0,2,0,Pre-Operation,MSME,Q2,Boilers Directorate,15,20.5,1
+APP_SYN_1327,Uttar Pradesh,Manufacturing,127214194.19,554,9,36,0,1,3,0,Pre-Establishment,Enterprise,Q4,Legal Metrology,20,19.7,0
+APP_SYN_1328,Uttar Pradesh,Textiles,932122.87,86,6,18,0,0,1,2,Pre-Operation,MSME,Q3,Legal Metrology,30,29.8,0
+APP_SYN_1329,Maharashtra,Food Processing,16106386.28,94,4,16,2,1,3,3,Pre-Operation,MSME,Q2,Directorate of Factories,20,32.8,1
+APP_SYN_1330,Uttar Pradesh,Textiles,5214612.72,71,2,6,0,0,1,0,Pre-Establishment,MSME,Q3,Directorate of Factories,20,19.0,0
+APP_SYN_1331,Karnataka,Pharmaceuticals,82579125.22,341,10,50,1,0,5,3,Pre-Operation,Enterprise,Q3,UP Fire Service,15,22.7,1
+APP_SYN_1332,Tamil Nadu,Textiles,932045.6,15,1,5,2,0,1,1,Pre-Establishment,Individual,Q3,Boilers Directorate,20,25.6,1
+APP_SYN_1333,Uttar Pradesh,Manufacturing,1383837.78,3,1,5,0,1,1,0,Pre-Establishment,Individual,Q4,FSSAI,30,25.2,0
+APP_SYN_1334,Uttar Pradesh,Manufacturing,21645540.57,38,6,30,0,0,3,2,Pre-Establishment,MSME,Q1,FSSAI,20,19.8,0
+APP_SYN_1335,Karnataka,Food Processing,12339799.74,6,4,12,2,0,1,2,Pre-Establishment,MSME,Q4,Directorate of Factories,20,20.9,1
+APP_SYN_1336,Uttar Pradesh,Food Processing,1840011.85,70,3,9,0,0,3,0,Operation,MSME,Q1,UP Fire Service,45,41.8,0
+APP_SYN_1337,Maharashtra,Information Technology,16857497.59,480,6,30,1,0,5,0,Pre-Establishment,Enterprise,Q1,FSSAI,15,17.7,1
+APP_SYN_1338,Gujarat,Manufacturing,1493435.83,17,2,6,4,1,1,0,Pre-Establishment,Individual,Q1,CEIG,30,45.4,1
+APP_SYN_1339,Uttar Pradesh,Textiles,2629521.58,75,4,20,1,0,2,0,Operation,MSME,Q1,Boilers Directorate,60,60.3,1
+APP_SYN_1340,Gujarat,Manufacturing,101811507.28,396,11,55,1,1,2,0,Pre-Establishment,Enterprise,Q3,Boilers Directorate,15,19.0,1
+APP_SYN_1341,Tamil Nadu,Manufacturing,6365120.7,65,3,15,0,0,2,2,Pre-Operation,MSME,Q2,Legal Metrology,15,15.7,1
+APP_SYN_1342,Uttar Pradesh,Food Processing,17294376.35,365,7,28,0,0,4,0,Pre-Establishment,Enterprise,Q3,Boilers Directorate,60,50.3,0
+APP_SYN_1343,Gujarat,Manufacturing,3456959.06,46,6,24,0,1,2,2,Pre-Establishment,MSME,Q3,Boilers Directorate,30,29.8,0
+APP_SYN_1344,Karnataka,Textiles,1220094.63,7,6,18,3,0,2,0,Operation,MSME,Q3,Directorate of Factories,30,38.3,1
+APP_SYN_1345,Uttar Pradesh,Manufacturing,1198554.71,15,1,5,1,1,1,0,Pre-Operation,Individual,Q3,UPPCB,30,32.4,1
+APP_SYN_1346,Maharashtra,Textiles,3578239.57,15,2,8,0,0,1,0,Pre-Operation,MSME,Q3,Boilers Directorate,30,24.0,0
+APP_SYN_1347,Gujarat,Information Technology,88574212.49,524,11,55,1,0,2,0,Pre-Establishment,Enterprise,Q3,Legal Metrology,20,18.7,0
+APP_SYN_1348,Tamil Nadu,Manufacturing,25469719.83,575,5,15,1,1,4,0,Pre-Operation,Enterprise,Q4,Legal Metrology,15,21.1,1
+APP_SYN_1349,Rajasthan,Manufacturing,54888127.3,204,8,40,0,1,5,1,Pre-Operation,Enterprise,Q1,FSSAI,15,19.1,1
+APP_SYN_1350,Gujarat,Manufacturing,9488078.37,22,6,18,4,1,3,3,Pre-Operation,MSME,Q1,UPPCB,20,36.8,1
+APP_SYN_1351,Uttar Pradesh,Manufacturing,9222157.96,40,6,30,2,0,3,2,Pre-Operation,MSME,Q3,UP Fire Service,30,44.1,1
+APP_SYN_1352,Karnataka,Food Processing,6024220.94,19,5,15,0,1,1,1,Pre-Operation,MSME,Q2,UPPCB,15,14.7,0
+APP_SYN_1353,Uttar Pradesh,Textiles,44403239.5,378,7,21,1,0,4,1,Pre-Operation,Enterprise,Q1,Boilers Directorate,15,17.3,1
+APP_SYN_1354,Uttar Pradesh,Food Processing,8762899.3,84,6,18,0,0,3,0,Pre-Establishment,MSME,Q3,Directorate of Factories,45,40.6,0
+APP_SYN_1355,Uttar Pradesh,Food Processing,3177730.05,52,3,15,0,1,3,0,Pre-Operation,MSME,Q3,FSSAI,30,32.8,1
+APP_SYN_1356,Tamil Nadu,Food Processing,10361973.09,59,5,15,2,1,2,2,Pre-Operation,MSME,Q1,Boilers Directorate,20,24.7,1
+APP_SYN_1357,Uttar Pradesh,Food Processing,1197084.19,10,2,10,0,0,1,3,Pre-Establishment,Individual,Q2,Legal Metrology,15,15.5,1
+APP_SYN_1358,Maharashtra,Food Processing,6809551.45,9,2,6,0,1,2,0,Pre-Establishment,MSME,Q1,FSSAI,20,19.2,0
+APP_SYN_1359,Gujarat,Information Technology,2562889.88,9,4,20,0,0,1,2,Pre-Operation,MSME,Q4,FSSAI,30,27.3,0
+APP_SYN_1360,Gujarat,Pharmaceuticals,11956117.36,8,3,9,0,0,3,1,Pre-Establishment,MSME,Q3,Boilers Directorate,15,15.3,1
+APP_SYN_1361,Uttar Pradesh,Food Processing,1936561.33,42,5,15,0,1,2,1,Pre-Operation,MSME,Q4,FSSAI,20,20.2,1
+APP_SYN_1362,Uttar Pradesh,Pharmaceuticals,51682579.53,592,7,21,0,0,4,1,Operation,Enterprise,Q3,UP Fire Service,20,24.7,1
+APP_SYN_1363,Maharashtra,Textiles,13057279.51,8,6,24,0,0,1,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,15.6,0
+APP_SYN_1364,Uttar Pradesh,Pharmaceuticals,102487745.58,102,7,28,2,1,3,0,Pre-Establishment,Enterprise,Q4,FSSAI,20,27.2,1
+APP_SYN_1365,Maharashtra,Information Technology,2946190.13,37,6,18,2,0,2,0,Operation,MSME,Q3,Directorate of Factories,15,15.5,1
+APP_SYN_1366,Uttar Pradesh,Food Processing,832327.97,9,2,10,1,0,1,0,Pre-Operation,Individual,Q4,Directorate of Factories,30,25.2,0
+APP_SYN_1367,Maharashtra,Information Technology,11902657.94,40,3,9,2,0,1,0,Operation,MSME,Q2,UP Fire Service,20,23.1,1
+APP_SYN_1368,Uttar Pradesh,Information Technology,3981964.49,7,6,30,0,0,2,0,Pre-Establishment,MSME,Q1,CEIG,15,13.7,0
+APP_SYN_1369,Gujarat,Chemicals,1693119.3,94,3,12,1,0,1,0,Pre-Operation,MSME,Q1,FSSAI,30,24.2,0
+APP_SYN_1370,Uttar Pradesh,Manufacturing,8652123.92,312,4,16,2,0,4,0,Pre-Establishment,Enterprise,Q4,Boilers Directorate,30,38.3,1
+APP_SYN_1371,Tamil Nadu,Textiles,9054599.89,51,4,12,1,0,1,0,Pre-Operation,MSME,Q1,FSSAI,20,20.1,1
+APP_SYN_1372,Tamil Nadu,Food Processing,2577628.99,56,5,25,0,0,2,0,Pre-Operation,MSME,Q2,Boilers Directorate,15,10.6,0
+APP_SYN_1373,Uttar Pradesh,Food Processing,71997655.7,318,7,28,0,1,4,0,Pre-Operation,Enterprise,Q3,Legal Metrology,20,23.5,1
+APP_SYN_1374,Uttar Pradesh,Food Processing,16438548.03,46,6,24,4,1,1,0,Pre-Establishment,MSME,Q2,Boilers Directorate,30,41.0,1
+APP_SYN_1375,Uttar Pradesh,Manufacturing,5046904.1,42,2,8,1,1,2,2,Pre-Establishment,MSME,Q4,UP Fire Service,30,44.4,1
+APP_SYN_1376,Karnataka,Chemicals,4264878.28,99,2,6,1,1,2,0,Pre-Establishment,MSME,Q4,Directorate of Factories,15,13.5,0
+APP_SYN_1377,Maharashtra,Textiles,18245479.13,63,4,12,1,1,3,0,Operation,MSME,Q1,Directorate of Factories,20,20.1,1
+APP_SYN_1378,Maharashtra,Pharmaceuticals,1260796.73,15,4,20,0,0,3,2,Pre-Operation,MSME,Q4,UPPCB,30,33.6,1
+APP_SYN_1379,Gujarat,Manufacturing,1817943.51,37,4,16,2,1,2,0,Operation,MSME,Q4,CEIG,30,33.1,1
+APP_SYN_1380,Rajasthan,Food Processing,4726185.43,39,3,9,0,1,3,0,Pre-Operation,MSME,Q1,Directorate of Factories,45,34.7,0
+APP_SYN_1381,Tamil Nadu,Manufacturing,16435800.18,10,2,8,0,0,2,0,Operation,MSME,Q3,UP Fire Service,30,20.3,0
+APP_SYN_1382,Uttar Pradesh,Food Processing,2339160.4,34,5,15,1,1,1,0,Pre-Establishment,MSME,Q2,Legal Metrology,20,18.2,0
+APP_SYN_1383,Maharashtra,Manufacturing,19346787.36,51,2,6,1,0,2,0,Pre-Operation,MSME,Q1,Boilers Directorate,30,25.6,0
+APP_SYN_1384,Uttar Pradesh,Textiles,13709359.85,18,6,30,0,0,2,3,Pre-Operation,MSME,Q1,Legal Metrology,30,35.0,1
+APP_SYN_1385,Uttar Pradesh,Manufacturing,14572716.5,513,6,30,0,1,3,0,Pre-Operation,Enterprise,Q2,UP Fire Service,15,17.0,1
+APP_SYN_1386,Maharashtra,Chemicals,1373020.24,41,2,6,0,0,1,0,Pre-Operation,MSME,Q1,Legal Metrology,15,11.7,0
+APP_SYN_1387,Maharashtra,Chemicals,3222863.09,9,2,6,0,1,2,1,Pre-Establishment,MSME,Q2,CEIG,20,19.5,0
+APP_SYN_1388,Gujarat,Information Technology,1857207.94,30,6,30,3,0,2,0,Operation,MSME,Q2,Boilers Directorate,30,32.6,1
+APP_SYN_1389,Uttar Pradesh,Pharmaceuticals,6405588.41,77,4,16,1,0,1,0,Pre-Establishment,MSME,Q3,CEIG,45,45.1,1
+APP_SYN_1390,Gujarat,Food Processing,14469674.2,73,4,20,0,0,3,0,Pre-Operation,MSME,Q4,UP Fire Service,30,28.3,0
+APP_SYN_1391,Maharashtra,Food Processing,3648451.57,73,6,18,0,1,2,0,Pre-Operation,MSME,Q1,Legal Metrology,30,28.6,0
+APP_SYN_1392,Tamil Nadu,Manufacturing,6930066.9,42,5,25,3,0,2,0,Pre-Operation,MSME,Q3,FSSAI,15,19.9,1
+APP_SYN_1393,Tamil Nadu,Textiles,1159331.97,7,2,10,4,0,1,1,Pre-Operation,Individual,Q2,Directorate of Factories,45,61.5,1
+APP_SYN_1394,Gujarat,Food Processing,2677129.67,59,4,20,0,1,3,0,Pre-Establishment,MSME,Q3,CEIG,30,25.9,0
+APP_SYN_1395,Rajasthan,Textiles,730417.3,5,1,5,1,0,1,0,Pre-Operation,Individual,Q3,Legal Metrology,20,21.1,1
+APP_SYN_1396,Uttar Pradesh,Food Processing,2997412.18,7,3,15,0,1,2,0,Pre-Establishment,MSME,Q3,Legal Metrology,60,57.5,0
+APP_SYN_1397,Gujarat,Manufacturing,3281425.74,29,5,25,0,1,1,2,Operation,MSME,Q2,Directorate of Factories,20,21.4,1
+APP_SYN_1398,Uttar Pradesh,Food Processing,1450399.81,16,4,20,4,0,2,0,Pre-Establishment,MSME,Q3,UP Fire Service,15,19.4,1
+APP_SYN_1399,Uttar Pradesh,Food Processing,7626726.75,93,3,15,3,0,3,0,Pre-Operation,MSME,Q2,FSSAI,45,51.7,1
+APP_SYN_1400,Uttar Pradesh,Chemicals,4045727.87,10,4,16,2,0,2,0,Operation,MSME,Q3,UPPCB,15,15.9,1
+APP_SYN_1401,Maharashtra,Information Technology,2890697.52,43,6,30,3,0,2,1,Pre-Operation,MSME,Q4,UPPCB,15,20.4,1
+APP_SYN_1402,Rajasthan,Chemicals,1766220.29,35,5,20,0,1,1,0,Operation,MSME,Q1,Boilers Directorate,30,25.5,0
+APP_SYN_1403,Gujarat,Food Processing,8115159.57,84,3,9,0,0,1,2,Pre-Operation,MSME,Q3,CEIG,20,20.3,1
+APP_SYN_1404,Karnataka,Food Processing,21887302.82,173,11,33,1,0,2,0,Pre-Establishment,Enterprise,Q4,FSSAI,45,49.6,1
+APP_SYN_1405,Tamil Nadu,Food Processing,2833313.57,17,4,12,1,1,2,0,Pre-Establishment,MSME,Q2,FSSAI,30,33.0,1
+APP_SYN_1406,Uttar Pradesh,Manufacturing,9618487.89,15,3,15,3,1,1,3,Pre-Establishment,MSME,Q3,CEIG,45,71.6,1
+APP_SYN_1407,Uttar Pradesh,Food Processing,9590705.91,26,3,9,0,1,1,1,Pre-Operation,MSME,Q2,UPPCB,15,12.4,0
+APP_SYN_1408,Gujarat,Manufacturing,5455112.16,83,3,12,0,1,1,0,Pre-Establishment,MSME,Q2,UP Fire Service,30,22.4,0
+APP_SYN_1409,Gujarat,Chemicals,69654326.16,577,5,20,3,0,4,1,Operation,Enterprise,Q3,CEIG,30,41.7,1
+APP_SYN_1410,Uttar Pradesh,Manufacturing,101697021.25,395,10,30,1,0,3,0,Pre-Operation,Enterprise,Q2,Directorate of Factories,60,55.2,0
+APP_SYN_1411,Karnataka,Food Processing,3157381.41,8,5,20,1,0,2,1,Pre-Operation,MSME,Q1,CEIG,30,44.0,1
+APP_SYN_1412,Uttar Pradesh,Manufacturing,4844535.6,30,2,8,2,1,2,0,Operation,MSME,Q2,Legal Metrology,30,34.5,1
+APP_SYN_1413,Rajasthan,Food Processing,34006889.94,489,6,30,0,0,4,2,Pre-Establishment,Enterprise,Q2,Legal Metrology,15,15.8,1
+APP_SYN_1414,Tamil Nadu,Manufacturing,3819581.96,14,2,6,0,1,1,3,Pre-Operation,MSME,Q1,Boilers Directorate,30,35.6,1
+APP_SYN_1415,Tamil Nadu,Information Technology,48657588.24,296,10,30,2,0,3,0,Pre-Operation,Enterprise,Q3,FSSAI,20,23.2,1
+APP_SYN_1416,Rajasthan,Pharmaceuticals,2314236.25,16,2,8,3,0,1,1,Pre-Establishment,Individual,Q2,CEIG,20,26.8,1
+APP_SYN_1417,Uttar Pradesh,Manufacturing,2485227.74,7,3,15,3,1,2,0,Pre-Operation,MSME,Q3,UP Fire Service,20,27.0,1
+APP_SYN_1418,Tamil Nadu,Manufacturing,5993269.79,51,6,30,2,1,3,0,Operation,MSME,Q2,CEIG,60,74.1,1
+APP_SYN_1419,Tamil Nadu,Manufacturing,734369.56,19,1,5,0,0,1,0,Pre-Operation,Individual,Q3,Directorate of Factories,20,17.1,0
+APP_SYN_1420,Karnataka,Manufacturing,7019471.38,74,5,20,2,0,1,0,Pre-Operation,MSME,Q2,FSSAI,15,16.5,1
+APP_SYN_1421,Karnataka,Pharmaceuticals,6834894.8,72,5,20,0,0,1,0,Pre-Establishment,MSME,Q4,Directorate of Factories,15,13.1,0
+APP_SYN_1422,Uttar Pradesh,Manufacturing,2389129.46,93,5,15,0,1,1,0,Pre-Establishment,MSME,Q1,UPPCB,20,15.4,0
+APP_SYN_1423,Karnataka,Pharmaceuticals,421776.0,19,2,6,0,0,1,2,Pre-Operation,Individual,Q2,UP Fire Service,30,30.3,1
+APP_SYN_1424,Rajasthan,Chemicals,6713367.12,53,3,9,0,1,3,2,Pre-Establishment,MSME,Q3,CEIG,20,24.0,1
+APP_SYN_1425,Uttar Pradesh,Chemicals,31482210.97,598,9,45,0,1,4,0,Pre-Operation,Enterprise,Q4,UP Fire Service,30,35.8,1
+APP_SYN_1426,Uttar Pradesh,Textiles,13030856.17,536,4,16,0,0,4,0,Pre-Establishment,Enterprise,Q1,Boilers Directorate,15,12.6,0
+APP_SYN_1427,Uttar Pradesh,Pharmaceuticals,1895947.7,84,3,15,0,0,2,0,Pre-Operation,MSME,Q1,Directorate of Factories,20,19.2,0
+APP_SYN_1428,Uttar Pradesh,Manufacturing,36745617.86,262,8,40,0,1,4,0,Operation,Enterprise,Q2,CEIG,45,48.1,1
+APP_SYN_1429,Tamil Nadu,Food Processing,4199465.43,23,4,16,2,0,2,0,Pre-Operation,MSME,Q2,UPPCB,15,15.5,1
+APP_SYN_1430,Uttar Pradesh,Pharmaceuticals,32954916.3,186,6,30,1,1,5,0,Pre-Establishment,Enterprise,Q2,CEIG,15,17.0,1
+APP_SYN_1431,Uttar Pradesh,Food Processing,181462197.33,200,11,44,0,1,5,0,Pre-Operation,Enterprise,Q1,UP Fire Service,20,18.6,0
+APP_SYN_1432,Uttar Pradesh,Manufacturing,10093571.11,7,4,16,2,0,2,0,Pre-Operation,MSME,Q2,Boilers Directorate,15,16.1,1
+APP_SYN_1433,Uttar Pradesh,Chemicals,44108777.06,537,9,27,0,0,3,1,Pre-Operation,Enterprise,Q2,UP Fire Service,20,20.3,1
+APP_SYN_1434,Gujarat,Food Processing,4052269.91,22,5,25,4,0,2,1,Pre-Operation,MSME,Q3,Directorate of Factories,30,42.2,1
+APP_SYN_1435,Uttar Pradesh,Manufacturing,6663407.6,76,4,16,0,0,1,0,Operation,MSME,Q3,UPPCB,30,21.3,0
+APP_SYN_1436,Maharashtra,Food Processing,21315192.0,469,6,18,2,1,3,1,Pre-Establishment,Enterprise,Q2,FSSAI,30,39.2,1
+APP_SYN_1437,Gujarat,Manufacturing,12965999.05,70,3,9,0,1,1,0,Pre-Establishment,MSME,Q2,UP Fire Service,20,11.5,0
+APP_SYN_1438,Tamil Nadu,Manufacturing,15779490.29,15,4,16,2,0,3,1,Pre-Establishment,MSME,Q2,UPPCB,20,23.9,1
+APP_SYN_1439,Uttar Pradesh,Manufacturing,7295578.61,84,5,25,0,1,2,1,Pre-Establishment,MSME,Q4,FSSAI,15,16.3,1
+APP_SYN_1440,Gujarat,Manufacturing,164289509.2,286,9,27,0,1,5,0,Operation,Enterprise,Q1,FSSAI,20,20.2,1
+APP_SYN_1441,Tamil Nadu,Textiles,5705404.76,15,2,10,2,0,2,3,Operation,MSME,Q4,UPPCB,60,87.0,1
+APP_SYN_1442,Tamil Nadu,Manufacturing,4058232.31,42,4,20,0,0,1,1,Pre-Establishment,MSME,Q2,FSSAI,30,20.5,0
+APP_SYN_1443,Uttar Pradesh,Information Technology,2833930.66,22,5,20,0,0,2,0,Pre-Establishment,MSME,Q2,UP Fire Service,30,31.7,1
+APP_SYN_1444,Uttar Pradesh,Food Processing,8380324.91,63,5,15,0,0,1,1,Pre-Establishment,MSME,Q4,UP Fire Service,15,12.8,0
+APP_SYN_1445,Uttar Pradesh,Manufacturing,38743723.28,165,11,44,0,0,2,0,Operation,Enterprise,Q4,UP Fire Service,20,21.9,1
+APP_SYN_1446,Tamil Nadu,Food Processing,109967035.3,325,5,15,0,0,3,0,Pre-Establishment,Enterprise,Q1,UPPCB,20,17.0,0
+APP_SYN_1447,Rajasthan,Information Technology,2627436.03,39,6,24,2,0,3,0,Operation,MSME,Q4,UP Fire Service,20,27.8,1
+APP_SYN_1448,Tamil Nadu,Manufacturing,5182000.94,27,3,12,1,1,3,0,Pre-Establishment,MSME,Q1,FSSAI,15,17.1,1
+APP_SYN_1449,Tamil Nadu,Information Technology,2032795.56,3,2,10,0,0,1,0,Operation,Individual,Q1,CEIG,30,23.0,0
+APP_SYN_1450,Tamil Nadu,Chemicals,147824188.83,144,8,40,0,1,4,0,Pre-Establishment,Enterprise,Q2,UPPCB,20,20.5,1
+APP_SYN_1451,Karnataka,Chemicals,8285461.19,13,4,12,0,0,3,0,Pre-Operation,MSME,Q1,Legal Metrology,15,11.5,0
+APP_SYN_1452,Maharashtra,Information Technology,2334089.94,79,5,20,0,0,1,0,Pre-Operation,MSME,Q1,FSSAI,15,11.5,0
+APP_SYN_1453,Maharashtra,Manufacturing,2367835.86,1,2,6,3,1,1,3,Pre-Operation,Individual,Q1,FSSAI,30,47.6,1
+APP_SYN_1454,Uttar Pradesh,Food Processing,977357.53,2,1,4,1,1,1,1,Pre-Operation,Individual,Q3,Boilers Directorate,20,24.3,1
+APP_SYN_1455,Maharashtra,Pharmaceuticals,2571933.53,12,4,20,2,0,1,2,Pre-Operation,MSME,Q2,Boilers Directorate,20,24.1,1
+APP_SYN_1456,Rajasthan,Food Processing,70960197.58,251,7,35,0,0,5,0,Pre-Establishment,Enterprise,Q4,Legal Metrology,20,21.4,1
+APP_SYN_1457,Uttar Pradesh,Food Processing,16808504.84,315,4,12,2,1,2,0,Pre-Establishment,Enterprise,Q2,CEIG,30,33.7,1
+APP_SYN_1458,Maharashtra,Food Processing,410819.24,10,2,10,0,0,1,2,Pre-Operation,Individual,Q4,FSSAI,30,33.2,1
+APP_SYN_1459,Gujarat,Food Processing,22505306.85,40,3,15,0,1,3,1,Pre-Establishment,MSME,Q2,FSSAI,15,15.3,1
+APP_SYN_1460,Maharashtra,Chemicals,64388014.48,321,4,16,3,0,4,1,Pre-Establishment,Enterprise,Q1,Boilers Directorate,30,46.5,1
+APP_SYN_1461,Maharashtra,Pharmaceuticals,330438.53,86,2,10,0,0,2,0,Pre-Establishment,MSME,Q1,CEIG,20,13.1,0
+APP_SYN_1462,Uttar Pradesh,Textiles,36236805.82,88,3,15,1,1,1,2,Pre-Operation,MSME,Q1,Directorate of Factories,20,24.1,1
+APP_SYN_1463,Rajasthan,Textiles,14211516.89,77,3,15,3,0,2,1,Pre-Establishment,MSME,Q3,Legal Metrology,45,57.9,1
+APP_SYN_1464,Tamil Nadu,Food Processing,17272850.7,148,8,24,4,0,3,2,Pre-Establishment,Enterprise,Q4,Boilers Directorate,20,37.7,1
+APP_SYN_1465,Tamil Nadu,Food Processing,799072.41,15,1,3,0,1,1,1,Pre-Operation,Individual,Q4,UPPCB,15,15.5,1
+APP_SYN_1466,Uttar Pradesh,Manufacturing,514717.62,13,2,6,0,0,1,2,Pre-Establishment,Individual,Q1,UP Fire Service,15,12.4,0
+APP_SYN_1467,Uttar Pradesh,Information Technology,43000908.46,459,6,18,0,1,2,0,Pre-Establishment,Enterprise,Q3,Legal Metrology,15,14.8,0
+APP_SYN_1468,Uttar Pradesh,Chemicals,15920640.65,92,8,24,0,1,4,1,Operation,Enterprise,Q4,Boilers Directorate,30,38.5,1
+APP_SYN_1469,Gujarat,Manufacturing,764924.57,11,2,8,0,1,1,0,Pre-Establishment,Individual,Q4,Legal Metrology,30,23.6,0
+APP_SYN_1470,Tamil Nadu,Pharmaceuticals,7101334.44,53,4,20,1,1,3,1,Pre-Operation,MSME,Q1,Legal Metrology,30,37.1,1
+APP_SYN_1471,Gujarat,Textiles,2561499.52,10,1,4,1,0,1,3,Pre-Establishment,Individual,Q2,CEIG,30,34.7,1
+APP_SYN_1472,Tamil Nadu,Food Processing,40233041.37,471,9,36,1,1,3,1,Pre-Establishment,Enterprise,Q4,FSSAI,20,27.6,1
+APP_SYN_1473,Rajasthan,Textiles,741863.7,19,1,4,1,0,1,0,Pre-Establishment,Individual,Q2,Legal Metrology,20,16.7,0
+APP_SYN_1474,Uttar Pradesh,Food Processing,5024082.05,18,3,12,1,0,1,0,Pre-Establishment,MSME,Q4,Legal Metrology,15,16.9,1
+APP_SYN_1475,Karnataka,Food Processing,17539694.81,62,6,30,1,1,1,0,Pre-Operation,MSME,Q2,UP Fire Service,15,15.3,1
+APP_SYN_1476,Uttar Pradesh,Manufacturing,5128235.42,599,7,21,1,1,5,0,Pre-Establishment,Enterprise,Q2,UPPCB,15,15.3,1
+APP_SYN_1477,Tamil Nadu,Pharmaceuticals,3959999.84,25,3,15,0,0,1,0,Pre-Establishment,MSME,Q3,Directorate of Factories,20,14.4,0
+APP_SYN_1478,Uttar Pradesh,Chemicals,55378098.25,361,10,50,0,0,4,2,Pre-Establishment,Enterprise,Q2,Directorate of Factories,15,18.0,1
+APP_SYN_1479,Gujarat,Manufacturing,4020863.1,17,5,15,1,1,2,0,Operation,MSME,Q3,Legal Metrology,20,21.6,1
+APP_SYN_1480,Gujarat,Food Processing,8733327.57,77,6,18,0,1,1,1,Pre-Establishment,MSME,Q4,FSSAI,45,53.0,1
+APP_SYN_1481,Gujarat,Food Processing,6109804.88,97,6,24,0,0,2,0,Pre-Operation,MSME,Q1,Boilers Directorate,30,27.4,0
+APP_SYN_1482,Karnataka,Manufacturing,94157570.04,132,5,15,0,1,5,0,Pre-Establishment,Enterprise,Q2,FSSAI,15,16.2,1
+APP_SYN_1483,Gujarat,Textiles,1978842.83,88,4,16,1,0,1,0,Pre-Establishment,MSME,Q3,UPPCB,20,19.0,0
+APP_SYN_1484,Karnataka,Chemicals,9347580.4,73,4,20,1,1,1,0,Pre-Operation,MSME,Q2,Directorate of Factories,60,53.8,0
+APP_SYN_1485,Gujarat,Food Processing,48865511.34,595,9,27,0,1,4,3,Pre-Establishment,Enterprise,Q4,UP Fire Service,20,26.4,1
+APP_SYN_1486,Gujarat,Pharmaceuticals,354699114.49,297,4,12,0,0,4,0,Pre-Operation,Enterprise,Q1,Directorate of Factories,30,31.1,1
+APP_SYN_1487,Uttar Pradesh,Manufacturing,6553852.22,76,3,9,0,0,2,2,Pre-Establishment,MSME,Q2,UPPCB,20,21.7,1
+APP_SYN_1488,Tamil Nadu,Manufacturing,121160487.9,144,11,55,4,1,4,1,Operation,Enterprise,Q4,Boilers Directorate,20,35.9,1
+APP_SYN_1489,Rajasthan,Textiles,1350805.32,12,1,5,0,0,1,2,Pre-Operation,Individual,Q2,Boilers Directorate,30,24.3,0
+APP_SYN_1490,Uttar Pradesh,Food Processing,37197308.03,447,11,33,2,1,5,0,Pre-Operation,Enterprise,Q4,Directorate of Factories,30,42.9,1
+APP_SYN_1491,Rajasthan,Pharmaceuticals,7679384.38,45,2,6,0,0,1,1,Operation,MSME,Q4,FSSAI,20,19.3,0
+APP_SYN_1492,Uttar Pradesh,Textiles,18767818.92,159,10,30,0,0,2,3,Pre-Operation,Enterprise,Q2,UP Fire Service,45,43.6,0
+APP_SYN_1493,Uttar Pradesh,Food Processing,43921144.57,475,10,50,0,1,2,1,Pre-Establishment,Enterprise,Q2,Directorate of Factories,15,14.1,0
+APP_SYN_1494,Tamil Nadu,Manufacturing,58114467.05,126,7,35,1,1,3,0,Pre-Operation,Enterprise,Q1,Boilers Directorate,20,21.8,1
+APP_SYN_1495,Uttar Pradesh,Manufacturing,9083571.74,94,2,10,0,1,2,0,Operation,MSME,Q3,Directorate of Factories,20,20.6,1
+APP_SYN_1496,Uttar Pradesh,Chemicals,5889936.88,18,2,6,2,0,2,0,Pre-Establishment,MSME,Q1,Directorate of Factories,45,35.9,0
+APP_SYN_1497,Karnataka,Manufacturing,2784164.78,8,2,8,1,0,1,0,Operation,Individual,Q2,UP Fire Service,20,18.4,0
+APP_SYN_1498,Uttar Pradesh,Information Technology,5509966.39,81,6,24,1,0,3,1,Pre-Operation,MSME,Q3,CEIG,30,38.5,1
+APP_SYN_1499,Uttar Pradesh,Food Processing,30459669.99,57,2,8,4,1,2,0,Pre-Operation,MSME,Q1,Legal Metrology,15,23.9,1
+APP_SYN_1500,Gujarat,Information Technology,3325896.21,94,3,9,1,0,3,0,Pre-Establishment,MSME,Q4,Boilers Directorate,45,53.7,1

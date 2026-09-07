@@ -50,8 +50,10 @@ yarn-error.log*
 *.sqlite3
 *.db
 backend/app.db
-data/
+/data/
 uploads/
+!frontend/data/
+!frontend/data/**
 
 # Environment files
 .env
